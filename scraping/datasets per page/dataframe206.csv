@@ -1,0 +1,32 @@
+address,district,neighbourhood,sqft_surface,bedrooms,bathrooms,new_construction,price
+Piso en Benimaclet,Benimaclet ,Benimaclet,115,4,2,None,290.000
+"Piso en Avenida Dr Manuel Candela, nº 56",Ciutat Jardí ,Algirós,114,3,1,None,220.000
+"Piso en Santa Catalina, Junto A Plaza de La Reina.",El Mercat ,Ciutat Vella,117,2,2,None,420.000
+Piso en Gran Via,Gran Via ,L'Eixample,90,3,2,None,300.000
+Casa adosada en El Perellonet,El Perellonet ,Pobles del Sud,180,4,3,None,295.000
+Piso en Avinguda de Jacinto Benavente,Gran Via ,L'Eixample,300,7,4,None,480.000
+Piso en Ciutat Jardí,Beteró ,Poblats Marítims,105,3,2,None,295.000
+Apartamento en Leixample,La Roqueta ,Extramurs,134,4,2,None,450.000
+"Piso en Carrer de Maties Perelló, cerca de Calle Duque de Calabria",Russafa ,L'Eixample,129,5,2,None,343.000
+Piso en L'illa Perduda,Aiora ,Camins al Grau,4,2,2,None,229.000
+Piso en Mestalla,Mestalla ,El Pla del Real,110,2,2,None,240.000
+Ático en Russafa,Russafa ,L'Eixample,67,2,1,None,235.000
+"Apartamento en Carrer de l'Alcalde Reig, nº 5",Montolivet ,Quatre Carreres,180,4,2,None,425.000
+Casa en Sant Llorenç,Sant Llorenç ,Rascanya,698,5,3,None,480.000
+"Piso en Carrer de San Vicente Mártir, cerca de Calle de En Sanz",Sant Francesc ,Ciutat Vella,141,4,1,None,350.000
+"Casa en Camino de las Casas de Bárcena, nº 28",Cases de Bàrcena ,Pobles del Nord,None,1,"467
+ €/m²",None,400.000
+Piso en Carrer de Filipines,Russafa ,L'Eixample,160,4,2,None,308.000
+Piso en Avenida de Francia,Penya-roja ,Camins al Grau,130,3,2,None,355.000
+"Piso en Carrer de San Vicente Mártir, cerca de Calle de En Sanz",El Mercat ,Ciutat Vella,109,3,2,None,230.000
+"Piso en Carrer de Luis de Santángel, 28",Russafa ,L'Eixample,110,2,1,None,235.000
+Piso en Carrer del Doctor Calatayud Baya,Campanar ,Campanar,150,4,2,None,230.000
+Piso en Russafa,Russafa ,L'Eixample,146,4,2,None,240.000
+Piso en Malilla,Malilla ,Quatre Carreres,155,4,2,None,240.000
+Piso en Valencia,Russafa ,L'Eixample,163,4,2,None,340.000
+"Piso en Carrer de Cuba, nº 55",Russafa ,L'Eixample,91,3,1,None,240.000
+Piso en Aiora,Aiora ,Camins al Grau,122,4,2,None,210.000
+Casa adosada en El Perellonet,El Saler ,Pobles del Sud,180,5,3,None,320.000
+Casa en La Malva-Rosa,La Malva-rosa ,Poblats Marítims,109,3,2,None,329.000
+"Apartamento en Carrer del Mestre Racional, 12",Gran Via ,L'Eixample,134,4,2,None,450.000
+Piso en Carrer del Doctor Ferran,Mestalla ,El Pla del Real,212,5,3,None,502.016

@@ -1,0 +1,31 @@
+address,district,neighbourhood,sqft_surface,bedrooms,bathrooms,new_construction,price
+Piso en El Grau,El Grau ,Poblats Marítims,64,3,1,None,81.000
+"Piso en calle de Sollana, nº 24",Na Rovella ,Quatre Carreres,90,3,1,None,89.900
+"Piso en calle de Menorca, cerca de Avinguda de les Balears",El Grau ,Poblats Marítims,62,2,1,None,87.000
+Piso en Marxalenes,Marxalenes ,La Saïdia,71,3,1,None,113.000
+Piso en calle de Benicarló,Morvedre ,La Saïdia,75,3,1,None,116.000
+Piso en La Malvarrosa,La Malva-rosa ,Poblats Marítims,75,3,1,None,109.000
+"Piso en Avinguda de la Malva-rosa, cerca de Calle de Antonio Ponz",La Malva-rosa ,Poblats Marítims,70,2,1,None,100.000
+Piso en V-Brasil/Pechina,Nou Moles ,L'Olivereta,77,2,1,None,77.000
+Piso en Tres Forques,Tres Forques ,L'Olivereta,85,3,1,None,115.000
+Piso en calle de la Alquería de la Estrella,Marxalenes ,La Saïdia,70,3,1,None,128.000
+Ático en Marxalenes,Marxalenes ,La Saïdia,62,2,1,None,88.000
+Piso en Orriols,Orriols ,Rascanya,110,3,1,None,117.000
+Piso en Orriols,Orriols ,Rascanya,75,2,1,None,65.000
+Piso en Aiora,Aiora ,Camins al Grau,75,2,1,None,87.000
+Piso en Benimàmet,Benimàmet ,Pobles de l'Oest,117,3,2,None,79.900
+Piso en La Fontsanta-Tres Forques,Tres Forques ,L'Olivereta,85,2,2,None,93.000
+Piso en Torrefiel,Torrefiel ,Rascanya,85,3,1,None,69.500
+Piso en Benimàmet,Benimàmet ,Pobles de l'Oest,143,4,2,None,120.000
+"Piso en Avenida de Gaspar Aguilar, 10, cerca de Calle de Matheu y Sanz",Patraix ,Patraix,100,4,1,None,99.000
+Piso en La Llum,Nou Moles ,L'Olivereta,95,3,1,None,102.000
+Piso en calle de Archena,Soternes ,L'Olivereta,71,3,1,None,86.000
+"Piso en calle del Maestro Buenaventura Pascual, nº 10",Benimaclet ,Benimaclet,77,3,1,None,104.900
+"Piso en calle del Pintor Ferrandis, 13",Beteró ,Poblats Marítims,65,2,1,None,130.000
+Piso en calle de Ángel Villena,Ciutat de les Arts i de les Ciències ,Quatre Carreres,110,3,2,None,129.000
+Piso en calle de la Alquería de la Estrella,Marxalenes ,La Saïdia,74,2,1,None,98.000
+Piso en Sant Antoni,Sant Antoni ,La Saïdia,111,4,1,None,109.000
+Piso en calle de Conchita Piquer,El Calvari ,Campanar,55,2,1,None,73.000
+"Piso en Avinguda de Burjasot, 75, cerca de Calle del Doctor Nicasio Benlloch",Les Tendetes ,Campanar,68,3,1,None,92.000
+Piso en Nazaret,Natzaret ,Poblats Marítims,59,2,1,None,120.000
+"Piso en Avinguda del CID, cerca de Plaça de Pere Maria Orts I Bosch 'Historiador'",Soternes ,L'Olivereta,100,3,1,None,104.000

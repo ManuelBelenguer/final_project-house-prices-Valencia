@@ -1,0 +1,31 @@
+address,district,neighbourhood,sqft_surface,bedrooms,bathrooms,new_construction,price
+Piso en calle Marino Pedro Andreu,L'Hort de Senabre ,Jesús,92,3,1,None,123.000
+Piso en calle de San Rafael,La Malva-rosa ,Poblats Marítims,55,3,1,None,47.500
+Piso en calle del Álamo,Benicalap ,Benicalap,41,2,1,None,48.000
+Casa en Tres Forques,Nou Moles ,L'Olivereta,86,3,1,None,94.900
+Piso en Nou Moles,Nou Moles ,L'Olivereta,90,2,1,None,130.000
+Apartamento en Lolivereta,Sant Pau ,Campanar,100,4,1,None,125.000
+Piso en Campanar,El Calvari ,Campanar,81,2,1,None,71.500
+Piso en Favara,Favara ,Patraix,90,3,1,None,95.000
+Piso en calle del Alcalde Albors,Nou Moles ,L'Olivereta,87,3,1,None,85.000
+Piso en Sant Isidre,Sant Isidre ,Patraix,102,3,1,None,101.000
+Piso en calle Pedro Patricio Mey,Torrefiel ,Rascanya,65,3,1,None,67.000
+Piso en El Calvari,El Calvari ,Campanar,56,3,1,None,60.000
+Piso en Benimaclet,Benimaclet ,Benimaclet,75,3,1,None,79.900
+"Piso en calle San Juan de La Peña, nº 26",Orriols ,Rascanya,79,3,1,None,71.000
+Piso en Torrefiel,Torrefiel ,Rascanya,61,3,1,None,55.000
+Piso en San Marcelino- Rambleta,Sant Marcel·lí ,Jesús,103,4,1,None,117.000
+Piso en San Marcelino,Sant Marcel·lí ,Jesús,71,3,1,None,54.000
+Apartamento en calle de San Jacinto Castañeda,Montolivet ,Quatre Carreres,71,3,1,None,79.000
+Piso en calle del Reverendo José Noguera,Sant Marcel·lí ,Jesús,100,4,1,None,110.000
+"Piso en Camino Viejo de Chirivella, nº 9",Faitanar ,Pobles del Sud,3,1,1,None,69.500
+Piso en Benicalap,Benicalap ,Benicalap,70,2,1,None,48.000
+Piso en La Fuensanta,Vara de Quart ,Patraix,73,2,1,None,58.000
+Apartamento en El Perellonet,El Perellonet ,Pobles del Sud,2,2,2,None,99.000
+"Piso en calle de Francisco Moreno Usedo, 25",Nou Moles ,L'Olivereta,122,4,1,None,84.000
+Apartamento en Quatre Carreres,Na Rovella ,Quatre Carreres,105,3,2,None,129.000
+"Piso en calle San Vicente de Pau, nº 15",Sant Llorenç ,Rascanya,80,3,1,None,73.500
+"Piso en Carrer del Vaixell, nº 8",Sant Francesc ,Ciutat Vella,78,3,2,None,101.500
+Piso en Carrer del Periodista Gil Sumbiela,Benicalap ,Benicalap,102,3,1,None,125.000
+"Piso en Avinguda del CID, cerca de Calle de los Jurados",Nou Moles ,L'Olivereta,98,3,2,None,118.900
+Piso en calle de Ángel Villena,Na Rovella ,Quatre Carreres,105,3,2,None,129.000

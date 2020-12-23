@@ -1,0 +1,31 @@
+address,district,neighbourhood,sqft_surface,bedrooms,bathrooms,new_construction,price
+"Ático en calle Joaquín Benlloch,  s/n",Malilla ,Quatre Carreres,158,4,3,Obra nueva,327.000
+"Piso en Avenida Fernando Abril Martorell,  s/n",Malilla ,Quatre Carreres,120,4,2,Obra nueva,242.000
+"Ático en Carrer de Gibraltar,  15",Russafa ,L'Eixample,110,3,2,Obra nueva,479.000
+"Piso en Avenida Antonio Ferrandis,  S/N",Ciutat de les Arts i de les Ciències ,Quatre Carreres,127,3,2,Obra nueva,351.000
+"Piso en Avinguda de Pérez Galdós, 33",Patraix ,Patraix,94,2,2,Obra nueva,235.000
+"Ático en calle de San Roque,  2",Benicalap ,Benicalap,67,2,1,Obra nueva,250.000
+"Ático en Avenida de José Roca Coll,  S/N",Safranar ,Patraix,117,3,2,Obra nueva,306.000
+"Piso en Avenida Fernando Abril Martorell,  s/n",Malilla ,Quatre Carreres,131,3,2,Obra nueva,407.800
+"Piso en Carrer de Gibraltar,  15",Russafa ,L'Eixample,66,2,2,Obra nueva,237.000
+"Piso en Avenida Fernando Abril Martorell,  s/n",Malilla ,Quatre Carreres,112,3,2,Obra nueva,247.000
+"Piso en Avenida Antonio Ferrandis,  S/N",Ciutat de les Arts i de les Ciències ,Quatre Carreres,122,3,2,Obra nueva,326.000
+"Piso en Avenida de las Tres Cruces,  131",Sant Isidre ,Patraix,160,4,2,Obra nueva,265.500
+"Ático en calle de Vicente Brull,  3, 5 y 7",El Grau ,Poblats Marítims,125,2,2,Obra nueva,284.800
+"Ático en calle Ernest Anastasio,  7-9",El Grau ,Poblats Marítims,96,1,1,Obra nueva,256.000
+Apartamento en Carrer de les Arts Gràfiques,Exposició ,El Pla del Real,180,4,2,None,310.000
+"Piso en Carrer Josep AlmInyana I Vallés,  6",Sant Pau ,Campanar,129,3,2,Obra nueva,287.000
+"Ático en Avinguda de Pérez Galdós, 33",Patraix ,Patraix,112,3,2,Obra nueva,450.000
+"Piso en calle del Camp del Túria, 30",Sant Pau ,Campanar,120,2,2,Obra nueva,290.000
+"Ático en calle de Vicente Brull,  3, 5 y 7",El Grau ,Poblats Marítims,120,2,2,Obra nueva,282.800
+Piso en calle de Caballeros,La Seu ,Ciutat Vella,112,3,1,None,330.000
+Apartamento en Plaza del Ayuntamiento,El Mercat ,Ciutat Vella,116,3,2,None,450.000
+Piso en Avinguda de Jacinto Benavente,Gran Via ,L'Eixample,158,5,2,None,465.000
+"Piso en Avenida de Aragón, nº 29",Mestalla ,El Pla del Real,156,3,2,None,276.000
+Apartamento en calle de la Costera,Beniferri ,Pobles de l'Oest,140,3,2,None,275.000
+Apartamento en Centro de La Ciudad,Sant Pau ,Campanar,120,3,2,None,349.000
+Piso en València,El Pla del Remei ,L'Eixample,130,4,2,None,350.000
+Piso en Avinguda de Catalunya,La Carrasca ,Algirós,123,3,2,None,275.000
+"Apartamento en calle de la Reina, cerca de Calle del Doctor Lluch",El Cabanyal-El Canyamelar ,Poblats Marítims,107,3,2,None,270.000
+"Piso en Carrer de San Vicente Mártir, cerca de Calle de En Sanz",El Mercat ,Ciutat Vella,119,3,2,None,245.000
+"Apartamento en Avinguda del General Avilés, cerca de Carrer Francesc Llosa i Viguer",Sant Pau ,Campanar,178,4,3,None,290.000

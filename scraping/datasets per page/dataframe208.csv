@@ -1,0 +1,31 @@
+address,district,neighbourhood,sqft_surface,bedrooms,bathrooms,new_construction,price
+Apartamento en Campanar,Campanar ,Campanar,138,4,2,None,215.000
+Apartamento en Benicalap,Sant Pau ,Campanar,110,3,2,None,275.000
+"Piso en Carrer de Gibraltar,  15",Russafa ,L'Eixample,66,2,2,Obra nueva,240.000
+Piso en Soternes,Soternes ,L'Olivereta,128,3,4,None,215.000
+Piso en Carrer d'Eivissa,La Creu del Grau ,Camins al Grau,147,3,2,None,290.000
+"Piso en Carrer dels Roters, nº 9",El Carme ,Ciutat Vella,111,4,1,None,249.900
+"Apartamento en Gran Vía del Marqués del Turia, nº 52",Gran Via ,L'Eixample,185,6,2,None,525.000
+"Piso en Carrer de Gibraltar, 15",Russafa ,L'Eixample,66,2,2,None,234.000
+Piso en calle del Marqués de Zenete,Arrancapins ,Extramurs,83,2,1,None,226.990
+Apartamento en Extramurs,La Petxina ,Extramurs,120,3,2,None,265.000
+Piso en La Raiosa,La Raiosa ,Jesús,136,3,3,None,226.000
+Piso en El Grau,El Grau ,Poblats Marítims,103,3,2,Obra nueva,228.000
+Chalet en calle Las Palomas,Orriols ,Rascanya,163,4,3,None,326.500
+Piso en El Pilar,El Pilar ,Ciutat Vella,113,3,2,None,279.900
+Piso en Avenida Giorgeta,Arrancapins ,Extramurs,150,4,2,None,265.000
+Piso en Gran Via,Gran Via ,L'Eixample,66,2,1,None,280.000
+Piso en Puerto,El Grau ,Poblats Marítims,110,3,2,None,300.000
+Piso en Russafa,Russafa ,L'Eixample,125,3,2,None,285.000
+Casa adosada en Fonteta de Sant Lluís,Fonteta de Sant Lluís ,Quatre Carreres,236,4,3,Obra nueva,415.000
+Piso en Mestalla,Mestalla ,El Pla del Real,144,4,2,None,400.000
+Piso en calle Federico Alcacer Aguilar,Benicalap ,Benicalap,103,3,2,None,265.000
+Piso en Carrer de Carolina Álvarez,Penya-roja ,Camins al Grau,111,3,2,None,240.000
+"Apartamento en Carrer de Jaume Roig, nº 26",Jaume Roig ,El Pla del Real,299,6,3,None,465.000
+"Ático en Ruzafa, Próximo A Gran Vía Germanías.",Russafa ,L'Eixample,100,2,1,None,325.000
+"Piso en Campanar, Próximo Al  Bioparc",Sant Pau ,Campanar,120,3,2,None,325.000
+Piso en El Pilar,El Pilar ,Ciutat Vella,122,3,2,None,279.900
+Piso en calle de Luis García Berlanga,Penya-roja ,Camins al Grau,116,3,2,None,360.000
+Casa en calle Llebeig,El Perellonet ,Pobles del Sud,191,4,2,None,275.000
+Piso en Avenida de Aragón,Mestalla ,El Pla del Real,152,3,2,None,400.000
+Piso en Avinguda de Joan XXIII,Benicalap ,Benicalap,102,3,2,None,225.000

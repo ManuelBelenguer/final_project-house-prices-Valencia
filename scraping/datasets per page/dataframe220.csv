@@ -1,0 +1,32 @@
+address,district,neighbourhood,sqft_surface,bedrooms,bathrooms,new_construction,price
+"Apartamento en Avenida de las Gaviotas, nº 139",El Perellonet ,Pobles del Sud,116,3,2,None,320.000
+Ático en Extramurs,La Roqueta ,Extramurs,182,3,3,None,430.000
+Piso en La Seu,La Seu ,Ciutat Vella,120,6,1,None,309.000
+Piso en Sant Llorenç,Sant Francesc ,Ciutat Vella,3,2,2,None,321.000
+Casa adosada en Sant Llorenç,Sant Llorenç ,Rascanya,217,4,3,None,455.000
+Ático en calle Taula de Canvis,El Mercat ,Ciutat Vella,139,6,2,None,325.000
+Apartamento en El Palmar,El Palmar ,Pobles del Sud,2,2,2,None,225.000
+Piso en V-Av.Cid,Tres Forques ,L'Olivereta,101,3,2,None,229.000
+Ático en Nou Moles,Nou Moles ,L'Olivereta,200,3,2,None,369.000
+Piso en Beteró,Beteró ,Poblats Marítims,106,3,2,None,230.000
+"Piso en Avenida del Puerto, cerca de Carrer de l' Actor Llorens",Albors ,Camins al Grau,150,4,2,None,306.000
+"Piso en Carrer de Jesús, cerca de Avinguda de Pérez Galdós",Arrancapins ,Extramurs,117,4,2,None,275.000
+Piso en Russafa,Russafa ,L'Eixample,125,4,1,None,340.000
+Piso en El Pla del Remei,El Pla del Remei ,L'Eixample,142,4,2,None,425.000
+Piso en Mestalla,Mestalla ,El Pla del Real,188,4,3,None,515.000
+Piso en La Seu,La Seu ,Ciutat Vella,102,2,2,None,430.000
+Piso en Patraix,Patraix ,Patraix,101,3,2,None,239.000
+Piso en Ciutat Jardí,Ciutat Jardí ,Algirós,126,2,2,None,280.000
+"Casa adosada en Carrer de Cavite, cerca de Calle de Isabel de Villena",La Malva-rosa ,Poblats Marítims,300,4,3,None,520.000
+"Piso en Carrer del Poeta Carles Salvador, 12",Benimaclet ,Benimaclet,255,1,1,None,321.500
+Piso en Nou Benicalap,Benicalap ,Benicalap,100,3,2,None,262.000
+Piso en Montolivet,Montolivet ,Quatre Carreres,202,5,3,None,370.000
+Piso en La Petxina,La Petxina ,Extramurs,151,5,2,None,264.000
+Piso en Russafa,Russafa ,L'Eixample,148,4,2,None,295.000
+Piso en El Carme,El Carme ,Ciutat Vella,2,1,1,None,268.000
+Ático en Arrancapins,Arrancapins ,Extramurs,110,4,2,None,400.000
+Piso en Carrer de l'Explorador Andrés,Ciutat Jardí ,Algirós,None,2,"1.938
+ €/m²",None,219.000
+Ático en calle Suiza,La Punta ,Quatre Carreres,128,3,2,None,375.000
+Piso en Arrancapins,Arrancapins ,Extramurs,5,2,2,None,290.000
+Apartamento en Extramurs,Arrancapins ,Extramurs,141,6,1,None,212.500

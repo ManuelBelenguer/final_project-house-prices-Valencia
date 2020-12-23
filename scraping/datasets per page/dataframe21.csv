@@ -1,0 +1,31 @@
+address,district,neighbourhood,sqft_surface,bedrooms,bathrooms,new_construction,price
+Piso en Avinguda de Pius XII,Benicalap ,Benicalap,70,2,1,None,110.000
+Piso en Carrer de Llanera de Ranes,L'Hort de Senabre ,Jesús,92,3,1,None,79.000
+Casa en calle José Grollo,Benicalap ,Benicalap,132,4,2,None,115.000
+Piso en Tres Forques,Tres Forques ,L'Olivereta,79,3,1,None,70.000
+"Apartamento en Carrer de l'Arquitecte Rodríguez, 67",Sant Llorenç ,Rascanya,54,3,1,None,43.524
+Piso en calle Plaza Escultor Flechina,Favara ,Patraix,85,3,1,None,104.000
+"Piso en Avinguda de Pérez Galdós, 5, cerca de Carrer de Jesús",Arrancapins ,Extramurs,70,1,1,None,75.000
+Piso en Nou Moles,Nou Moles ,L'Olivereta,72,3,1,None,110.000
+"Piso en Avinguda de Tres Forques, cerca de Calle de Enrique Olmos",Tres Forques ,L'Olivereta,102,3,1,None,120.000
+Piso en L'Hort de Senabre,L'Hort de Senabre ,Jesús,96,4,1,None,99.500
+Piso en Avenida del Doctor Rafael Bartual,Sant Isidre ,Patraix,93,4,2,None,124.900
+"Piso en calle del Doctor Lluch, cerca de Calle de la Reina",El Cabanyal-El Canyamelar ,Poblats Marítims,102,4,1,None,120.000
+"Piso en calle Mayor de Nazaret, cerca de Calle del Puente de Astilleros",Natzaret ,Poblats Marítims,60,2,1,None,59.900
+Piso en Ciutat de Les Arts I de Les Ciències,Ciutat de les Arts i de les Ciències ,Quatre Carreres,75,2,1,None,115.000
+Piso en calle de Archena,Soternes ,L'Olivereta,73,3,1,None,90.500
+Piso en Valencia,Ciutat Fallera ,Benicalap,73,3,1,None,43.800
+"Piso en calle del Doctor Lluch, 10",Sant Francesc ,Ciutat Vella,63,1,1,None,126.000
+Piso en calle San Juan de La Peña,Orriols ,Rascanya,55,1,1,None,59.500
+Piso en Carrer del Pintor Matarana,Benicalap ,Benicalap,69,2,1,None,89.000
+Piso en Avenida de la Estación,Benimàmet ,Pobles de l'Oest,104,4,2,None,90.000
+Piso en calle San Juan de La Peña,Orriols ,Rascanya,80,3,1,None,67.000
+"Piso en Avinguda de Pérez Galdós, cerca de Calle de la Democracia",Nou Moles ,L'Olivereta,84,2,1,None,94.000
+Piso en Aiora,Aiora ,Camins al Grau,82,3,1,None,91.900
+Piso en Aiora,Aiora ,Camins al Grau,63,2,1,None,65.000
+"Piso en Avinguda de Pérez Galdós, 76, cerca de Carrer del Dramaturg Àngel Guimerà",Arrancapins ,Extramurs,85,3,1,None,91.500
+"Piso en calle de Planas, 49",En Corts ,Quatre Carreres,80,3,1,None,80.000
+"Apartamento en calle Plus Ultra, nº 14",En Corts ,Quatre Carreres,82,2,1,None,80.000
+Piso en Morvedre,El Carme ,Ciutat Vella,117,4,2,None,125.000
+Apartamento en Quatre Carreres,Na Rovella ,Quatre Carreres,105,3,2,None,129.000
+"Piso en Carrer de Pedro Cabanes, cerca de Calle de Felipe Rinaldi",Torrefiel ,Rascanya,110,4,2,None,120.000

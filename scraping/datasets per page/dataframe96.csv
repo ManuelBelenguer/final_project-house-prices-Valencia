@@ -1,0 +1,31 @@
+address,district,neighbourhood,sqft_surface,bedrooms,bathrooms,new_construction,price
+"Casa en Avinguda de Burjasot, cerca de Carrer de la Florista",Benicalap ,Benicalap,180,3,2,None,120.000
+"Piso en Avinguda de Pérez Galdós, nº 115",Nou Moles ,L'Olivereta,103,3,2,None,180.000
+"Piso en calle de Molinell, nº 21",Trinitat ,La Saïdia,67,2,1,None,165.000
+Piso en Sant Isidre,Sant Isidre ,Patraix,111,3,2,None,165.000
+Piso en Benimaclet,Benimaclet ,Benimaclet,100,5,2,None,158.000
+Piso en El Grau,El Grau ,Poblats Marítims,80,2,1,None,125.000
+Piso en Nou Moles,Nou Moles ,L'Olivereta,124,4,2,None,175.000
+"Piso en Avenida de Francia,  159",El Grau ,Poblats Marítims,109,3,2,Obra nueva,202.000
+Piso en El Pla del Remei,El Pla del Remei ,L'Eixample,30,1,1,None,180.000
+Piso en Carrer de Linares,Arrancapins ,Extramurs,117,4,2,None,143.000
+Piso en Sant Antoni,Sant Francesc ,Ciutat Vella,127,3,2,None,200.000
+Piso en calle del Pintor Maella,La Creu del Grau ,Camins al Grau,80,4,3,None,125.000
+Piso en Valencia,Fonteta de Sant Lluís ,Quatre Carreres,87,3,2,None,144.900
+"Piso en Avenida Giorgeta, nº 64",La Raiosa ,Jesús,116,3,2,None,169.000
+"Piso en Avenida del Puerto, cerca de Carrer Illes Canàries",La Creu del Grau ,Camins al Grau,106,4,2,None,225.000
+Piso en Russafa,Russafa ,L'Eixample,70,2,2,None,176.000
+Piso en Avinguda de Tres Forques,Tres Forques ,L'Olivereta,75,3,1,None,129.000
+Dúplex en calle de Fray Francisco Cabezas,Torrefiel ,Rascanya,86,3,2,None,139.000
+Piso en Carrer de Jerónima Galés 'Impressora',L'Hort de Senabre ,Jesús,120,3,2,None,160.000
+Piso en calle Federico Alcacer Aguilar,Benicalap ,Benicalap,104,3,2,None,183.000
+"Apartamento en calle de la Barraca, nº 157",Beteró ,Poblats Marítims,68,2,1,None,139.000
+Piso en Torrefiel,Torrefiel ,Rascanya,111,3,2,None,155.000
+Piso en calle de Gran Canaria,La Malva-rosa ,Poblats Marítims,135,4,2,None,207.000
+Piso en Pinedo,Pinedo ,Pobles del Sud,118,4,2,None,154.900
+Piso en El Cabanyal-El Canyamelar,El Cabanyal-El Canyamelar ,Poblats Marítims,67,2,1,None,130.000
+Piso en calle de Profesor Ángel Lacalle,Sant Isidre ,Patraix,106,3,2,None,175.000
+"Piso en calle de José María Haro, 61",Beteró ,Poblats Marítims,100,3,2,None,198.000
+Piso en Sant Marcel·lí,Sant Marcel·lí ,Jesús,91,3,2,None,127.000
+Piso en Nou Moles,Nou Moles ,L'Olivereta,97,2,1,None,142.000
+"Piso en Carrer de Mesana, nº 5",El Perellonet ,Pobles del Sud,70,3,1,None,125.000

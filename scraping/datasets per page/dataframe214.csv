@@ -1,0 +1,32 @@
+address,district,neighbourhood,sqft_surface,bedrooms,bathrooms,new_construction,price
+Piso en La Creu Coberta,La Creu Coberta ,Jesús,130,6,2,None,262.000
+Piso en Quatre Carreres - Ciutat de Les Ciències I de Les Arts - Justicia,Ciutat de les Arts i de les Ciències ,Quatre Carreres,100,3,2,None,285.000
+Piso en La Creu Coberta,La Creu Coberta ,Jesús,155,4,2,None,230.000
+Piso en Gran Vía de Ramón y Cajal,Arrancapins ,Extramurs,149,4,2,None,215.000
+Piso en L'eixample - Russafa,Russafa ,L'Eixample,161,3,2,None,398.000
+Piso en El Saler,El Saler ,Pobles del Sud,109,2,1,None,210.000
+Piso en Russafa,Russafa ,L'Eixample,65,2,2,None,250.000
+Piso en La Roqueta,La Roqueta ,Extramurs,184,4,2,None,370.000
+Piso en Sant Francesc,Sant Francesc ,Ciutat Vella,89,1,1,None,322.000
+Piso en Patraix,Patraix ,Patraix,120,3,2,None,260.000
+Apartamento en Carrer de Jesús,Arrancapins ,Extramurs,152,4,2,None,275.000
+Piso en calle Alfahuir,Sant Llorenç ,Rascanya,114,3,2,None,325.000
+Piso en Arrancapins,Arrancapins ,Extramurs,220,3,2,None,495.000
+"Apartamento en calle del Músico Maestro Sosa, 18",Arrancapins ,Extramurs,88,2,1,None,210.000
+"Piso en calle de Orihuela,  35",Morvedre ,La Saïdia,128,3,2,Obra nueva,215.000
+"Piso en Avenida de las Cortes Valencianas, nº 41",Sant Pau ,Campanar,108,3,2,None,257.500
+Piso en Passeig de l'Albereda,Penya-roja ,Camins al Grau,76,1,1,None,215.000
+Piso en Penya-roja,Penya-roja ,Camins al Grau,149,3,3,None,390.000
+"Piso en calle de la Reina, cerca de Calle de la Barraca",El Cabanyal-El Canyamelar ,Poblats Marítims,110,3,2,None,270.000
+Piso en Avenida de França,Penya-roja ,Camins al Grau,104,2,2,None,390.000
+Apartamento en El Pla del Real,Ciutat Universitària ,El Pla del Real,115,4,2,None,265.000
+Piso en Mestalla,Mestalla ,El Pla del Real,156,3,2,None,298.900
+Apartamento en El Palmar,El Palmar ,Pobles del Sud,3,2,2,None,330.000
+"Piso en Plaza de María Beneyto, nº 4",El Botànic ,Extramurs,77,2,1,None,250.000
+Piso en calle de Campoamor,El Castellar-L'Oliveral ,Pobles del Sud,None,2,"1.830
+ €/m²",None,238.000
+Piso en El Carme,El Carme ,Ciutat Vella,125,5,2,None,275.000
+Piso en Camins Al Grau - Aiora,Aiora ,Camins al Grau,149,4,2,None,229.000
+"Apartamento en Avinguda de Burjasot, cerca de Avinguda del General Avilés",Benicalap ,Benicalap,167,4,2,None,219.000
+Piso en calle Alfahuir,Benimaclet ,Benimaclet,98,2,1,None,228.000
+"Piso en Carrer de Cuba, cerca de Carrer de Dénia",Gran Via ,L'Eixample,80,2,1,None,250.000

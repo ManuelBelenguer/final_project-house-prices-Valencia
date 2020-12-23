@@ -1,0 +1,31 @@
+address,district,neighbourhood,sqft_surface,bedrooms,bathrooms,new_construction,price
+Apartamento en calle de Zapadores,Montolivet ,Quatre Carreres,80,3,1,None,125.000
+Piso en calle de Molinell,Trinitat ,La Saïdia,64,3,2,None,165.000
+Casa en Ciutat Universitària,Ciutat Universitària ,El Pla del Real,120,3,2,None,185.000
+Apartamento en Faitanar,Faitanar ,Pobles del Sud,110,3,2,None,165.000
+Piso en calle de Pego,Benimàmet ,Pobles de l'Oest,112,3,2,None,127.900
+"Apartamento en calle del Maestro Cristóbal León, nº 7",Carpesa ,Pobles del Nord,237,3,1,None,135.000
+"Piso en Avenida de Ausiàs March, cerca de Calle de la Pianista Amparo Iturbi",Malilla ,Quatre Carreres,124,3,2,None,225.000
+"Piso en Avenida de Vicente Blasco Ibáñez, cerca de Carrer del Poeta Artola",La Bega Baixa ,Algirós,100,3,1,None,185.000
+Piso en Nou Moles,Nou Moles ,L'Olivereta,84,2,1,None,120.000
+Apartamento en El Cabanyal-El Canyamelar,El Cabanyal-El Canyamelar ,Poblats Marítims,113,3,1,None,125.000
+Piso en Carrer del Actor Pepe Alba,Beteró ,Poblats Marítims,80,3,1,None,144.000
+"Casa unifamiliar en calle de José Benlliure, cerca de Calle de Escalante",El Cabanyal-El Canyamelar ,Poblats Marítims,100,2,2,None,160.000
+Apartamento en Ensanche de Gran Via,Gran Via ,L'Eixample,69,1,2,None,225.000
+Piso en Morvedre,Morvedre ,La Saïdia,72,3,1,None,135.000
+Piso en Patraix,Patraix ,Patraix,94,3,1,None,130.000
+Apartamento en El Cabanyal-El Canyamelar,El Cabanyal-El Canyamelar ,Poblats Marítims,84,3,1,None,180.000
+Piso en Velluters,El Pilar ,Ciutat Vella,81,3,2,None,219.000
+Piso en Carrer de Puerto Rico,Russafa ,L'Eixample,52,2,1,None,165.000
+Apartamento en El Cabanyal-El Canyamelar,El Cabanyal-El Canyamelar ,Poblats Marítims,140,2,1,None,125.000
+"Piso en calle del Maestro Valls, 13",Aiora ,Camins al Grau,115,4,2,None,160.000
+"Piso en calle de San Roque,  2",Benicalap ,Benicalap,124,3,2,Obra nueva,200.000
+Piso en Nou Moles,Nou Moles ,L'Olivereta,98,3,1,None,140.000
+Piso en La Creu del Grau,La Creu del Grau ,Camins al Grau,112,4,2,None,170.000
+Piso en calle de Jaime Beltrán,La Raiosa ,Jesús,116,3,2,None,177.500
+Piso en calle de Jaime Beltrán,La Raiosa ,Jesús,116,3,2,None,180.500
+Apartamento en Ciutat Universitària,Ciutat Universitària ,El Pla del Real,64,1,1,None,170.000
+Piso en calle Plaza Escultor Flrchina,Favara ,Patraix,107,4,1,None,120.000
+Apartamento en Jesús,La Torre ,Pobles del Sud,101,2,2,None,155.000
+Piso en Carrer Rafael Lapesa Melgar,Camí Real ,Jesús,120,3,2,None,179.000
+Piso en La Creu del Grau,La Creu del Grau ,Camins al Grau,98,3,1,None,120.000

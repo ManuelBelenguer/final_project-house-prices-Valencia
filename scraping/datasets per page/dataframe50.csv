@@ -1,0 +1,31 @@
+address,district,neighbourhood,sqft_surface,bedrooms,bathrooms,new_construction,price
+Piso en Patraix,Patraix ,Patraix,80,2,1,None,130.000
+"Piso en calle de Gremis, nº 65",Sant Francesc ,Ciutat Vella,3,1,1,None,101.000
+Apartamento en El Palmar,El Palmar ,Pobles del Sud,2,1,1,None,85.000
+Apartamento en Extramurs,La Roqueta ,Extramurs,52,2,1,None,110.000
+"Piso en calle del Padre Vicent, nº 4",En Corts ,Quatre Carreres,62,2,1,None,89.500
+Piso en Nou Moles,Nou Moles ,L'Olivereta,75,3,1,None,65.000
+Piso en Marxalenes,Marxalenes ,La Saïdia,65,3,1,None,107.000
+"Piso en calle de la Democracia, cerca de Plaza del Sainetero Arniches",Soternes ,L'Olivereta,70,3,1,None,103.500
+Piso en Benicalap,Benicalap ,Benicalap,65,2,1,None,71.500
+Piso en La Fontsanta-Tres Forques,Nou Moles ,L'Olivereta,85,3,1,None,99.990
+Apartamento en Quatre Carreres,Malilla ,Quatre Carreres,105,3,2,None,129.000
+Piso en San Marcelino,Sant Marcel·lí ,Jesús,67,3,1,None,71.500
+Piso en Marxalenes,Marxalenes ,La Saïdia,54,3,1,None,65.500
+Piso en calle del Pintor Stolz,Nou Moles ,L'Olivereta,50,1,1,None,120.000
+"Casa adosada en calle de Ador, cerca de Calle José Siurana",El Castellar-L'Oliveral ,Pobles del Sud,171,3,1,None,99.000
+Piso en Carrer Just Ramírez 'Arquitecte',Tormos ,La Saïdia,94,3,1,None,87.500
+Piso en Les Tendetes,Les Tendetes ,Campanar,108,4,1,None,103.000
+"Piso en calle de Villanueva de Castellón, nº 16",Tormos ,La Saïdia,69,2,1,None,67.000
+Piso en calle del Pintor Jover,Fonteta de Sant Lluís ,Quatre Carreres,102,4,1,None,89.900
+Piso en Camí Real,Camí Real ,Jesús,87,3,1,None,118.000
+Piso en Vara de Quart,Vara de Quart ,Patraix,97,3,2,None,53.000
+Piso en Prataix,Patraix ,Patraix,79,2,1,None,112.000
+"Piso en Carrer de Sant Joan Bosco, cerca de Avenida de la Constitución",Orriols ,Rascanya,86,3,1,None,68.500
+"Piso en Carrer de Sant Pancraci, nº 4",Marxalenes ,La Saïdia,58,3,1,None,65.500
+Piso en Cabanyal,El Cabanyal-El Canyamelar ,Poblats Marítims,80,2,1,None,120.000
+Piso en Beteró,Beteró ,Poblats Marítims,64,2,1,None,119.000
+Piso en La Malva-rosa,La Malva-rosa ,Poblats Marítims,78,3,1,None,89.500
+"Piso en Avenida Consellier Fr. Bosch , nº 123",Faitanar ,Pobles del Sud,65,2,1,None,69.500
+Piso en Vara de Quart,Vara de Quart ,Patraix,105,3,1,None,90.000
+Piso en En Corts,En Corts ,Quatre Carreres,70,1,1,None,117.000

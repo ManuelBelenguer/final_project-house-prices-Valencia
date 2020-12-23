@@ -1,0 +1,31 @@
+address,district,neighbourhood,sqft_surface,bedrooms,bathrooms,new_construction,price
+Casa en Orriols,Orriols ,Rascanya,73,3,1,None,112.000
+Piso en L'Hort de Senabre,L'Hort de Senabre ,Jesús,91,4,1,None,93.000
+Piso en Orriols,Orriols ,Rascanya,80,2,1,None,80.000
+Piso en El Calvari,El Calvari ,Campanar,75,2,1,None,71.500
+Piso en La Olivereta,Nou Moles ,L'Olivereta,75,3,1,None,66.500
+Piso en Carrer Almassora,Trinitat ,La Saïdia,73,4,1,None,117.000
+Piso en La Torre,La Torre ,Pobles del Sud,144,3,2,None,109.000
+Piso en La Olivereta,Vara de Quart ,Patraix,81,3,1,None,110.600
+Piso en calle de Juan Perpiñá,Sant Marcel·lí ,Jesús,65,2,1,None,98.000
+Piso en calle de Azcárraga,La Petxina ,Extramurs,68,3,1,None,115.000
+Piso en Algirós,Aiora ,Camins al Grau,65,2,1,None,85.500
+Piso en Sant Francesc,Sant Francesc ,Ciutat Vella,73,3,1,None,59.000
+Piso en L'Amistat,L'Amistat ,Algirós,65,3,2,None,108.000
+Piso en Tormos,Tormos ,La Saïdia,66,3,1,None,112.000
+Piso en Ayora,Aiora ,Camins al Grau,70,3,1,None,86.000
+Piso en Benicalap,Benicalap ,Benicalap,100,5,2,None,113.000
+Piso en Arrancapins,Arrancapins ,Extramurs,73,2,1,None,129.900
+Piso en Orriols,Orriols ,Rascanya,80,3,1,None,119.900
+Apartamento en calle del Músico Jarque Cualladó,Marxalenes ,La Saïdia,72,3,1,None,71.000
+Apartamento en Patraix,Vara de Quart ,Patraix,100,3,2,None,129.900
+Piso en Orriols,Orriols ,Rascanya,61,3,1,None,53.000
+"Piso en Avenida de la Constitución, 179",Orriols ,Rascanya,111,4,2,None,104.000
+"Apartamento en calle de la Yesa, nº 16",Benimàmet ,Pobles de l'Oest,53,2,1,None,59.999
+Apartamento en Jesús,L'Hort de Senabre ,Jesús,111,3,2,None,126.000
+Apartamento en Rascanya,Tormos ,La Saïdia,87,3,1,None,115.000
+"Piso en Carrer de Pedro Cabanes, nº 17",Torrefiel ,Rascanya,70,3,1,None,76.000
+"Piso en Carrer de Sant Joan Bosco, nº 93",Sant Francesc ,Ciutat Vella,84,3,1,None,62.500
+Piso en La Fuensanta,Vara de Quart ,Patraix,66,2,1,None,60.000
+Piso en Benimaclet,Benimaclet ,Benimaclet,70,3,1,None,130.000
+Piso en Valencia,Benimàmet ,Pobles de l'Oest,67,3,1,None,55.390

@@ -1,0 +1,32 @@
+address,district,neighbourhood,sqft_surface,bedrooms,bathrooms,new_construction,price
+Piso en Carrer de Jaca,Trinitat ,La Saïdia,103,3,2,None,168.000
+Piso en Benicalap,Benicalap ,Benicalap,104,4,2,None,155.000
+Piso en Poble Nou,Poble Nou ,Pobles del Nord,102,3,1,None,128.000
+Piso en calle de Enguera,Tres Forques ,L'Olivereta,75,2,1,None,149.000
+Loft en Russafa,Russafa ,L'Eixample,53,2,1,None,176.000
+Piso en Ciutat Universitària,Ciutat Universitària ,El Pla del Real,75,2,1,None,147.500
+Piso en Ciutat Jardí,Ciutat Jardí ,Algirós,95,3,1,None,140.000
+Piso en La Olivereta,La Petxina ,Extramurs,99,4,2,None,177.500
+Piso en Montolivet,Montolivet ,Quatre Carreres,106,3,2,None,195.000
+Piso en El Carme,El Carme ,Ciutat Vella,77,3,1,None,174.500
+Piso en Benimaclet,Camí de Vera ,Benimaclet,112,4,2,None,175.000
+Piso en Carrer de Rubén Vela,En Corts ,Quatre Carreres,146,4,2,None,159.000
+Piso en L'Hort de Senabre,L'Hort de Senabre ,Jesús,106,3,2,None,120.000
+Piso en Ciutat Jardí,Ciutat Jardí ,Algirós,95,3,1,None,205.000
+Piso en Avinguda de Joan XXIII,Benicalap ,Benicalap,80,3,1,None,139.000
+"Piso en calle de La Marina Alta, nº 6",Sant Pau ,Campanar,72,2,1,None,207.000
+Piso en Carrer de Llanera de Ranes,L'Hort de Senabre ,Jesús,111,3,2,None,126.000
+"Piso en calle del Arquitecto Monleón,  9",La Creu Coberta ,Jesús,101,3,2,Obra nueva,175.000
+Piso en El Botànic,El Botànic ,Extramurs,95,2,2,None,155.000
+Apartamento en Patraix,Patraix ,Patraix,96,3,1,None,130.000
+Piso en calle Font Rotja,Arrancapins ,Extramurs,None,1,"1.464
+ €/m²",None,123.000
+Piso en Avinguda de les Balears,La Creu del Grau ,Camins al Grau,77,2,1,None,152.000
+Piso en Benicalap,Benicalap ,Benicalap,72,3,1,None,149.999
+Piso en Carrer del Marquès de Bellet,La Raiosa ,Jesús,100,3,2,None,154.000
+Piso en Torrefiel,Torrefiel ,Rascanya,104,2,2,None,135.000
+Piso en Ayora,Aiora ,Camins al Grau,90,3,1,None,125.000
+"Ático en calle del Arquitecto Monleón,  9",La Creu Coberta ,Jesús,108,1,2,Obra nueva,220.000
+"Piso en Avinguda del General Avilés, cerca de Calle de Tenor Lauri Volpi",Campanar ,Campanar,108,3,2,None,225.000
+Piso en Tormos,Tormos ,La Saïdia,76,3,2,None,149.000
+Apartamento en calle del Parot,Benicalap ,Benicalap,92,3,2,None,150.000

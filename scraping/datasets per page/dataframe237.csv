@@ -1,0 +1,31 @@
+address,district,neighbourhood,sqft_surface,bedrooms,bathrooms,new_construction,price
+Ático en La Xerea,La Xerea ,Ciutat Vella,86,2,1,None,375.000
+Piso en Penya-roja,Penya-roja ,Camins al Grau,140,3,2,None,360.000
+Piso en La Seu,La Seu ,Ciutat Vella,130,5,1,None,345.000
+Piso en El Mercat,El Mercat ,Ciutat Vella,140,3,2,None,299.900
+Piso en El Grau,El Grau ,Poblats Marítims,121,4,2,None,240.500
+Piso en El Grau,El Grau ,Poblats Marítims,121,4,2,None,247.500
+Piso en Sant Pau,Sant Pau ,Campanar,115,3,2,None,385.000
+Piso en La Bega Baixa,La Bega Baixa ,Algirós,119,4,2,None,222.000
+Piso en Valencia,Campanar ,Campanar,128,4,2,None,427.000
+Piso en Valencia,Russafa ,L'Eixample,189,5,2,None,395.000
+"Piso en Carrer de San Vicente Mártir, cerca de Calle del Músico Maestro Sosa",Arrancapins ,Extramurs,100,3,2,None,250.000
+"Piso en Avenida de Aragón, 23",La Seu ,Ciutat Vella,156,3,2,None,276.000
+Piso en Ciutat Universitària,Ciutat Universitària ,El Pla del Real,97,3,2,None,246.000
+Piso en La Roqueta,La Roqueta ,Extramurs,200,5,2,None,390.000
+Ático en Camí Fondo,Camí Fondo ,Camins al Grau,168,4,2,None,450.000
+Piso en El Grau,El Grau ,Poblats Marítims,94,3,2,None,300.000
+Piso en Benicalap,Benicalap ,Benicalap,91,2,2,None,224.890
+Ático en calle Nicasio Benlloch,Benicalap ,Benicalap,115,2,2,Obra nueva,276.245
+Apartamento en El Saler,El Saler ,Pobles del Sud,83,2,1,None,210.000
+Piso en El Mercat,El Mercat ,Ciutat Vella,185,8,2,None,399.990
+Piso en La Raiosa,La Raiosa ,Jesús,109,3,2,None,233.000
+Piso en Gran Via,Gran Via ,L'Eixample,260,7,4,None,499.900
+Ático en calle Nicasio Benlloch,Benicalap ,Benicalap,120,2,2,Obra nueva,278.640
+Piso en El Cabanyal-El Canyamelar,El Cabanyal-El Canyamelar ,Poblats Marítims,105,2,1,None,216.900
+"Piso en calle del Médico Esteve,  6",La Raiosa ,Jesús,139,3,2,Obra nueva,262.500
+Piso en Nou Moles,Nou Moles ,L'Olivereta,120,4,2,None,256.500
+Piso en Avinguda de Jacinto Benavente,Gran Via ,L'Eixample,158,5,2,None,465.000
+Piso en El Grau,El Grau ,Poblats Marítims,127,3,2,None,245.000
+Piso en Valencia,Russafa ,L'Eixample,125,3,2,None,325.000
+"Piso en Avinguda Alcalde Gisbert Rico,  s/n",Ciutat de les Arts i de les Ciències ,Quatre Carreres,141,3,2,Obra nueva,341.000

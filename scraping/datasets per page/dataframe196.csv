@@ -1,0 +1,32 @@
+address,district,neighbourhood,sqft_surface,bedrooms,bathrooms,new_construction,price
+Apartamento en Ciutat Vella,Sant Francesc ,Ciutat Vella,90,3,2,None,320.000
+Casa en El Cabanyal-El Canyamelar,El Cabanyal-El Canyamelar ,Poblats Marítims,110,3,3,None,225.000
+Piso en Gran Via,Gran Via ,L'Eixample,130,4,2,None,445.000
+Piso en Carrer de El Batxiller,La Seu ,Ciutat Vella,94,3,2,None,249.000
+"Piso en calle de Luis Bolinches Compañ, nº 18",Penya-roja ,Camins al Grau,154,3,2,None,395.000
+"Piso en calle de Escalante, cerca de Carrer del Doctor Juan José Dómine",El Cabanyal-El Canyamelar ,Poblats Marítims,123,3,2,None,210.000
+Ático en Campanar,Campanar ,Campanar,282,4,3,None,525.000
+Piso en El Pilar,El Pilar ,Ciutat Vella,108,4,2,None,250.000
+Piso en La Seu,La Seu ,Ciutat Vella,None,2,"2.992
+ €/m²",None,389.000
+Piso en La Seu,La Seu ,Ciutat Vella,125,2,2,None,335.000
+Piso en Albors,Albors ,Camins al Grau,105,3,2,None,210.000
+Apartamento en Carrer de Ribera,El Pla del Remei ,L'Eixample,90,3,2,None,320.000
+Piso en El Botànic,El Botànic ,Extramurs,156,3,2,None,360.000
+"Apartamento en Carrer del Pintor Gisbert, nº 18",Russafa ,L'Eixample,91,4,1,None,215.000
+Piso en Avenida de las Gaviotas,El Perellonet ,Pobles del Sud,107,3,2,None,250.000
+Piso en Penya-roja,Penya-roja ,Camins al Grau,96,2,2,None,275.000
+"Piso en Carrer de Russafa, cerca de Gran Vía del Marqués del Turia",Gran Via ,L'Eixample,115,4,1,None,280.000
+"Piso en calle de Nàquera, 12",El Mercat ,Ciutat Vella,116,2,2,None,420.000
+Piso en La Seu,La Seu ,Ciutat Vella,212,5,2,None,425.000
+Piso en Avenida del Barón de Cárcer,Sant Francesc ,Ciutat Vella,65,2,1,None,260.000
+Piso en Quatre Carreres - La Punta,La Punta ,Quatre Carreres,120,3,2,None,269.000
+Ático en Carrer de Vicente Peris,Tormos ,La Saïdia,180,3,2,None,223.900
+Piso en Gran Via,Gran Via ,L'Eixample,148,5,3,None,360.000
+Ático en Sant Francesc,Sant Francesc ,Ciutat Vella,67,1,1,None,224.000
+Apartamento en Patraix,Safranar ,Patraix,134,4,2,None,240.000
+"Casa adosada en Avenida de las Gaviotas, nº 269",El Perellonet ,Pobles del Sud,208,4,2,None,258.788
+Piso en Russafa,Russafa ,L'Eixample,71,2,2,None,265.000
+Piso en calle calle de Jacint Labaila,Patraix ,Patraix,120,3,2,None,220.000
+"Piso en Gran Vía de Fernando 'El Católico', cerca de Calle del Doctor Zamenhof",La Petxina ,Extramurs,155,3,2,None,435.000
+Ático en La Malva-Rosa,La Malva-rosa ,Poblats Marítims,118,2,2,None,270.000

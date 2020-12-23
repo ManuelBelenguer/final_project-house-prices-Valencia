@@ -1,0 +1,31 @@
+address,district,neighbourhood,sqft_surface,bedrooms,bathrooms,new_construction,price
+Apartamento en El Perellonet,El Perellonet ,Pobles del Sud,73,2,1,None,123.000
+Chalet en calle del Progreso,El Grau ,Poblats Marítims,70,2,2,None,105.000
+Apartamento en Poblats Marítims,El Cabanyal-El Canyamelar ,Poblats Marítims,58,3,1,None,130.000
+"Piso en calle de Juan de Celaya, nº .",Safranar ,Patraix,None,1,2ª planta,None,75.000
+"Piso en Carrer del General Urrutia, nº 40",Sant Francesc ,Ciutat Vella,75,3,1,None,103.000
+Piso en Torrefiel,Torrefiel ,Rascanya,65,3,1,None,52.000
+Piso en calle de Carcagente,Patraix ,Patraix,79,1,1,None,120.000
+Piso en La Fontsanta,La Fontsanta ,L'Olivereta,76,3,1,None,68.000
+Apartamento en calle de Agustín Sales,L'Hort de Senabre ,Jesús,40,1,1,None,130.000
+"Piso en calle de Sollana, nº 22",Na Rovella ,Quatre Carreres,3,1,1,None,94.500
+Piso en Benimàmet,Benimàmet ,Pobles de l'Oest,83,2,2,None,95.000
+Piso en Oliveretta,Nou Moles ,L'Olivereta,97,3,3,None,108.000
+Piso en calle de Luis Lamarca,Nou Moles ,L'Olivereta,101,3,2,None,115.000
+Piso en Vara de Quart,Vara de Quart ,Patraix,80,3,1,None,110.000
+Piso en La Malvarrosa,La Malva-rosa ,Poblats Marítims,79,2,1,None,125.000
+Piso en Monteolivete,Montolivet ,Quatre Carreres,75,3,1,None,103.000
+"Piso en Carrer de Domingo Gómez, nº 3",Torrefiel ,Rascanya,94,5,5ª planta,None,85.000
+"Piso en calle de la Democracia, cerca de Passeig de la Petxina",Nou Moles ,L'Olivereta,73,2,1,None,79.900
+Piso en calle de la Alquería de Benimassot,Camí Real ,Jesús,81,2,1,None,68.000
+"Piso en calle CV-300, nº 52",Cases de Bàrcena ,Pobles del Nord,85,3,1,None,46.000
+Apartamento en Extramurs,La Petxina ,Extramurs,89,3,2,None,125.000
+Piso en Cabanyal-Canyamelar,El Cabanyal-El Canyamelar ,Poblats Marítims,71,2,1,None,102.000
+Piso en Valencia,La Punta ,Quatre Carreres,82,4,1,None,76.933
+Piso en Orriols,Orriols ,Rascanya,78,3,1,None,75.500
+Apartamento en El Perellonet,El Perellonet ,Pobles del Sud,2,4,4,None,90.000
+Piso en Benicalap,Benicalap ,Benicalap,85,3,2,None,99.900
+Piso en calle del Arzobispo Olaechea,Camí Real ,Jesús,82,3,1,None,46.000
+Piso en Torrefiel,Torrefiel ,Rascanya,74,3,2,None,115.000
+"Piso en calle del Duque de Gaeta, nº 43",Aiora ,Camins al Grau,70,2,1,None,90.000
+Piso en Benicalap,Benicalap ,Benicalap,80,3,2,None,112.900

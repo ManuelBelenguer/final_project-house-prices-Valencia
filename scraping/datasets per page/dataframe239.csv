@@ -1,0 +1,31 @@
+address,district,neighbourhood,sqft_surface,bedrooms,bathrooms,new_construction,price
+"Piso en calle de la Antigua Senda de Senent, nº 10",Mestalla ,El Pla del Real,110,4,1,None,230.000
+Piso en L'Amistat,L'Amistat ,Algirós,105,3,2,None,245.000
+Piso en Russafa,Russafa ,L'Eixample,160,5,2,None,298.000
+Piso en El Grau,El Grau ,Poblats Marítims,127,3,2,None,245.000
+Piso en Russafa,Russafa ,L'Eixample,90,2,2,None,260.000
+Piso en La Seu,La Seu ,Ciutat Vella,93,3,2,None,310.000
+"Ático en calle de Goya,  s/n",Nou Moles ,L'Olivereta,121,3,2,Obra nueva,284.149
+Piso en Russafa,Russafa ,L'Eixample,141,5,2,None,339.900
+Piso en El Cabanyal-El Canyamelar,El Cabanyal-El Canyamelar ,Poblats Marítims,99,2,2,None,225.000
+Piso en El Pilar,El Pilar ,Ciutat Vella,140,3,2,None,400.000
+Piso en La Raiosa,La Raiosa ,Jesús,117,4,2,None,240.000
+Piso en Campanar,Campanar ,Campanar,164,4,3,None,290.000
+"Piso en Carrer de Llevant,  s/n",Benicalap ,Benicalap,113,3,2,Obra nueva,246.694
+Piso en Valencia,Sant Pau ,Campanar,166,4,2,None,390.000
+Piso en Penya-roja,Penya-roja ,Camins al Grau,171,3,2,None,341.100
+"Piso en Gran Vía de Fernando 'El Católico', cerca de Calle de San Jacinto",La Petxina ,Extramurs,145,5,2,None,273.000
+"Piso en calle de Serrano Morales, 11",El Pla del Remei ,L'Eixample,119,5,2,None,380.000
+Piso en Sant Pau,Sant Pau ,Campanar,112,3,2,None,290.000
+Ático en La Seu,La Seu ,Ciutat Vella,93,2,1,None,430.000
+Piso en Russafa,Russafa ,L'Eixample,90,2,2,None,260.000
+"Piso en Avinguda Alcalde Gisbert Rico,  s/n",Ciutat de les Arts i de les Ciències ,Quatre Carreres,132,3,2,Obra nueva,290.000
+"Piso en Carrer de Llevant,  s/n",Benicalap ,Benicalap,108,3,2,Obra nueva,228.138
+Piso en Russafa,Russafa ,L'Eixample,83,2,2,None,295.000
+"Piso en Carrer de Llevant,  s/n",Benicalap ,Benicalap,117,3,2,Obra nueva,256.138
+Piso en El Botànic,El Botànic ,Extramurs,136,3,2,None,275.000
+Piso en Gran Via,Gran Via ,L'Eixample,86,3,1,None,260.000
+Piso en Penya-roja,Penya-roja ,Camins al Grau,140,3,2,None,360.000
+Piso en El Grau,El Grau ,Poblats Marítims,75,2,2,None,249.000
+Piso en La Roqueta,La Roqueta ,Extramurs,200,5,2,None,390.000
+Piso en Russafa,Russafa ,L'Eixample,83,2,2,None,295.000

@@ -1,0 +1,31 @@
+address,district,neighbourhood,sqft_surface,bedrooms,bathrooms,new_construction,price
+"Ático en calle Plaça del Músic Espí, nº 1",Torrefiel ,Rascanya,85,2,1,None,159.000
+Piso en Carrer dels Serrans,La Seu ,Ciutat Vella,74,2,1,None,150.000
+"Piso en calle de Goya,  s/n",Nou Moles ,L'Olivereta,123,3,2,Obra nueva,173.800
+"Piso en Carrer Vicente Clavel,  s/n",Safranar ,Patraix,127,3,2,Obra nueva,220.000
+"Piso en Carrer de San Vicente Mártir, nº 60",El Mercat ,Ciutat Vella,109,2,1,None,230.000
+Piso en calle del Micer Rabasa,La Raiosa ,Jesús,107,3,2,Obra nueva,169.900
+"Piso en Avenida de las Tres Cruces,  131",Sant Isidre ,Patraix,120,3,2,Obra nueva,207.500
+"Piso en Plaza José María Giménez Fayos, 6",Benicalap ,Benicalap,115,3,2,None,180.000
+Piso en Plaza del Grup Parpalló,Sant Pau ,Campanar,87,2,1,None,147.000
+"Piso en calle de Vicente Brull,  3, 5 y 7",El Grau ,Poblats Marítims,107,3,2,Obra nueva,190.900
+"Piso en Carrer Moreres,  s/n",La Punta ,Quatre Carreres,101,3,2,Obra nueva,164.048
+"Piso en calle de Miguel Servet, nº 4",Campanar ,Campanar,140,4,2,None,165.000
+Piso en La Petxina,La Petxina ,Extramurs,119,3,2,None,200.000
+Ático en Arrancapins,Arrancapins ,Extramurs,58,2,1,None,210.000
+"Piso en calle del Pintor Ferrandis, 13",Beteró ,Poblats Marítims,65,2,1,None,130.000
+Dúplex en La Bega Baixa,La Bega Baixa ,Algirós,121,3,2,None,228.000
+Piso en calle de Ángel Villena,Ciutat de les Arts i de les Ciències ,Quatre Carreres,110,3,2,None,129.000
+"Piso en Avenida de José Roca Coll,  S/N",Safranar ,Patraix,95,2,2,Obra nueva,179.100
+Piso en La Raiosa,La Raiosa ,Jesús,134,3,2,None,220.000
+"Piso en Avenida de Francia,  159",El Grau ,Poblats Marítims,91,3,2,Obra nueva,202.000
+"Piso en Carrer de Sant Josep Sister,  28",El Grau ,Poblats Marítims,122,4,2,Obra nueva,216.000
+Piso en Carrer del Bonaire,La Xerea ,Ciutat Vella,105,3,2,None,220.000
+Piso en calle de Jaime Beltrán,La Raiosa ,Jesús,121,3,2,None,150.000
+Piso en Sant Antoni,Sant Antoni ,La Saïdia,140,4,2,None,159.000
+"Piso en Carrer Josep AlmInyana I Vallés,  6",Sant Pau ,Campanar,109,2,2,Obra nueva,230.000
+"Piso en Carrer Vicente Clavel,  s/n",Safranar ,Patraix,127,3,2,Obra nueva,211.000
+Piso en Benimaclet,Camí de Vera ,Benimaclet,110,3,2,None,197.000
+Piso en Nazaret,Natzaret ,Poblats Marítims,59,2,1,None,120.000
+Piso en Sant Isidre,Sant Isidre ,Patraix,105,3,2,None,129.700
+"Piso en calle de Escalante, cerca de Carrer del Doctor Juan José Dómine",El Cabanyal-El Canyamelar ,Poblats Marítims,125,4,2,None,155.000

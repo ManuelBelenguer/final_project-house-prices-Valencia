@@ -1,0 +1,31 @@
+address,district,neighbourhood,sqft_surface,bedrooms,bathrooms,new_construction,price
+Dúplex en Ciutat Vella,El Carme ,Ciutat Vella,144,2,2,None,350.000
+Piso en La Seu,La Seu ,Ciutat Vella,63,1,1,None,285.000
+Apartamento en La Punta,La Punta ,Quatre Carreres,143,2,2,None,210.000
+Piso en Sant Francesc,Sant Francesc ,Ciutat Vella,187,4,2,None,390.000
+Piso en Valencia,Sant Pau ,Campanar,155,5,2,None,325.000
+Piso en Sant Francesc,Sant Francesc ,Ciutat Vella,130,3,2,None,360.000
+Apartamento en El Cabanyal-El Canyamelar,El Cabanyal-El Canyamelar ,Poblats Marítims,95,3,2,None,240.000
+Piso en La Xerea,La Seu ,Ciutat Vella,42,1,1,None,245.000
+Casa en calle de Vidal de Cañelles,El Cabanyal-El Canyamelar ,Poblats Marítims,158,2,1,None,240.000
+Piso en Avenida Amado Granell Mesado 'Militar',Montolivet ,Quatre Carreres,99,2,2,None,330.000
+Piso en La Petxina,La Petxina ,Extramurs,148,5,2,None,275.000
+Piso en El Pla del Remei,El Pla del Remei ,L'Eixample,130,5,2,None,320.000
+Apartamento en Ciutat Vella,El Botànic ,Extramurs,165,4,2,None,299.000
+Apartamento en Extramurs,La Petxina ,Extramurs,100,2,2,None,249.900
+Piso en Plaça del Professor Tamarit Olmos,Jaume Roig ,El Pla del Real,171,4,2,None,480.000
+"Piso en calle de los Juristas, 11",La Seu ,Ciutat Vella,127,3,2,None,309.000
+Piso en El Pla del Remei,El Pla del Remei ,L'Eixample,132,4,2,None,375.000
+Piso en Sant Francesc,Sant Francesc ,Ciutat Vella,312,6,3,None,500.000
+Casa en La Punta,La Punta ,Quatre Carreres,250,4,2,None,300.000
+Piso en Avenida del Barón de Cárcer,El Mercat ,Ciutat Vella,185,6,2,None,389.000
+"Piso en Gran Vía de Fernando 'El Católico', cerca de Carrer de Quart",El Carme ,Ciutat Vella,120,3,2,None,250.000
+Piso en El Carme,El Carme ,Ciutat Vella,178,6,3,None,460.000
+"Piso en Carrer de San Vicente Mártir, cerca de Carrer de la Mascota",Arrancapins ,Extramurs,125,3,2,None,260.000
+Piso en Monteolivete,Russafa ,L'Eixample,151,5,2,None,275.000
+Piso en Gran Vía de Fernando 'El Católico',La Petxina ,Extramurs,212,6,2,None,280.000
+"Dúplex en calle del Doctor Lluch, cerca de Calle de la Reina",El Cabanyal-El Canyamelar ,Poblats Marítims,71,1,1,None,218.000
+Piso en Ruzafa,Russafa ,L'Eixample,106,3,2,None,329.000
+"Piso en calle de la Reina, cerca de Calle del Doctor Lluch",El Cabanyal-El Canyamelar ,Poblats Marítims,107,3,2,None,270.000
+Piso en calle de Navarra,Arrancapins ,Extramurs,143,4,2,None,262.000
+"Ático en calle del Ceramista Mateu, nº 17",Benicalap ,Benicalap,98,3,2,None,298.000

@@ -1,0 +1,32 @@
+address,district,neighbourhood,sqft_surface,bedrooms,bathrooms,new_construction,price
+Casa adosada en calle José Grollo,Benicalap ,Benicalap,132,4,2,None,120.000
+Piso en Nou Moles,Nou Moles ,L'Olivereta,147,4,2,None,209.000
+Piso en calle de la Cooperativa de San Fernando,Favara ,Patraix,76,2,1,None,123.000
+Dúplex en Sant Llorenç,Sant Llorenç ,Rascanya,80,2,2,None,215.000
+"Piso en Carrer del Poeta Mas I Ros, cerca de Calle de los Santos Justo y Pastor",L'Illa Perduda ,Algirós,123,2,2,None,153.000
+Piso en Carrer del Pintor Gisbert,Russafa ,L'Eixample,100,2,1,None,142.000
+Piso en Marxalenes,Marxalenes ,La Saïdia,100,3,2,None,165.000
+Ático en El Botànic,El Botànic ,Extramurs,34,1,1,None,135.000
+Piso en Algirós,Aiora ,Camins al Grau,47,1,1,None,125.000
+Piso en calle de la Historiadora Sylvia Romeu,Ciutat Jardí ,Algirós,99,3,1,None,160.000
+Piso en La Raiosa,La Raiosa ,Jesús,98,2,2,None,174.900
+Piso en calle de Pinzón,El Carme ,Ciutat Vella,80,2,1,None,175.000
+"Piso en Carrer de Buenos Aires, nº 21",Russafa ,L'Eixample,71,3,1,None,153.500
+Piso en Arrancapins,Arrancapins ,Extramurs,115,3,2,None,179.900
+Piso en Morvedre,Morvedre ,La Saïdia,92,2,2,None,210.000
+Piso en Faitanar,Faitanar ,Pobles del Sud,113,3,2,None,170.000
+Piso en Marxalenes,Marxalenes ,La Saïdia,150,5,2,None,200.000
+Piso en Nou Moles,Nou Moles ,L'Olivereta,84,3,1,None,133.000
+Piso en La Seu,La Seu ,Ciutat Vella,36,1,1,None,163.000
+Piso en Extramurs,Arrancapins ,Extramurs,73,2,1,None,129.000
+"Ático en calle del Marino Albesa, 41",Aiora ,Camins al Grau,49,1,1,None,153.000
+Piso en En Corts,En Corts ,Quatre Carreres,146,4,2,None,159.000
+Piso en La Petxina,La Petxina ,Extramurs,83,2,1,None,179.000
+Piso en Carrer de Joan de Garay,Favara ,Patraix,None,2,"1.805
+ €/m²",None,139.000
+Apartamento en Benicalap,Ciutat Fallera ,Benicalap,88,3,2,None,133.000
+Piso en Montolivet,Montolivet ,Quatre Carreres,120,4,2,None,218.000
+Piso en Avenida Amado Granell Mesado 'Militar',Montolivet ,Quatre Carreres,117,4,2,None,197.000
+"Ático en calle de Millares, nº 12",La Raiosa ,Jesús,80,3,1,None,184.000
+Piso en La Roqueta,La Roqueta ,Extramurs,45,1,1,None,140.000
+Piso en Montolivet,Montolivet ,Quatre Carreres,116,2,2,None,155.000

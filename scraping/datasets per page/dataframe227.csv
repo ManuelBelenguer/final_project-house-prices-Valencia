@@ -1,0 +1,33 @@
+address,district,neighbourhood,sqft_surface,bedrooms,bathrooms,new_construction,price
+Piso en Marxalenes,Marxalenes ,La Saïdia,135,6,2,None,320.000
+Piso en Marxalenes,Marxalenes ,La Saïdia,95,4,1,None,229.990
+Piso en La Petxina,La Petxina ,Extramurs,116,3,2,None,345.000
+Piso en El Pla del Remei,El Pla del Remei ,L'Eixample,107,3,2,None,490.000
+Casa en La Malva-rosa,La Malva-rosa ,Poblats Marítims,91,"2.472
+ €/m²","2.472
+ €/m²",None,225.000
+Piso en Sant Francesc,Sant Francesc ,Ciutat Vella,160,4,2,None,366.000
+Piso en Arrancapins,Arrancapins ,Extramurs,149,5,2,None,330.000
+Piso en El Carme,El Carme ,Ciutat Vella,106,5,1,None,220.000
+Casa en calle de Jesús Morante Borrás,La Punta ,Quatre Carreres,140,4,2,None,289.900
+Piso en El Pla del Remei,El Pla del Remei ,L'Eixample,110,2,2,None,430.000
+Piso en Sant Francesc,Sant Francesc ,Ciutat Vella,151,5,2,None,500.000
+Piso en Penya-roja,Penya-roja ,Camins al Grau,103,2,2,None,388.000
+Piso en El Carme,El Carme ,Ciutat Vella,114,4,1,None,260.000
+"Piso en calle del Padre Huérfanos, nº 2",El Carme ,Ciutat Vella,85,2,1,None,213.500
+Ático en La Malva-rosa,La Malva-rosa ,Poblats Marítims,118,2,2,None,250.000
+Piso en Ruzafa,Russafa ,L'Eixample,114,4,2,None,222.000
+Casa en calle Ayora,Aiora ,Camins al Grau,272,3,1,None,300.000
+Ático en La Seu,La Seu ,Ciutat Vella,91,2,1,None,430.000
+Chalet en El Cabanyal-El Canyamelar,El Cabanyal-El Canyamelar ,Poblats Marítims,264,4,4,None,450.000
+Piso en Gran Via,Gran Via ,L'Eixample,91,4,1,None,280.000
+Casa adosada en Sant Llorenç,Sant Llorenç ,Rascanya,217,4,3,None,430.000
+"Ático en Carrer de Sant Josep Sister,  28",El Grau ,Poblats Marítims,74,2,1,Obra nueva,223.000
+Piso en Penya-roja,Penya-roja ,Camins al Grau,191,3,1,None,250.000
+Casa adosada en Fonteta de Sant Lluís,Fonteta de Sant Lluís ,Quatre Carreres,238,4,3,Obra nueva,382.000
+Casa adosada en Sant Llorenç,Sant Llorenç ,Rascanya,217,4,3,None,475.000
+Ático en Russafa,Russafa ,L'Eixample,45,1,1,None,239.000
+Chalet en Valencia,Sant Llorenç ,Rascanya,217,4,4,None,470.000
+"Piso en calle de San Roque,  2",Benicalap ,Benicalap,125,3,2,Obra nueva,227.000
+Piso en Trinitat,Trinitat ,La Saïdia,122,3,2,None,300.000
+Piso en Valencia,El Pilar ,Ciutat Vella,153,3,2,None,297.500

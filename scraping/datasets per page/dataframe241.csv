@@ -1,0 +1,31 @@
+address,district,neighbourhood,sqft_surface,bedrooms,bathrooms,new_construction,price
+"Casa en calle de Xiprers, 23",Sant Pau ,Campanar,255,4,3,None,520.000
+Ático en Plaza de Honduras,Ciutat Jardí ,Algirós,106,4,2,None,337.000
+Piso en Valencia,La Xerea ,Ciutat Vella,62,1,1,None,215.000
+Casa adosada en Benimàmet,Benimàmet ,Pobles de l'Oest,233,5,4,None,499.000
+Piso en Valencia,Sant Pau ,Campanar,135,3,2,None,375.000
+Piso en Quatre Carreres - Ciutat de Les Ciències I de Les Arts - Justicia,Ciutat de les Arts i de les Ciències ,Quatre Carreres,127,3,2,None,310.000
+"Piso en Avenida de Aragón, 29",La Seu ,Ciutat Vella,165,4,2,None,303.500
+Piso en Sant Francesc,Sant Francesc ,Ciutat Vella,123,3,2,None,360.000
+Piso en Penya-roja,Penya-roja ,Camins al Grau,119,2,2,None,390.000
+Piso en Penya-roja,Penya-roja ,Camins al Grau,134,4,2,None,450.000
+Ático en La Raiosa,La Raiosa ,Jesús,93,3,2,None,260.000
+Piso en Penya-roja,Penya-roja ,Camins al Grau,190,7,3,None,250.000
+"Piso en calle del Médico Esteve,  6",La Raiosa ,Jesús,124,3,2,Obra nueva,232.000
+Piso en Sant Llorenç,Sant Llorenç ,Rascanya,102,2,2,None,346.800
+Piso en Russafa,Russafa ,L'Eixample,83,2,2,None,295.000
+Piso en Russafa,Russafa ,L'Eixample,111,4,2,None,249.000
+Piso en Arrancapins,Arrancapins ,Extramurs,120,3,2,None,229.950
+Piso en Russafa,Russafa ,L'Eixample,118,4,1,None,339.990
+"Piso en Avenida de los Hermanos Machado,  s/n",Benicalap ,Benicalap,122,4,2,Obra nueva,280.000
+Piso en Valencia,El Cabanyal-El Canyamelar ,Poblats Marítims,191,6,3,None,525.000
+Piso en Arrancapins,Arrancapins ,Extramurs,105,4,2,None,385.000
+"Piso en Avinguda Alcalde Gisbert Rico,  s/n",Ciutat de les Arts i de les Ciències ,Quatre Carreres,141,3,2,Obra nueva,308.000
+Piso en Valencia,La Xerea ,Ciutat Vella,232,4,2,None,430.000
+Piso en Montolivet,Montolivet ,Quatre Carreres,93,3,1,None,225.000
+Piso en La Xerea,La Xerea ,Ciutat Vella,105,2,2,None,315.000
+Piso en Arrancapins,Arrancapins ,Extramurs,145,2,2,None,249.900
+"Piso en Gran Vía de Fernando 'El Católico', cerca de Carrer del Doctor Sanchís Sivera",Arrancapins ,Extramurs,150,4,2,None,450.000
+Piso en Russafa,Russafa ,L'Eixample,139,4,2,None,385.000
+"Piso en calle de Salamanca, cerca de Plaza de Cánovas del Castillo",Gran Via ,L'Eixample,136,5,2,None,400.000
+Ático en El Grau,El Grau ,Poblats Marítims,71,2,1,None,235.000

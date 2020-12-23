@@ -1,0 +1,31 @@
+address,district,neighbourhood,sqft_surface,bedrooms,bathrooms,new_construction,price
+Piso en Sant Francesc,Sant Francesc ,Ciutat Vella,195,4,2,None,470.000
+Apartamento en calle de José Benlliure,La Malva-rosa ,Poblats Marítims,100,3,2,None,269.000
+"Piso en calle de Pedro Aleixandre, 13",Montolivet ,Quatre Carreres,87,3,2,None,265.000
+Piso en Ciudad de Las Artes y de Las Ciencias,Ciutat de les Arts i de les Ciències ,Quatre Carreres,146,3,2,None,470.000
+Piso en El Botànic,El Botànic ,Extramurs,94,3,1,None,245.000
+Apartamento en Ciutat Vella,La Xerea ,Ciutat Vella,50,1,1,None,230.000
+Piso en Arrancapins,Arrancapins ,Extramurs,115,3,2,None,250.000
+Piso en Benicalap,Benicalap ,Benicalap,100,3,2,None,416.000
+"Piso en Avinguda del Regne de València, cerca de Carrer de l' Almirall Cadarso",El Pla del Remei ,L'Eixample,79,3,2,None,290.000
+Apartamento en Poblats Marítims,El Cabanyal-El Canyamelar ,Poblats Marítims,110,3,2,None,270.000
+Ático en Camí Fondo,Camí Fondo ,Camins al Grau,168,4,2,None,450.000
+"Casa en calle Casa,C/ Les Penyetes 5 - Valencia",Benimàmet ,Pobles de l'Oest,612,13,3,None,215.000
+Piso en Plaza del Xúquer,La Bega Baixa ,Algirós,172,2,2,None,410.000
+Piso en L'eixample - Russafa,Russafa ,L'Eixample,157,4,2,None,330.000
+Ático en Avenida del Barón de Cárcer,El Mercat ,Ciutat Vella,180,4,2,None,495.000
+Piso en Avinguda de Menéndez Pelayo,Jaume Roig ,El Pla del Real,195,5,3,None,410.000
+Piso en La Seu,La Seu ,Ciutat Vella,112,3,2,None,330.000
+Piso en El Mercat,El Mercat ,Ciutat Vella,100,2,2,None,450.000
+Piso en Ciutat Universitària,Benimaclet ,Benimaclet,130,3,2,None,290.000
+"Piso en Carrer de la Mar, nº 11",La Seu ,Ciutat Vella,91,2,2,None,270.000
+Piso en Carrer de Sorní,El Pla del Remei ,L'Eixample,97,2,2,None,398.000
+Piso en El Grau,El Grau ,Poblats Marítims,123,3,2,None,325.000
+"Piso en Avenida del Primado Reig, cerca de Carrer del Riu Ebre",Benimaclet ,Benimaclet,90,4,3,None,265.000
+Piso en calle Av Dr Peset Aleixandre,Torrefiel ,Rascanya,147,3,2,None,247.000
+Piso en L'Illa Perduda,L'Illa Perduda ,Algirós,145,5,2,None,320.000
+Piso en Plaza de España,La Roqueta ,Extramurs,153,4,3,None,380.000
+Piso en calle de Rodríguez de Cepeda,Albors ,Camins al Grau,144,3,2,None,239.000
+"Piso en calle Doctor J.J. Domine, nº 19",El Grau ,Poblats Marítims,100,3,2,None,300.000
+"Piso en calle de Salamanca, cerca de Plaza de Cánovas del Castillo",Gran Via ,L'Eixample,80,2,1,None,350.000
+Apartamento en Ciutat Vella,La Xerea ,Ciutat Vella,135,2,2,None,430.000

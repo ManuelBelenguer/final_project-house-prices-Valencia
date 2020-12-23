@@ -1,0 +1,31 @@
+address,district,neighbourhood,sqft_surface,bedrooms,bathrooms,new_construction,price
+Apartamento en El Pla del Real,Benimaclet ,Benimaclet,110,4,2,None,244.900
+Piso en V-Campanar,Campanar ,Campanar,119,4,2,None,220.000
+Dúplex en V-Brasil/Pechina,Nou Moles ,L'Olivereta,148,3,2,None,265.000
+Piso en El Botànic,El Botànic ,Extramurs,96,3,1,None,244.990
+Piso en Extramuros-La Roqueta,La Roqueta ,Extramurs,102,3,2,None,210.000
+Piso en V-Benicalap/Ciudad Fallera,Benicalap ,Benicalap,124,3,2,None,249.000
+Piso en V-Av Aragon/Blasco Ibañez,L'Amistat ,Algirós,102,3,2,None,210.000
+Piso en V-Campanar,Campanar ,Campanar,114,4,2,None,220.000
+Piso en Avinguda de Suècia,Exposició ,El Pla del Real,140,2,2,None,390.000
+Piso en V-Perez Galdos/Fdo.Catolico,La Petxina ,Extramurs,130,5,2,None,255.000
+Piso en V-Centro,El Mercat ,Ciutat Vella,60,2,1,None,260.000
+"Piso en Carrer del Dramaturg Àngel Guimerà, cerca de Avinguda de Pérez Galdós",Arrancapins ,Extramurs,157,4,2,None,240.000
+Piso en Patraix,Patraix ,Patraix,95,3,2,None,225.000
+Piso en Patraix,Patraix ,Patraix,162,5,2,None,265.000
+Piso en V-Av Aragon/Blasco Ibañez,L'Amistat ,Algirós,112,3,2,None,255.000
+Piso en Gran Via,Gran Via ,L'Eixample,117,4,3,None,298.000
+Piso en Carrer del General Prim,Russafa ,L'Eixample,97,2,2,None,252.000
+"Piso en Avinguda de l'Actor Antonio Ferrandis, 18",Ciutat de les Arts i de les Ciències ,Quatre Carreres,113,2,2,None,285.000
+Piso en V-Av Aragon/Blasco Ibañez,L'Amistat ,Algirós,112,3,2,None,255.000
+Piso en V-Centro,El Mercat ,Ciutat Vella,60,2,1,None,260.000
+Ático en Sant Llorenç,Sant Llorenç ,Rascanya,130,3,2,None,255.000
+Piso en La Roqueta,La Roqueta ,Extramurs,125,5,3,None,300.000
+Ático en V-Cabañal,El Cabanyal-El Canyamelar ,Poblats Marítims,92,3,2,None,390.000
+Piso en V-Campanar,Campanar ,Campanar,90,3,2,None,310.000
+Piso en V-Perez Galdos/Fdo.Catolico,La Petxina ,Extramurs,187,6,2,None,280.000
+Piso en V-Av Aragon/Blasco Ibañez,L'Amistat ,Algirós,102,3,2,None,210.000
+Chalet en calle de Trafalgar,La Creu del Grau ,Camins al Grau,133,4,2,None,350.000
+Piso en La Creu del Grau,La Creu del Grau ,Camins al Grau,111,3,2,None,285.000
+"Piso en Avinguda de Pérez Galdós, 33",Patraix ,Patraix,137,3,2,Obra nueva,329.000
+"Piso en Avinguda de Pérez Galdós, 33",Patraix ,Patraix,143,3,2,Obra nueva,330.000

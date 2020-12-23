@@ -1,0 +1,31 @@
+address,district,neighbourhood,sqft_surface,bedrooms,bathrooms,new_construction,price
+Piso en Avenida del Maestro Rodrigo,Sant Pau ,Campanar,49,1,1,None,137.093
+Apartamento en Plaza de Olof Palme,L'Amistat ,Algirós,86,3,1,None,150.000
+Piso en L'Hort de Senabre,L'Hort de Senabre ,Jesús,4,2,2,None,175.000
+Piso en calle de José María Haro,La Carrasca ,Algirós,100,3,2,None,200.000
+"Piso en Carrer del Archiduque Carlos, cerca de Carrer de Fontanars dels Alforins",Safranar ,Patraix,110,4,2,None,144.900
+Piso en calle de Berenguer de Montoliu,La Malva-rosa ,Poblats Marítims,85,3,1,None,155.000
+Piso en calle de Fuencaliente,La Creu del Grau ,Camins al Grau,78,2,1,None,140.850
+Piso en València,Morvedre ,La Saïdia,95,3,1,None,120.000
+"Dúplex en calle de la Pianista Amparo Iturbi, cerca de Avenida de Ausiàs March",Malilla ,Quatre Carreres,133,3,2,None,195.000
+Piso en Trinitat,Trinitat ,La Saïdia,89,4,1,None,155.000
+Piso en Morvedre,Trinitat ,La Saïdia,103,3,2,None,185.000
+Piso en calle de Berenguer Mallol,Aiora ,Camins al Grau,114,3,2,None,198.969
+"Dúplex en Avenida del Instituto Obrero de Valencia, 11",Ciutat de les Arts i de les Ciències ,Quatre Carreres,94,3,2,None,220.000
+Piso en calle Cebrian Mezquita,La Raiosa ,Jesús,100,2,2,None,144.900
+"Ático en calle de Bailén, 58",La Roqueta ,Extramurs,66,1,1,None,179.900
+"Ático en Carrer del Dramaturg Àngel Guimerà, cerca de Carrer de l' Erudit Orellana",Arrancapins ,Extramurs,36,1,1,None,159.000
+"Piso en Carrer de Higinio Noja 'Professor', nº 22",La Creu del Grau ,Camins al Grau,79,3,1,None,130.000
+Piso en Benicalap,Benicalap ,Benicalap,104,3,2,None,195.000
+Piso en La Creu del Grau,La Creu del Grau ,Camins al Grau,105,4,1,None,140.000
+Piso en Benicalap,Benicalap ,Benicalap,136,4,2,None,185.000
+Piso en La Llum,Nou Moles ,L'Olivereta,117,4,1,None,165.000
+"Piso en Avenida del Puerto, cerca de Calle de José Aguilar",Aiora ,Camins al Grau,114,3,2,None,195.000
+"Piso en Avenida de Vicente Blasco Ibáñez, cerca de Plaza de Honduras",Beteró ,Poblats Marítims,94,3,2,None,220.000
+Piso en Carrer del Doctor Álvaro López,La Malva-rosa ,Poblats Marítims,97,4,2,None,163.000
+"Piso en calle del Padre Luis Navarro, cerca de Calle de la Barraca",El Cabanyal-El Canyamelar ,Poblats Marítims,70,1,1,None,170.000
+Piso en calle del Músico Penella,Favara ,Patraix,128,4,2,None,159.000
+Piso en calle del Pintor Ferrandis,El Cabanyal-El Canyamelar ,Poblats Marítims,99,3,1,None,155.000
+"Dúplex en Avenida Fernando Abril Martorell, nº 22",Malilla ,Quatre Carreres,122,3,3,None,212.000
+"Piso en calle de Manuela Estellés, cerca de Calle de Benisoda",Beteró ,Poblats Marítims,78,3,1,None,145.000
+"Piso en calle de Orihuela,  35",Morvedre ,La Saïdia,122,3,2,Obra nueva,188.000

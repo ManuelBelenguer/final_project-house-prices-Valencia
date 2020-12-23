@@ -1,0 +1,31 @@
+address,district,neighbourhood,sqft_surface,bedrooms,bathrooms,new_construction,price
+"Piso en calle de Esteban Ballester, nº 18",Beteró ,Poblats Marítims,112,4,2,None,180.000
+"Apartamento en calle de Mariano Cuber, nº 00",Beteró ,Poblats Marítims,72,2,1,None,120.000
+Piso en calle de Albacete,Arrancapins ,Extramurs,127,2,2,None,220.000
+Dúplex en Faitanar,Faitanar ,Pobles del Sud,155,2,2,None,195.000
+Apartamento en calle del Músico Peydró,Sant Francesc ,Ciutat Vella,75,3,1,None,220.000
+Ático en Benicalap,Benicalap ,Benicalap,70,2,1,None,165.000
+Piso en Carrer del Picaio,Benicalap ,Benicalap,100,4,2,None,149.000
+Piso en Benicalap,Benicalap ,Benicalap,85,3,1,None,149.900
+Piso en calle de Ángel Villena,En Corts ,Quatre Carreres,105,3,2,None,129.000
+"Piso en Avinguda del CID, cerca de Calle del Pintor Stolz",Nou Moles ,L'Olivereta,133,3,2,None,150.000
+Piso en calle de Fuerteventura,La Malva-rosa ,Poblats Marítims,80,3,2,None,125.000
+Piso en calle de Juan Castelló,Tormos ,La Saïdia,90,3,1,None,129.000
+Piso en calle de Jaime Beltrán,La Raiosa ,Jesús,124,3,2,None,179.500
+Piso en Carrer de l'Escultor Piquer,Torrefiel ,Rascanya,105,4,2,None,130.500
+Apartamento en Plaza Beatriu Civera,Camí Real ,Jesús,90,3,2,None,155.000
+Casa en Sant Llorenç,Sant Llorenç ,Rascanya,123,4,3,None,225.000
+"Piso en Avenida del Primado Reig, nº 95",Benimaclet ,Benimaclet,63,1,1,None,174.900
+Piso en Nou Moles,Nou Moles ,L'Olivereta,99,2,1,None,139.000
+Piso en calle de Jaime Beltrán,La Raiosa ,Jesús,116,3,2,None,187.525
+"Piso en Avenida del Puerto, cerca de Calle del Padre Porta",El Grau ,Poblats Marítims,141,4,1,None,180.000
+Piso en Carrer de Totana,Nou Moles ,L'Olivereta,104,4,2,None,140.000
+Piso en calle de Luis Lamarca,Nou Moles ,L'Olivereta,115,3,2,None,157.000
+"Piso en calle de Vicente Brull,  3, 5 y 7",El Grau ,Poblats Marítims,106,3,2,Obra nueva,191.900
+Piso en calle de Pedro Andreu,L'Hort de Senabre ,Jesús,100,4,2,None,175.000
+Piso en Carrer de Finlàndia,Mestalla ,El Pla del Real,125,3,2,None,179.000
+"Piso en Carrer de Juan Ramón Jiménez, nº 77",Malilla ,Quatre Carreres,100,3,2,None,154.600
+Piso en Arrancapins,Arrancapins ,Extramurs,108,2,1,None,195.000
+Piso en calle de Jaime Beltrán,La Raiosa ,Jesús,124,3,2,None,185.500
+Piso en calle Carrer de Sant Joan de Déu,La Malva-rosa ,Poblats Marítims,116,4,2,None,180.000
+Piso en La Creu del Grau,La Creu del Grau ,Camins al Grau,114,3,2,None,195.000

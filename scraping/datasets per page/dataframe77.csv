@@ -1,0 +1,12 @@
+address,district,neighbourhood,sqft_surface,bedrooms,bathrooms,new_construction,price
+Piso en Valencia,Montolivet ,Quatre Carreres,110,3,2,None,195.000
+Piso en Ciutat Jardí,Ciutat Jardí ,Algirós,75,3,1,None,145.000
+Piso en Valencia,El Carme ,Ciutat Vella,85,3,2,None,190.000
+Piso en Malilla,Malilla ,Quatre Carreres,45,1,1,None,130.000
+Piso en Aiora,Aiora ,Camins al Grau,122,3,2,None,158.500
+Ático en Patraix,Patraix ,Patraix,150,5,2,None,210.000
+Piso en La Torre,La Torre ,Pobles del Sud,100,3,2,None,175.000
+Piso en Arrancapins,Arrancapins ,Extramurs,74,2,1,None,121.000
+Ático en El Carme,El Carme ,Ciutat Vella,80,2,1,None,229.500
+Piso en Benimàmet,Benimàmet ,Pobles de l'Oest,142,3,1,None,149.000
+Piso en Aiora,Aiora ,Camins al Grau,None,110 m²,None,None,163.000

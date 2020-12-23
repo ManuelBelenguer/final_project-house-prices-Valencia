@@ -1,0 +1,32 @@
+address,district,neighbourhood,sqft_surface,bedrooms,bathrooms,new_construction,price
+Chalet en Carrer de José Ballester,El Cabanyal-El Canyamelar ,Poblats Marítims,109,3,1,None,210.000
+Piso en Les Tendetes,Les Tendetes ,Campanar,156,4,2,None,320.000
+Ático en La Roqueta,La Roqueta ,Extramurs,155,3,2,None,425.000
+Piso en Carrer de la Mar,La Xerea ,Ciutat Vella,45,1,1,None,229.900
+Piso en Avenida del Barón de Cárcer,Sant Francesc ,Ciutat Vella,175,4,2,None,470.000
+Piso en Mestalla,Mestalla ,El Pla del Real,147,7,2,None,230.000
+Piso en Camino Nuevo de Picaña,Sant Isidre ,Patraix,None,2,"1.774
+ €/m²",None,220.000
+Piso en Arrancapins,Arrancapins ,Extramurs,100,2,2,None,230.000
+Ático en Ciutat Vella,El Carme ,Ciutat Vella,60,1,1,None,220.000
+Casa adosada en Valencia,El Cabanyal-El Canyamelar ,Poblats Marítims,125,3,2,None,225.000
+Casa en Sant Llorenç,Sant Llorenç ,Rascanya,5,4,4,None,510.000
+Dúplex en Jesús,Patraix ,Patraix,140,4,4,None,250.000
+Casa adosada en En Corts,En Corts ,Quatre Carreres,165,4,2,None,320.000
+Ático en Jesús - La Raïosa,La Raiosa ,Jesús,108,2,1,None,260.000
+Piso en El Grau,El Grau ,Poblats Marítims,110,3,2,None,230.000
+Piso en Aiora,Aiora ,Camins al Grau,235,3,2,None,510.000
+Piso en Beteró,Beteró ,Poblats Marítims,102,6,2,None,230.000
+"Ático en Avinguda del Regne de València, cerca de Calle de Pedro III 'El Grande'",Russafa ,L'Eixample,119,3,1,None,315.000
+Ático en Morvedre,Sant Francesc ,Ciutat Vella,83,2,1,None,210.000
+Piso en Arrancapins,Arrancapins ,Extramurs,104,2,2,None,230.000
+Piso en Sant Pau,Sant Pau ,Campanar,96,2,2,None,305.000
+Piso en El Carme,El Carme ,Ciutat Vella,120,5,2,None,250.000
+Piso en El Pla del Real - Mestalla,Mestalla ,El Pla del Real,101,2,1,None,350.000
+Piso en La Roqueta,La Roqueta ,Extramurs,100,3,2,None,280.000
+Piso en Beteró,Beteró ,Poblats Marítims,137,3,2,None,248.950
+"Piso en calle de Sagunto, cerca de Calle del Poeta Monmeneu",Morvedre ,La Saïdia,135,6,2,None,320.000
+Casa adosada en calle de la Sirena,El Perellonet ,Pobles del Sud,252,4,3,None,325.000
+Apartamento en calle Alfahuir,Sant Llorenç ,Rascanya,129,2,2,None,346.800
+Piso en Carrer de Puerto Rico,Russafa ,L'Eixample,149,2,2,None,375.000
+Piso en Ruzafa,Russafa ,L'Eixample,123,4,2,None,250.000

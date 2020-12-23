@@ -1,0 +1,33 @@
+address,district,neighbourhood,sqft_surface,bedrooms,bathrooms,new_construction,price
+Casa en Benicalap,Benicalap ,Benicalap,180,3,1,None,170.000
+"Ático en Carrer de Sant Josep Sister,  28",El Grau ,Poblats Marítims,74,2,1,Obra nueva,223.000
+"Casa en calle del Doctor Soriano Benlloch, nº 2",Benimàmet ,Pobles de l'Oest,260,"730
+ €/m²","730
+ €/m²",None,190.000
+Piso en El Mercat,El Mercat ,Ciutat Vella,60,1,1,None,180.000
+"Piso en calle de San Roque,  2",Benicalap ,Benicalap,125,3,2,Obra nueva,227.000
+Casa en Benimàmet,Benimàmet ,Pobles de l'Oest,139,3,1,None,137.000
+Piso en Valencia,La Creu del Grau ,Camins al Grau,75,3,2,None,184.200
+Piso en El Grau,El Grau ,Poblats Marítims,74,3,1,None,120.000
+Piso en El Grau,El Grau ,Poblats Marítims,74,3,1,None,120.000
+Piso en Torrefiel,Torrefiel ,Rascanya,88,4,2,None,134.000
+Piso en Valencia,Benicalap ,Benicalap,129,4,2,None,170.925
+Piso en La Raiosa,La Raiosa ,Jesús,113,4,2,None,150.000
+Piso en Nou Moles,Nou Moles ,L'Olivereta,107,4,2,None,129.000
+Piso en Borbotó,Borbotó ,Pobles del Nord,129,4,2,None,140.000
+Piso en La Roqueta,La Roqueta ,Extramurs,93,3,2,None,177.000
+Piso en L'Hort de Senabre,L'Hort de Senabre ,Jesús,93,4,2,None,120.000
+Piso en Torrefiel,Torrefiel ,Rascanya,88,4,2,None,134.000
+Piso en Torrefiel,Torrefiel ,Rascanya,96,3,2,None,132.076
+Piso en Nou Moles,Nou Moles ,L'Olivereta,102,4,2,None,125.000
+"Piso en Carrer del Doctor Álvaro López, 64",La Malva-rosa ,Poblats Marítims,None,2,3ª planta,None,163.000
+"Piso en Avinguda de Pérez Galdós, cerca de Calle del Pintor Navarro Llorens",Arrancapins ,Extramurs,104,4,1,None,144.000
+Piso en Les Tendetes,Les Tendetes ,Campanar,70,4,1,None,135.000
+Piso en Benicalap,Benicalap ,Benicalap,106,4,2,None,120.000
+Piso en L'Hort de Senabre,L'Hort de Senabre ,Jesús,93,4,2,None,120.000
+"Piso en calle de Rodrigo de Pertegás, 15",La Creu del Grau ,Camins al Grau,None,1,6ª planta,None,175.000
+"Piso en Avinguda de Pérez Galdós, cerca de Calle del Pintor Navarro Llorens",Arrancapins ,Extramurs,104,4,1,None,144.000
+Piso en La Malva-rosa,La Malva-rosa ,Poblats Marítims,62,3,2,None,120.000
+Piso en Benicalap,Benicalap ,Benicalap,134,4,2,None,151.000
+Piso en En Corts,En Corts ,Quatre Carreres,85,3,1,None,140.000
+"Piso en Avinguda de Pérez Galdós, cerca de Calle del Pintor Navarro Llorens",Arrancapins ,Extramurs,104,4,1,None,144.000

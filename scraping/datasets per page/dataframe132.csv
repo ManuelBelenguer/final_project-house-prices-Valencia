@@ -1,0 +1,31 @@
+address,district,neighbourhood,sqft_surface,bedrooms,bathrooms,new_construction,price
+Piso en Nou Moles,Nou Moles ,L'Olivereta,70,2,1,None,145.000
+Piso en Arrancapins-Ave,Arrancapins ,Extramurs,134,3,2,None,226.000
+Piso en La Roqueta,La Roqueta ,Extramurs,93,3,2,None,177.000
+Piso en Algirós - Zona Blasco Ibañez,L'Illa Perduda ,Algirós,101,5,2,None,189.900
+Piso en Carrer de Luz Casanova,Sant Antoni ,La Saïdia,115,3,2,None,195.000
+Piso en calle Pare Vicent,En Corts ,Quatre Carreres,79,3,1,None,120.000
+Piso en En Corts,En Corts ,Quatre Carreres,76,2,2,None,150.000
+Apartamento en Campanar,Sant Pau ,Campanar,101,3,2,None,175.000
+Piso en calle de la Isla Formentera,Malilla ,Quatre Carreres,100,3,1,None,140.000
+Ático en Patraix,Sant Isidre ,Patraix,74,2,2,None,199.900
+"Piso en Avinguda del CID, cerca de Carrer de Linares",Nou Moles ,L'Olivereta,120,3,2,None,175.000
+Piso en calle OvIdI Montellor I Mengual,Camí Real ,Jesús,136,4,2,None,120.000
+Piso en calle de la Azucena,Benicalap ,Benicalap,95,3,1,None,139.900
+Piso en Patraix,Safranar ,Patraix,99,4,1,None,145.000
+"Piso en Carrer de Dénia, cerca de Carrer de Cuba",Russafa ,L'Eixample,90,3,1,None,161.000
+Piso en calle Carrer de L''arquebisbe Company,El Cabanyal-El Canyamelar ,Poblats Marítims,62,3,1,None,129.000
+"Piso en Carrera de la Fonteta de Sant Lluís, cerca de Calle de Bernia",En Corts ,Quatre Carreres,94,3,1,None,140.000
+Piso en calle de Alboraya,Trinitat ,La Saïdia,72,3,1,None,135.000
+Piso en Camí Real,Camí Real ,Jesús,90,2,1,None,125.000
+Piso en Beteró,Beteró ,Poblats Marítims,118,3,2,None,180.000
+Piso en Els Orriols,Orriols ,Rascanya,104,3,2,None,160.000
+Piso en Patraix,Patraix ,Patraix,80,2,1,None,130.000
+Apartamento en Benicalap,Benicalap ,Benicalap,127,3,2,None,185.000
+Piso en Benimaclet,Benimaclet ,Benimaclet,85,3,1,None,195.000
+Apartamento en Mestalla,Mestalla ,El Pla del Real,84,2,1,None,155.000
+Piso en La Torre,La Torre ,Pobles del Sud,116,3,2,None,168.500
+Apartamento en El Palmar,El Palmar ,Pobles del Sud,3,4,4,None,158.000
+"Piso en Avinguda de Valladolid, 13",Benimaclet ,Benimaclet,149,4,2,None,195.000
+Piso en Campanar,Campanar ,Campanar,85,2,2,None,165.000
+Piso en calle Dr Nicasio Benlloch,Benicalap ,Benicalap,135,4,2,None,151.200

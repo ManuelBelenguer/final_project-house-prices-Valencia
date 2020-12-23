@@ -1,0 +1,32 @@
+address,district,neighbourhood,sqft_surface,bedrooms,bathrooms,new_construction,price
+Piso en Ruzafa,Russafa ,L'Eixample,72,3,2,None,105.000
+Piso en Albors,Albors ,Camins al Grau,60,2,1,None,119.900
+Piso en Carrer de Llanera de Ranes,L'Hort de Senabre ,Jesús,111,3,2,None,129.500
+Piso en La Raiosa,La Raiosa ,Jesús,100,3,1,None,123.500
+Piso en Valencia,El Cabanyal-El Canyamelar ,Poblats Marítims,65,2,1,None,80.000
+Piso en Avinguda de Pius XII,El Calvari ,Campanar,102,4,1,None,129.900
+Piso en calle Burrull,El Carme ,Ciutat Vella,58,1,1,None,120.000
+Piso en El Calvari,El Calvari ,Campanar,56,3,1,None,60.000
+"Loft en calle de José Benlliure, cerca de Calle de Escalante",El Cabanyal-El Canyamelar ,Poblats Marítims,100,1,2,None,120.000
+Piso en Carretera de Alba,Sant Marcel·lí ,Jesús,75,2,1,None,59.900
+Piso en calle del Duque de Mandas,Orriols ,Rascanya,66,1,1,None,55.000
+Piso en Tres Forques,Tres Forques ,L'Olivereta,80,3,2,None,78.000
+Piso en Castellar-Oliveral,El Castellar-L'Oliveral ,Pobles del Sud,115,3,1,None,125.000
+Piso en La Torre,La Torre ,Pobles del Sud,77,2,1,None,73.660
+Apartamento en Lolivereta,Tres Forques ,L'Olivereta,60,3,1,None,55.000
+Piso en Nou Moles,Nou Moles ,L'Olivereta,75,3,1,None,65.000
+Chalet en Camino del Molí de la Campaneta,Sant Isidre ,Patraix,2.500,5,2,None,85.000
+"Piso en Avenida del Doctor Tomás Sala, nº 15",Sant Marcel·lí ,Jesús,90,3,1,None,115.000
+"Piso en calle de la Virgen de la Cabeza, nº 59",Vara de Quart ,Patraix,116,2,2,None,105.000
+Piso en calle Regino Mas,Ciutat Fallera ,Benicalap,61,2,1,None,59.200
+"Piso en calle de Giménez y Costa, cerca de Calle del Molí de Pala",Camí Real ,Jesús,89,4,1,None,55.000
+Piso en calle Regino Mas,Benicalap ,Benicalap,76,2,1,None,77.000
+"Piso en calle del Horticultor Galán, 4",Tormos ,La Saïdia,68,2,1,None,56.000
+"Apartamento en Avinguda de la Plata, cerca de Calle del Huerto de San Valero",Na Rovella ,Quatre Carreres,70,3,1,None,105.000
+Apartamento en Lolivereta,La Llum ,L'Olivereta,116,3,1,None,120.000
+Piso en Patraix,Patraix ,Patraix,82,2,1,None,123.000
+Piso en Camí Real,Camí Real ,Jesús,90,3,1,None,116.900
+Piso en Carrer de Domingo Gómez,Torrefiel ,Rascanya,96,4,1,None,78.000
+Piso en calle Regino Mas,Ciutat Fallera ,Benicalap,None,1,"563
+ €/m²",None,40.034
+Piso en Aiora,Aiora ,Camins al Grau,65,3,1,None,89.900

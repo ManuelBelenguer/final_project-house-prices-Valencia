@@ -1,0 +1,31 @@
+address,district,neighbourhood,sqft_surface,bedrooms,bathrooms,new_construction,price
+Piso en Torrefiel,Torrefiel ,Rascanya,70,3,1,None,62.000
+Piso en Cabañal,El Cabanyal-El Canyamelar ,Poblats Marítims,65,3,1,None,79.000
+Piso en Sant Isidre,Sant Isidre ,Patraix,93,4,1,None,128.000
+Piso en La Creu del Grau,La Creu del Grau ,Camins al Grau,68,2,1,None,87.000
+Piso en Carrer del Riu Bidasoa,Torrefiel ,Rascanya,90,3,1,None,119.000
+"Apartamento en Avinguda de Campanar, cerca de Avinguda del General Avilés",Beniferri ,Pobles de l'Oest,59,2,1,None,82.000
+Piso en Carrer de la Isla Cabrera,Malilla ,Quatre Carreres,109,3,2,None,129.000
+Piso en calle de Zapadores,Montolivet ,Quatre Carreres,73,3,1,None,130.000
+"Piso en calle de San Roque,  2",Benicalap ,Benicalap,59,1,1,Obra nueva,121.000
+Piso en calle Jose Grollo,Benicalap ,Benicalap,65,3,1,None,69.900
+Apartamento en Carrer de Betxí,Ciutat Fallera ,Benicalap,89,3,1,None,79.900
+Piso en Favara,Favara ,Patraix,75,3,1,None,127.500
+"Piso en calle de San Roque,  2",Benicalap ,Benicalap,59,1,1,Obra nueva,119.000
+"Piso en calle de San Roque,  2",Benicalap ,Benicalap,59,1,1,Obra nueva,110.000
+Piso en El Cabanyal-El Canyamelar,El Cabanyal-El Canyamelar ,Poblats Marítims,70,3,1,None,129.000
+Piso en Benicalap,Benicalap ,Benicalap,85,3,1,None,128.000
+Apartamento en calle de Molina,La Xerea ,Ciutat Vella,59,3,1,None,70.000
+Piso en Avenida de La Ronda de Natzaret,Natzaret ,Poblats Marítims,59,2,1,None,120.000
+Piso en calle de Ángel Villena,Na Rovella ,Quatre Carreres,105,3,2,None,129.000
+Apartamento en Avenida Amado Granell Mesado 'Militar',Montolivet ,Quatre Carreres,80,3,1,None,115.000
+Piso en Natzaret,Natzaret ,Poblats Marítims,68,2,1,None,60.000
+"Piso en Carrer de la Florista, nº 127",Benicalap ,Benicalap,70,2,1,None,81.900
+Piso en calle de Esquife,Les Tendetes ,Campanar,65,2,1,None,75.000
+"Piso en calle de la Isla de Hierro, 7",La Malva-rosa ,Poblats Marítims,68,3,1,None,75.000
+Piso en Faitanar,Faitanar ,Pobles del Sud,88,3,1,None,55.000
+"Apartamento en calle Peris Celda, 3",Ciutat Fallera ,Benicalap,75,3,1,None,49.900
+"Piso en calle de Pedro de Luna, 1",La Torre ,Pobles del Sud,68,3,1,None,36.000
+Apartamento en Carrer del Periodista Gil Sumbiela,Benicalap ,Benicalap,80,3,1,None,77.000
+Apartamento en calle de Daroca,Orriols ,Rascanya,60,2,1,None,60.000
+Piso en La Seu,La Seu ,Ciutat Vella,83,3,1,None,130.000

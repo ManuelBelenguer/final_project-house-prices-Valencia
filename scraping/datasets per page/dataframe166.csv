@@ -1,0 +1,34 @@
+address,district,neighbourhood,sqft_surface,bedrooms,bathrooms,new_construction,price
+Piso en Nou Moles,Nou Moles ,L'Olivereta,105,4,2,None,154.000
+"Ático en calle de Enrique Navarro, nº 5",Benimaclet ,Benimaclet,85,3,1,None,165.000
+Piso en L'Hort de Senabre,L'Hort de Senabre ,Jesús,105,3,2,None,125.000
+Piso en El Grau,El Grau ,Poblats Marítims,93,3,2,None,170.000
+Piso en Russafa,Russafa ,L'Eixample,67,2,1,None,165.000
+Piso en Massarrojos,Massarrojos ,Pobles del Nord,86,2,2,None,190.000
+Piso en Benicalap,Benicalap ,Benicalap,79,2,1,None,137.980
+Piso en Malilla,Malilla ,Quatre Carreres,53,1,1,None,130.000
+Piso en Malilla,Malilla ,Quatre Carreres,115,4,2,None,159.000
+Piso en Patraix,Patraix ,Patraix,94,3,2,None,170.000
+Piso en La Raiosa,La Raiosa ,Jesús,101,3,2,None,169.000
+Piso en El Cabanyal-El Canyamelar,El Cabanyal-El Canyamelar ,Poblats Marítims,76,3,1,None,190.000
+Piso en Montolivet,Montolivet ,Quatre Carreres,85,2,1,None,158.000
+Piso en Nou Moles,Nou Moles ,L'Olivereta,88,3,1,None,135.500
+Piso en Camí Fondo,Camí Fondo ,Camins al Grau,None,3,"1.473
+ €/m²",None,140.000
+Piso en Morvedre,Morvedre ,La Saïdia,107,3,2,None,140.000
+"Piso en calle de la Reina, cerca de Calle de la Barraca",El Cabanyal-El Canyamelar ,Poblats Marítims,118,"1.280
+ €/m²","1.280
+ €/m²",None,151.100
+Piso en Montolivet,Montolivet ,Quatre Carreres,96,3,2,None,175.000
+Piso en El Carme,El Carme ,Ciutat Vella,53,1,1,None,195.000
+Piso en Montolivet,Montolivet ,Quatre Carreres,93,3,1,None,225.000
+Piso en Gran Via,Gran Via ,L'Eixample,67,3,1,None,175.000
+Ático en Benicalap,Benicalap ,Benicalap,55,2,1,None,165.000
+Piso en La Roqueta,La Roqueta ,Extramurs,76,3,1,None,179.000
+Ático en La Torre,La Torre ,Pobles del Sud,104,3,2,None,162.000
+Piso en Montolivet,Montolivet ,Quatre Carreres,75,3,1,None,135.000
+Piso en En Corts,En Corts ,Quatre Carreres,116,3,1,None,160.000
+Piso en Campanar,Campanar ,Campanar,110,2,2,None,198.000
+Piso en Arrancapins,Arrancapins ,Extramurs,87,2,2,None,159.000
+Ático en Russafa,Russafa ,L'Eixample,68,2,1,None,205.000
+"Piso en Avenida del Primado Reig, 19",Orriols ,Rascanya,115,3,2,None,149.000

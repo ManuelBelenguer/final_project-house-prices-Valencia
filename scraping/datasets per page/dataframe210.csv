@@ -1,0 +1,32 @@
+address,district,neighbourhood,sqft_surface,bedrooms,bathrooms,new_construction,price
+Ático en Sant Francesc,Sant Francesc ,Ciutat Vella,91,2,1,None,255.000
+Casa adosada en calle de la Dama de Elche,Aiora ,Camins al Grau,300,4,2,None,320.000
+"Ático en Carrer de Pedro Cabanes, nº 109",Torrefiel ,Rascanya,158,4,3,None,333.000
+"Ático en Carrer del Rellotge Vell, nº 7",La Seu ,Ciutat Vella,139,3,2,None,510.000
+Piso en Montolivet,Montolivet ,Quatre Carreres,84,3,1,None,290.000
+Piso en Sant Francesc,Sant Francesc ,Ciutat Vella,194,5,2,None,475.000
+"Piso en Carrer del Río Escalona, 3",El Castellar-L'Oliveral ,Pobles del Sud,None,2,"1.738
+ €/m²",None,226.000
+Apartamento en Extramurs,Arrancapins ,Extramurs,148,5,2,None,277.000
+Ático en Patraix,Patraix ,Patraix,129,5,2,None,210.000
+"Piso en Passatge de Ripalda, nº 12",Sant Francesc ,Ciutat Vella,193,3,2,None,499.900
+Ático en La Creu del Grau,La Creu del Grau ,Camins al Grau,107,3,3,None,300.000
+Piso en Sant Llorenç,Orriols ,Rascanya,129,3,2,None,350.000
+"Ático en Carrer de Quart, cerca de Calle de Azcárraga",La Petxina ,Extramurs,70,2,1,None,215.000
+"Piso en Carrer del Palleter, cerca de Carrer del Dramaturg Àngel Guimerà",Arrancapins ,Extramurs,120,3,2,None,275.000
+Ático en Tormos,Tormos ,La Saïdia,140,3,3,None,295.000
+Ático en Beniferri,Beniferri ,Pobles de l'Oest,113,3,1,None,289.285
+"Piso en Avenida Amado Granell Mesado, 65",Ciutat de les Arts i de les Ciències ,Quatre Carreres,123,3,2,None,309.600
+Ático en calle del Micer Rabasa,La Raiosa ,Jesús,141,3,1,Obra nueva,272.815
+Apartamento en Carrer de Vinatea,El Mercat ,Ciutat Vella,153,3,2,None,297.500
+Piso en calle Fontanares,Patraix ,Patraix,152,3,2,None,236.000
+Casa en Cases de Bàrcena,Cases de Bàrcena ,Pobles del Nord,855,3,1,None,300.000
+Piso en Gran Via,Gran Via ,L'Eixample,136,4,3,None,400.000
+Piso en calle Casstell de Benisanó,Nou Moles ,L'Olivereta,120,4,2,None,218.000
+Casa pareada en Patraix,Patraix ,Patraix,334,4,3,None,415.000
+"Apartamento en Avinguda de Manuel de Falla, nº 12",Sant Pau ,Campanar,165,4,2,None,379.000
+Chalet en calle Carrer de Francesc Baldomar,El Cabanyal-El Canyamelar ,Poblats Marítims,260,4,2,None,359.000
+Piso en Mestalla,Mestalla ,El Pla del Real,158,4,2,None,450.000
+"Piso en Carrer de Cadis, cerca de Carrer de Dénia",Russafa ,L'Eixample,100,3,2,None,219.000
+Piso en Arrancapins,Arrancapins ,Extramurs,110,3,2,None,290.000
+Piso en Gran Via,Gran Via ,L'Eixample,135,4,2,None,275.000

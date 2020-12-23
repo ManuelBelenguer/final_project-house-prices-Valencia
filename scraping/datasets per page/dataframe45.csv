@@ -1,0 +1,31 @@
+address,district,neighbourhood,sqft_surface,bedrooms,bathrooms,new_construction,price
+"Piso en calle de Ribelles Comin, nº 5",En Corts ,Quatre Carreres,100,4,2,None,121.000
+Piso en calle de María de Molina,Camí Real ,Jesús,70,3,1,None,73.000
+Casa en calle del Párroco Cobos,Benimàmet ,Pobles de l'Oest,100,3,2,None,130.000
+Casa en Benimàmet,Benimàmet ,Pobles de l'Oest,110,1,1,None,92.000
+Piso en Ciutat Fallera,Ciutat Fallera ,Benicalap,96,3,2,None,111.000
+Piso en Torrefiel,Torrefiel ,Rascanya,139,4,2,None,86.000
+Piso en Orriols,Orriols ,Rascanya,59,2,1,None,55.000
+Piso en Beteró,Beteró ,Poblats Marítims,76,2,1,None,70.800
+Piso en Ciutat Universitària,Ciutat Universitària ,El Pla del Real,55,3,1,None,98.000
+Piso en Quatre Carreres,Na Rovella ,Quatre Carreres,91,3,1,None,94.500
+Piso en Tormos,Tormos ,La Saïdia,92,3,1,None,125.000
+Piso en Benimàmet,Benimàmet ,Pobles de l'Oest,72,3,1,None,59.000
+Apartamento en Jesús,Sant Marcel·lí ,Jesús,94,3,2,None,132.000
+"Piso en calle de San Marcelino, 33",Sant Marcel·lí ,Jesús,67,3,1,None,71.500
+Piso en calle de la Sierra de Agullent,Benicalap ,Benicalap,83,3,1,None,124.000
+"Piso en calle de la Olivereta, 42",Tres Forques ,L'Olivereta,71,3,1,None,77.000
+Piso en Tres Forques,Tres Forques ,L'Olivereta,80,3,2,None,79.900
+Piso en Jesus,L'Hort de Senabre ,Jesús,69,2,1,None,84.000
+Piso en Camí Real,Camí Real ,Jesús,92,3,1,None,110.000
+Apartamento en Patraix,Vara de Quart ,Patraix,116,2,2,None,105.000
+Piso en La Olivereta,Nou Moles ,L'Olivereta,64,3,1,None,77.000
+Piso en Marxalenes,Tormos ,La Saïdia,89,3,1,None,91.000
+"Piso en Carretera de Malilla, cerca de Carrera de Malilla",Malilla ,Quatre Carreres,94,4,2,None,119.000
+Apartamento en El Perellonet,El Perellonet ,Pobles del Sud,74,3,2,None,78.000
+Piso en Nou Moles,Nou Moles ,L'Olivereta,82,3,1,None,89.000
+Piso en Sant Marcel·Lí,Sant Marcel·lí ,Jesús,70,3,1,None,65.000
+Piso en Benicalap,Benicalap ,Benicalap,75,3,1,None,98.000
+Piso en El Perellonet,El Perellonet ,Pobles del Sud,78,3,1,None,125.000
+Apartamento en Patraix,Patraix ,Patraix,111,3,1,None,98.000
+Piso en L'Amistat,L'Amistat ,Algirós,67,2,1,None,100.000

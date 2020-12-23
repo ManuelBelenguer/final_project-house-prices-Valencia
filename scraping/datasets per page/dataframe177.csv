@@ -1,0 +1,31 @@
+address,district,neighbourhood,sqft_surface,bedrooms,bathrooms,new_construction,price
+"Piso en calle del Camp del Túria, 30",Sant Pau ,Campanar,170,3,3,Obra nueva,498.000
+Casa en Avenida de la Estación,Benimàmet ,Pobles de l'Oest,260,3,3,None,215.000
+"Ático en Carrer de Sant Josep Sister,  28",El Grau ,Poblats Marítims,98,3,2,Obra nueva,280.000
+Piso en Benicalap,Benicalap ,Benicalap,116,3,2,None,295.000
+Apartamento en Avinguda de Sant Josep de la Muntanya,La Petxina ,Extramurs,143,4,2,None,240.000
+"Ático en calle de Alfons Verdeguer, 1",Les Tendetes ,Campanar,159,4,3,None,230.000
+"Piso en calle del Camp del Túria, 30",Sant Pau ,Campanar,86,1,1,Obra nueva,216.000
+"Piso en Carrer de Xàbia, 4",Sant Francesc ,Ciutat Vella,136,4,2,None,299.000
+Piso en Carrer de Sorní,El Pla del Remei ,L'Eixample,99,2,2,None,398.000
+Piso en calle calle Alejandra Soler,El Carme ,Ciutat Vella,122,3,2,None,299.000
+"Piso en calle de San Roque,  2",Benicalap ,Benicalap,125,3,2,Obra nueva,210.000
+Chalet en calle Carrer de Josep Benlliure,El Cabanyal-El Canyamelar ,Poblats Marítims,120,3,3,None,340.000
+Piso en Arrancapins,Arrancapins ,Extramurs,169,5,2,None,325.000
+"Piso en Gran Vía de Fernando 'El Católico', cerca de Carrer de l' Erudit Orellana",La Petxina ,Extramurs,122,3,2,None,250.000
+"Piso en calle del Camp del Túria, 30",Sant Pau ,Campanar,140,3,2,Obra nueva,362.000
+Piso en Avinguda del Doctor Waksman,En Corts ,Quatre Carreres,114,4,2,None,220.000
+Piso en calle del Almirante,La Xerea ,Ciutat Vella,111,3,1,None,265.000
+Piso en calle de Trafalgar,Penya-roja ,Camins al Grau,132,3,2,None,350.000
+"Casa en calle de la Democracia, cerca de Avinguda de Pérez Galdós",La Petxina ,Extramurs,280,7,1,None,269.000
+Ático en Nou Campanar,Sant Pau ,Campanar,106,3,2,None,275.000
+"Piso en Gran Vía de Ramón y Cajal, nº 47",La Creu Coberta ,Jesús,138,4,2,None,255.500
+Piso en Avinguda de Suècia,Mestalla ,El Pla del Real,128,3,2,None,280.000
+Piso en La Roqueta,La Roqueta ,Extramurs,125,3,1,None,215.000
+"Piso en calle de la Reina, cerca de Calle de la Barraca",El Cabanyal-El Canyamelar ,Poblats Marítims,122,3,2,None,300.000
+"Piso en calle del Médico Esteve,  6",La Raiosa ,Jesús,139,3,2,Obra nueva,265.500
+Piso en calle del Ingeniero José Sirera,Sant Marcel·lí ,Jesús,136,3,2,None,219.900
+Piso en Carrer dels Serrans,El Carme ,Ciutat Vella,83,1,1,None,250.000
+Casa adosada en Fonteta de Sant Lluís,Fonteta de Sant Lluís ,Quatre Carreres,201,3,3,Obra nueva,357.000
+Piso en Avenida de los Hermanos Machado,Benicalap ,Benicalap,99,3,2,None,212.500
+"Piso en Carrer Josep AlmInyana I Vallés,  6",Sant Pau ,Campanar,132,3,2,Obra nueva,267.000

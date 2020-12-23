@@ -1,0 +1,32 @@
+address,district,neighbourhood,sqft_surface,bedrooms,bathrooms,new_construction,price
+"Ático en calle del Padre Luis Navarro, cerca de Calle de la Barraca",El Cabanyal-El Canyamelar ,Poblats Marítims,55,2,1,None,158.500
+"Piso en Carrer de Cadis, cerca de Carrer de Dénia",L'Eixample ,Capital),70,2,2,None,176.000
+Piso en Nou Moles,Nou Moles ,L'Olivereta,77,3,1,None,128.000
+Piso en Carrer del Doctor Ferran,Mestalla ,El Pla del Real,54,2,1,None,126.600
+Piso en Carrer de l'Explorador Andrés,Ciutat Jardí ,Algirós,98,3,1,None,170.000
+Apartamento en Extramurs,El Botànic ,Extramurs,73,2,1,None,160.000
+Piso en calle Joan Josep Sister 21,El Grau ,Poblats Marítims,70,2,2,None,148.000
+Piso en L'Amistat,L'Amistat ,Algirós,112,4,2,None,197.000
+Piso en Benimaclet,Sant Llorenç ,Rascanya,114,4,2,None,220.000
+"Loft en Carrer del Dramaturg Àngel Guimerà, cerca de Avinguda de Pérez Galdós",La Petxina ,Extramurs,None,1,"3.571
+ €/m²",None,125.000
+Piso en El Grau,El Grau ,Poblats Marítims,98,3,2,None,186.000
+Apartamento en El Perellonet,El Perellonet ,Pobles del Sud,108,3,2,None,190.000
+Ático en El Grau,El Grau ,Poblats Marítims,52,2,1,None,160.000
+Apartamento en El Cabanyal-El Canyamelar,El Cabanyal-El Canyamelar ,Poblats Marítims,160,2,1,None,215.000
+Piso en Carrer de Venezuela,Sant Francesc ,Ciutat Vella,124,4,2,None,170.000
+Piso en Carrer de Olimpia Arozena Torres 'Professora',Nou Moles ,L'Olivereta,118,3,2,None,139.000
+Piso en calle del Micer Rabasa,La Raiosa ,Jesús,76,2,2,Obra nueva,149.900
+Piso en La Creu del Grau,La Creu del Grau ,Camins al Grau,98,3,1,None,120.000
+Piso en calle Avd Giorgeta,Sant Francesc ,Ciutat Vella,116,3,2,None,180.000
+Apartamento en La Seu,La Seu ,Ciutat Vella,40,1,1,None,230.000
+Piso en calle del Padre Esteban Pernet,La Llum ,L'Olivereta,81,2,2,None,162.000
+Piso en La Creu Coberta,La Creu Coberta ,Jesús,115,4,2,None,145.000
+"Apartamento en calle de Orihuela, 39",Morvedre ,La Saïdia,118,3,2,None,188.000
+"Piso en calle de Vicente Brull,  3, 5 y 7",El Grau ,Poblats Marítims,110,3,2,Obra nueva,196.900
+Piso en calle del Padre Huérfanos,El Carme ,Ciutat Vella,90,3,2,None,200.000
+"Piso en calle del Arquitecto Monleón, nº 9",La Creu Coberta ,Jesús,100,3,2,None,170.000
+Apartamento en calle de La Dama D Elx 17,La Creu del Grau ,Camins al Grau,80,3,1,None,151.000
+Piso en calle de Jaime Beltrán,La Raiosa ,Jesús,107,3,2,None,169.900
+Piso en Mestalla,Mestalla ,El Pla del Real,110,2,2,None,220.000
+Piso en Sant Isidre,Sant Isidre ,Patraix,96,4,1,None,139.900

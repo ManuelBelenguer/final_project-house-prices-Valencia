@@ -1,0 +1,31 @@
+address,district,neighbourhood,sqft_surface,bedrooms,bathrooms,new_construction,price
+"Piso en calle de Goya,  s/n",Nou Moles ,L'Olivereta,123,3,2,Obra nueva,177.624
+Ático en calle de Garcilaso,El Carme ,Ciutat Vella,50,1,1,None,220.000
+Piso en calle de Jaime Beltrán,La Raiosa ,Jesús,124,3,2,None,182.500
+Piso en Carrer de les Acàcies,Benicalap ,Benicalap,145,4,2,None,185.000
+Piso en calle del Micer Rabasa,La Raiosa ,Jesús,117,3,2,Obra nueva,183.500
+Piso en Carrer de Gibraltar,Russafa ,L'Eixample,84,4,2,None,150.000
+Piso en calle de Jaime Beltrán,La Raiosa ,Jesús,117,3,2,None,187.525
+Piso en Avenida de Eduardo Boscá,Camí Fondo ,Camins al Grau,117,4,2,None,179.000
+"Piso en Carrer Vicente Clavel,  s/n",Safranar ,Patraix,119,3,2,Obra nueva,198.000
+Piso en La Xerea,La Xerea ,Ciutat Vella,64,3,1,None,205.000
+Casa en Avenida de la Estación,Benimàmet ,Pobles de l'Oest,260,3,3,None,215.000
+Piso en Carrer del Pintor Julio Vila Prades,Arrancapins ,Extramurs,100,3,1,None,159.900
+"Piso en Avinguda de Pérez Galdós, cerca de Calle de Calixto III",Arrancapins ,Extramurs,95,3,1,None,120.000
+Piso en Sant Isidre,Sant Isidre ,Patraix,123,4,2,None,202.000
+Piso en En Corts,En Corts ,Quatre Carreres,78,3,1,None,130.000
+Piso en calle de Jaime Beltrán,La Raiosa ,Jesús,117,3,2,None,180.500
+"Ático en calle de Alfons Verdeguer, 1",Les Tendetes ,Campanar,159,4,3,None,230.000
+"Piso en calle del Camp del Túria, 30",Sant Pau ,Campanar,86,1,1,Obra nueva,216.000
+Apartamento en calle de Oltá,La Creu Coberta ,Jesús,120,4,2,None,159.900
+Piso en La Carrasca,La Carrasca ,Algirós,130,4,2,None,169.000
+Piso en Cabañal,El Cabanyal-El Canyamelar ,Poblats Marítims,119,4,2,None,149.000
+"Piso en Carrer Vicente Clavel,  s/n",Safranar ,Patraix,119,3,2,Obra nueva,204.000
+"Piso en calle de San Roque,  2",Benicalap ,Benicalap,125,3,2,Obra nueva,210.000
+Piso en calle de María Jordán,Patraix ,Patraix,114,4,2,None,130.000
+"Piso en Carrer Vicente Clavel,  s/n",Safranar ,Patraix,75,2,2,Obra nueva,144.000
+Piso en Malvarrosa - Patacona,La Malva-rosa ,Poblats Marítims,96,4,2,None,185.000
+"Piso en Carrer de Juan Ramón Jiménez, cerca de Calle de Bernat Descoll",Malilla ,Quatre Carreres,100,3,1,None,169.000
+Piso en calle de Guillem Sorolla,El Carme ,Ciutat Vella,93,3,2,None,200.000
+Piso en Avinguda del Doctor Waksman,En Corts ,Quatre Carreres,114,4,2,None,220.000
+Apartamento en Pobles del Sud - El Perellonet,El Perellonet ,Pobles del Sud,70,2,1,None,120.000

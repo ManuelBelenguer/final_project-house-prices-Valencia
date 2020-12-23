@@ -1,0 +1,31 @@
+address,district,neighbourhood,sqft_surface,bedrooms,bathrooms,new_construction,price
+Ático en Gran Via,Gran Via ,L'Eixample,173,4,2,None,510.000
+Piso en Extramurs - Arrancapins,Arrancapins ,Extramurs,241,3,3,None,516.104
+Chalet en Valencia,Torrefiel ,Rascanya,236,3,1,None,245.000
+Apartamento en Extramurs,Campanar ,Campanar,220,6,2,None,279.000
+Piso en Carrer del Caporal Jubi,Russafa ,L'Eixample,101,3,2,None,218.000
+Piso en La Petxina,La Petxina ,Extramurs,111,3,2,None,270.000
+Piso en El Pla del Remei,El Pla del Remei ,L'Eixample,77,2,1,None,370.000
+Piso en Arrancapins,Arrancapins ,Extramurs,130,5,2,None,225.000
+Piso en Avenida del Maestro Rodrigo,Sant Pau ,Campanar,124,3,2,None,330.000
+Apartamento en Campanar,Sant Pau ,Campanar,125,3,2,None,350.000
+Piso en calle Suiza,La Punta ,Quatre Carreres,108,3,2,None,295.000
+Casa en calle Carretera Fuente en Corts,La Punta ,Quatre Carreres,238,4,1,None,215.000
+"Piso en Carrer del Dramaturg Àngel Guimerà, cerca de Gran Vía de Fernando 'El Católico'",El Botànic ,Extramurs,119,3,3,None,330.000
+"Ático en calle de Calixto III, nº 12",La Petxina ,Extramurs,128,3,2,None,490.000
+Piso en La Roqueta,La Roqueta ,Extramurs,138,4,2,None,275.000
+Apartamento en El Perellonet,El Perellonet ,Pobles del Sud,70,2,2,None,250.000
+Piso en calle de Vicente Ríos Enrique,Sant Pau ,Campanar,125,3,2,None,340.000
+Piso en Ciutat de Les Artes I Les Ciències,Ciutat de les Arts i de les Ciències ,Quatre Carreres,129,4,2,None,260.000
+Piso en Patraix,Patraix ,Patraix,152,3,2,None,235.000
+Piso en calle de Santa María Micaela,La Petxina ,Extramurs,141,4,3,None,220.000
+Piso en El Mercat,El Mercat ,Ciutat Vella,118,2,2,None,380.000
+Piso en Arrancapins,Arrancapins ,Extramurs,103,3,1,None,220.000
+Piso en Arrancapins-Plaza Espaa,La Roqueta ,Extramurs,99,3,2,None,230.000
+Piso en Sant Pau,Sant Pau ,Campanar,124,3,2,None,349.000
+Apartamento en calle de L'arxiduc Carles,Patraix ,Patraix,180,4,3,None,240.000
+"Piso en calle Dr Bartual Moret, nº 8",Ciutat Universitària ,El Pla del Real,110,3,2,None,259.000
+Piso en Russafa,Russafa ,L'Eixample,84,3,2,None,290.000
+Apartamento en Jesús,La Raiosa ,Jesús,143,3,2,None,280.000
+Estudio en Valencia,Sant Francesc ,Ciutat Vella,211,5,2,None,450.000
+Piso en Russafa,Russafa ,L'Eixample,118,3,2,None,345.000

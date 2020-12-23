@@ -1,0 +1,31 @@
+address,district,neighbourhood,sqft_surface,bedrooms,bathrooms,new_construction,price
+Piso en Ciutat Vella,La Xerea ,Ciutat Vella,126,3,2,None,365.000
+Apartamento en Leixample,Gran Via ,L'Eixample,200,5,2,None,500.000
+Apartamento en Leixample,El Pla del Remei ,L'Eixample,120,4,2,None,385.000
+"Piso en Roqueta, La",La Roqueta ,Extramurs,60,2,1,None,270.000
+Piso en Russafa,Russafa ,L'Eixample,103,3,1,None,355.000
+"Piso en Carrer del Archiduque Carlos, nº 19",Arrancapins ,Extramurs,179,4,3,None,240.000
+"Piso en Carrer de la Isla Cabrera, 17",Malilla ,Quatre Carreres,120,5,3,None,275.000
+Ático en El Carme,El Carme ,Ciutat Vella,94,2,1,None,349.000
+Piso en Carrer de Ribera,Sant Francesc ,Ciutat Vella,205,5,3,None,499.000
+Piso en Ciutat Universitària,Ciutat Universitària ,El Pla del Real,97,4,2,None,315.000
+Piso en El Botànic,El Botànic ,Extramurs,99,3,1,None,245.000
+Apartamento en calle del Pintor Salvador Abril,Russafa ,L'Eixample,158,7,2,None,349.000
+Piso en Arrancapins,Arrancapins ,Extramurs,127,4,2,None,260.000
+Piso en Avinguda de Catalunya,Ciutat Universitària ,El Pla del Real,138,4,2,None,260.000
+Piso en Plaza de Vicente Iborra,El Carme ,Ciutat Vella,171,5,2,None,310.000
+Apartamento en Leixample,Gran Via ,L'Eixample,153,4,2,None,389.000
+Piso en Russafa,Gran Via ,L'Eixample,161,2,3ª planta,None,395.000
+Piso en La Xerea,La Xerea ,Ciutat Vella,183,4,2,None,450.000
+Apartamento en Avenida de Aragón,Mestalla ,El Pla del Real,168,4,2,None,379.000
+Piso en Avenida Amado Granell Mesado,Ciutat de les Arts i de les Ciències ,Quatre Carreres,123,3,2,None,309.600
+Piso en Gran Via,Gran Via ,L'Eixample,149,4,2,None,465.000
+"Apartamento en calle de la Reina, cerca de Calle de la Barraca",El Cabanyal-El Canyamelar ,Poblats Marítims,130,3,2,None,300.000
+Ático en calle del Pintor Pascual Capuz,Nou Moles ,L'Olivereta,108,2,2,None,280.000
+Piso en Russafa,Russafa ,L'Eixample,116,4,2,None,295.000
+Piso en calle de José María Haro,Beteró ,Poblats Marítims,105,4,2,None,238.000
+"Apartamento en Carrer de Maties Perelló, cerca de Carrer del Doctor Sumsi",Russafa ,L'Eixample,145,5,2,None,265.000
+Piso en Plaza del Músico Albéniz,Jaume Roig ,El Pla del Real,193,4,2,None,450.000
+"Apartamento en Carrer del Cronista Carreres, nº 1",La Xerea ,Ciutat Vella,183,4,2,None,450.000
+Piso en Carrer de l'Historiador Diago,Arrancapins ,Extramurs,132,5,2,None,250.000
+Piso en Sant Francesc,Sant Francesc ,Ciutat Vella,116,3,2,None,360.000

@@ -1,0 +1,33 @@
+address,district,neighbourhood,sqft_surface,bedrooms,bathrooms,new_construction,price
+Piso en L'eixample - Zona Gran Via,Gran Via ,L'Eixample,90,1,1,None,315.000
+Ático en Mestalla,Mestalla ,El Pla del Real,75,2,2,None,299.000
+Chalet en El Cabanyal - El Canyamelar,El Cabanyal-El Canyamelar ,Poblats Marítims,412,5,3,None,425.000
+Piso en Russafa,Russafa ,L'Eixample,165,4,2,None,255.000
+"Apartamento en Avenida de las Tres Cruces, nº 84",Sant Isidre ,Patraix,124,3,2,None,210.000
+"Piso en calle del Río Nervión,  s/n",Benicalap ,Capital),136,3,2,Obra nueva,219.000
+Piso en calle de Francisco Moreno Usedo,Nou Moles ,L'Olivereta,231,"974
+ €/m²","974
+ €/m²",None,225.000
+Piso en Sant Francesc,Sant Francesc ,Ciutat Vella,90,3,2,None,267.000
+Piso en Russafa,Russafa ,L'Eixample,106,3,2,None,235.000
+Piso en Cabanyal-Canyamelar,El Cabanyal-El Canyamelar ,Poblats Marítims,130,3,2,None,300.000
+Casa en calle de Dolores Marqués,Sant Llorenç ,Rascanya,204,4,3,None,440.000
+Piso en Carrer Almassora,La Seu ,Ciutat Vella,125,3,2,Obra nueva,320.000
+Piso en Campanar,Sant Pau ,Campanar,120,3,2,None,350.000
+Piso en Malilla,Malilla ,Quatre Carreres,106,3,2,None,217.000
+Ático en La Raiosa,La Raiosa ,Jesús,130,3,2,None,259.900
+Piso en Ciutat Jardí,Ciutat Jardí ,Algirós,188,4,3,None,330.000
+Piso en El Pilar,El Pilar ,Ciutat Vella,113,3,2,None,279.900
+Piso en Benicalap,Benicalap ,Benicalap,103,3,2,None,262.000
+"Piso en Avinguda del Regne de València, cerca de Gran Vía del Marqués del Turia",Gran Via ,L'Eixample,104,3,2,None,353.000
+Piso en Sant Francesc,Sant Francesc ,Ciutat Vella,90,3,2,None,240.000
+"Piso en Avenida de las Cortes Valencianas, nº 41",Sant Pau ,Campanar,133,3,2,None,257.500
+Apartamento en calle de Alicante,Russafa ,L'Eixample,121,4,2,None,235.000
+Piso en Russafa,Russafa ,L'Eixample,149,3,2,None,250.000
+Piso en Sant Pau,Sant Pau ,Campanar,106,3,2,None,290.000
+Piso en Carrer del Clariano,La Bega Baixa ,Algirós,133,3,2,None,232.000
+Piso en El Ensanche,Gran Via ,L'Eixample,200,5,3,None,490.000
+Piso en Russafa,Russafa ,L'Eixample,92,2,2,None,340.000
+Piso en Benimaclet,Benimaclet ,Benimaclet,149,4,2,None,220.000
+"Piso en Carrer de Gibraltar,  15",Russafa ,L'Eixample,66,2,2,Obra nueva,249.000
+Piso en Ruzafa,Russafa ,L'Eixample,90,3,1,None,250.000

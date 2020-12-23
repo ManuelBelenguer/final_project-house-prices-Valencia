@@ -1,0 +1,31 @@
+address,district,neighbourhood,sqft_surface,bedrooms,bathrooms,new_construction,price
+"Piso en Avinguda del Cardenal Benlloch, cerca de Calle de los Santos Justo y Pastor",Mestalla ,El Pla del Real,78,2,1,None,163.000
+Piso en calle de Montán,El Cabanyal-El Canyamelar ,Poblats Marítims,77,3,1,None,121.000
+Piso en calle de San Rafael,La Malva-rosa ,Poblats Marítims,101,4,2,None,180.000
+Piso en Aiora,Aiora ,Camins al Grau,80,2,1,None,158.000
+Piso en calle del Brasil,Nou Moles ,L'Olivereta,107,3,2,None,130.000
+Piso en calle de José María Bayarri,La Llum ,L'Olivereta,108,3,2,None,134.000
+Piso en calle del Alcalde Cano Coloma,Aiora ,Camins al Grau,55,2,1,None,120.000
+Piso en calle de Alberique,Arrancapins ,Extramurs,117,5,1,None,205.000
+Piso en Gran Via,Gran Via ,L'Eixample,70,3,1,None,175.000
+Piso en Plaza José María Giménez Fayos,Benicalap ,Benicalap,113,3,2,None,197.000
+Dúplex en La Carrasca,La Carrasca ,Algirós,85,2,3ª planta,None,189.000
+Piso en calle del Alcalde Albors,Arrancapins ,Extramurs,78,3,1,None,134.500
+"Piso en Carrer del Museu, nº 5",Sant Francesc ,Ciutat Vella,81,4,1,None,175.000
+Piso en Carrer del Riu Bidasoa,Benicalap ,Benicalap,106,3,2,None,155.000
+Piso en El Cabanyal-El Canyamelar,El Cabanyal-El Canyamelar ,Poblats Marítims,58,3,1,None,135.000
+Piso en Arrancapins,Arrancapins ,Extramurs,88,2,1,None,210.000
+"Piso en Avenida de Ausiàs March, cerca de Calle de Na Rovella",Malilla ,Quatre Carreres,125,6,2,None,154.500
+"Piso en calle del Grabador Jordán, cerca de Plaza del Escultor Pastor",Fonteta de Sant Lluís ,Quatre Carreres,93,3,2,None,144.900
+"Piso en calle de Escalante, cerca de Calle de José Benlliure",El Cabanyal-El Canyamelar ,Poblats Marítims,60,3,1,None,145.000
+"Piso en calle del Músico Barbieri, nº 2",Patraix ,Patraix,85,3,1,None,150.000
+Piso en Carrer de Domingo Gómez,Benicalap ,Benicalap,79,3,1,None,135.000
+Piso en calle Galdos,Nou Moles ,L'Olivereta,131,2,2,None,135.000
+"Piso en Avinguda de Campanar, cerca de Calle de Conchita Piquer",El Calvari ,Campanar,78,3,1,None,125.000
+Piso en La Creu Coberta,La Creu Coberta ,Jesús,140,4,2,None,230.000
+Piso en Petxina,La Petxina ,Extramurs,108,3,1,None,160.000
+Piso en Beteró,Beteró ,Poblats Marítims,112,4,2,None,190.000
+Piso en Nou Moles,Nou Moles ,L'Olivereta,90,2,2,None,164.000
+"Piso en calle de la Democracia, cerca de Passeig de la Petxina",Nou Moles ,L'Olivereta,92,4,1,None,125.000
+Piso en Trinitat,Trinitat ,La Saïdia,60,2,1,None,165.000
+"Piso en Avenida de Gaspar Aguilar, nº 63",La Creu Coberta ,Jesús,90,2,1,None,150.000

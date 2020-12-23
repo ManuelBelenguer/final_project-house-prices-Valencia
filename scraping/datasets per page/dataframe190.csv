@@ -1,0 +1,31 @@
+address,district,neighbourhood,sqft_surface,bedrooms,bathrooms,new_construction,price
+Piso en La Raiosa,La Raiosa ,Jesús,143,3,2,None,265.000
+"Piso en calle de Trafalgar, nº 42",La Creu del Grau ,Camins al Grau,165,4,2,None,359.000
+Piso en La Seu,La Seu ,Ciutat Vella,100,2,2,None,390.000
+Piso en Russafa,Russafa ,L'Eixample,96,3,2,None,285.000
+Casa en Sant Llorenç,Sant Llorenç ,Rascanya,123,4,3,None,225.000
+Piso en Carrer de l'Heroi Romeu,Arrancapins ,Extramurs,145,4,2,None,299.000
+Piso en calle de Motilla del Palancar,Orriols ,Rascanya,106,3,2,None,242.000
+Piso en Perellonet,El Palmar ,Pobles del Sud,120,3,2,None,350.000
+Piso en Plaza Reina - Carmen - Centro Histórico,El Carme ,Ciutat Vella,111,1,1,None,450.000
+Piso en Arrancapins,Arrancapins ,Extramurs,138,4,2,None,299.000
+"Piso en calle Avenida Reigne de Valencia, nº 39",Gran Via ,L'Eixample,91,2,2,None,258.000
+Piso en Gran Via,Gran Via ,L'Eixample,183,5,2,None,518.000
+Piso en Avinguda de Catalunya,Benimaclet ,Benimaclet,113,3,2,None,270.000
+Casa pareada en Jesús,La Raiosa ,Jesús,135,4,2,None,350.000
+"Piso en Avinguda del Regne de València, cerca de Carrer de Císcar",El Pla del Remei ,L'Eixample,183,5,2,None,380.000
+Piso en Sant Francesc,Sant Francesc ,Ciutat Vella,145,2,2,None,525.000
+"Casa rústica en Avenida de la Constitución, nº 352",Orriols ,Rascanya,452,6,2,None,370.000
+Piso en Sant Francesc,Sant Francesc ,Ciutat Vella,191,4,2,None,470.000
+Piso en Sant Pau,Sant Pau ,Campanar,112,2,2,None,310.000
+Ático en calle del Río Nervión,Benicalap ,Benicalap,107,3,2,None,289.000
+Piso en calle Dr Manuel Candela,L'Amistat ,Algirós,109,3,2,None,220.000
+Ático en Russafa,Russafa ,L'Eixample,144,4,2,None,279.000
+Piso en Gran Via de les Germanies,Gran Via ,L'Eixample,92,3,2,None,250.000
+Piso en Sant Llorenç,Sant Llorenç ,Rascanya,4,4,4,None,470.000
+Apartamento en El Cabanyal-El Canyamelar,El Cabanyal-El Canyamelar ,Poblats Marítims,172,5,2,None,365.000
+Piso en Gran Via,Gran Via ,L'Eixample,70,1,2,None,225.000
+Ático en Avinguda del Professor López Piñero,Ciutat de les Arts i de les Ciències ,Quatre Carreres,140,3,2,None,498.000
+Piso en Sant Francesc,Sant Francesc ,Ciutat Vella,152,5,2,None,490.000
+Piso en calle de Padilla,El Mercat ,Ciutat Vella,134,3,2,None,408.000
+Piso en Carrer del Caporal Jubi,Russafa ,L'Eixample,153,7,2,None,285.000

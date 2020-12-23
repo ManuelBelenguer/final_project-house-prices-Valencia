@@ -1,0 +1,1257 @@
+index,address,neighbourhood,district,sqft_surface,bedrooms,bathrooms,new_construction,price,latitude,longitude
+2,Els Orriols,Orriols ,Rascanya,79.0,3,1,None,69.0,None,None
+3,Carrer de Pedro Cabanes,Sant Antoni ,La Saïdia,68.0,3,1,None,63.5,None,None
+4,calle de Escalante,El Cabanyal-El Canyamelar ,Poblats Marítims,42.0,1,1,None,100.0,None,None
+7,Carrer Illes Canàries,La Creu del Grau ,Camins al Grau,90.0,4,2,None,119.0,None,None
+13,calle de Dolores Alcayde,La Raiosa ,Jesús,106.0,4,1,None,110.0,None,None
+16,Els Orriols,Orriols ,Rascanya,97.0,3,1,None,132.0,None,None
+17,calle calle D Orde del Cister,Soternes ,L'Olivereta,80.0,3,2,None,128.0,None,None
+19,calle del Músico Cabanilles,Sant Marcel·lí ,Jesús,69.0,2,1,None,73.82,None,None
+22,calle de Felipe Salvador,La Creu del Grau ,Camins al Grau,61.0,2,1,None,74.5,None,None
+28,Carrer de l'Ancla,El Perellonet ,Pobles del Sud,54.0,2,1,None,112.0,None,None
+0,calle de Berenguer de Montoliu,La Malva-rosa ,Poblats Marítims,75.0,3,1,None,84.0,None,None
+14,calle del Padre Alegre,Benimaclet ,Benimaclet,60.0,1,1,None,79.0,None,None
+20,calle de Mariano Cuber,Beteró ,Poblats Marítims,72.0,2,1,None,120.0,None,None
+21,calle de Luis Fenollet,La Fontsanta ,L'Olivereta,92.0,3,1,None,89.5,None,None
+27,Carrer d'en Joan Llorens,La Petxina ,Extramurs,75.0,4,1,None,99.0,None,None
+1,calle de la Escotilla,El Perellonet ,Pobles del Sud,83.0,2,2,None,110.0,None,None
+3,calle de Chiva,Arrancapins ,Extramurs,83.0,3,1,None,90.0,None,None
+10,calle del Campamento,Benimàmet ,Pobles de l'Oest,109.0,4,1,None,81.0,None,None
+12,calle de Santander,Favara ,Patraix,90.0,3,1,None,90.0,None,None
+13,Carrer de Tucumán,Russafa ,L'Eixample,85.0,3,1,None,120.0,None,None
+15,calle del Mondúber,Benicalap ,Benicalap,74.0,3,1,None,79.0,None,None
+16,Carrer de Sant Joan Bosco,Sant Antoni ,La Saïdia,60.0,2,1,None,38.0,None,None
+18,calle de Montán,El Cabanyal-El Canyamelar ,Poblats Marítims,65.0,3,1,None,105.0,None,None
+22,calle del Reverendo José Noguera,Sant Marcel·lí ,Jesús,105.0,4,2,None,125.0,None,None
+26,calle de La Puebla de Farnals,Aiora ,Camins al Grau,75.0,3,1,None,98.9,None,None
+0,calle Oset,La Malva-rosa ,Poblats Marítims,73.0,2,1,None,78.0,None,None
+1,Plaza Nou Moles,La Petxina ,Extramurs,84.0,3,1,None,72.0,None,None
+3,calle de Costa y Borrás,L'Hort de Senabre ,Jesús,87.0,3,1,None,118.0,None,None
+8,calle de Olimpia Arozena Torres,Nou Moles ,L'Olivereta,73.0,3,1,None,64.95,None,None
+9,Carrer de Pedro Cabanes,Sant Antoni ,La Saïdia,76.0,3,1,None,119.5,None,None
+16,calle del Grabador Jordán,Fonteta de Sant Lluís ,Quatre Carreres,90.0,2,1,None,105.0,None,None
+25,calle del Maestro Asensi,Nou Moles ,L'Olivereta,75.0,3,1,None,84.0,None,None
+26,calle de la Sierra Martés,Benicalap ,Benicalap,75.0,3,1,None,98.0,None,None
+28,calle Ramón de Rocafull,El Cabanyal-El Canyamelar ,Poblats Marítims,64.0,3,1,None,79.0,None,None
+5,Avinguda de Campanar,Beniferri ,Pobles de l'Oest,59.0,2,1,None,82.0,None,None
+6,Carrer de la Isla Cabrera,Malilla ,Quatre Carreres,109.0,3,2,None,129.0,None,None
+8,calle de San Roque,Benicalap ,Benicalap,59.0,1,1,Obra nueva,121.0,None,None
+12,calle de San Roque,Benicalap ,Benicalap,59.0,1,1,Obra nueva,119.0,None,None
+13,calle de San Roque,Benicalap ,Benicalap,59.0,1,1,Obra nueva,110.0,None,None
+16,calle de Molina,La Xerea ,Ciutat Vella,59.0,3,1,None,70.0,None,None
+18,calle de Ángel Villena,Na Rovella ,Quatre Carreres,105.0,3,2,None,129.0,None,None
+22,calle de Esquife,Les Tendetes ,Campanar,65.0,2,1,None,75.0,None,None
+23,calle de la Isla de Hierro,La Malva-rosa ,Poblats Marítims,68.0,3,1,None,75.0,None,None
+0,Avenida de Poeta Federico García Lorca,El Forn d'Alcedo ,Pobles del Sud,77.0,2,1,None,73.66,None,None
+2,calle del Padre Viñas,Orriols ,Rascanya,80.0,3,1,None,68.0,None,None
+6,calle Rodriguez de Pertegaz,Gran Via ,L'Eixample,104.0,3,1,None,130.0,None,None
+8,Carrer de José Soto Micó,Favara ,Patraix,130.0,4,2,None,120.0,None,None
+11,San Marcelino,Sant Marcel·lí ,Jesús,98.0,2,2,None,129.0,None,None
+14,Carrer del General Llorens,Tormos ,La Saïdia,60.0,2,1,None,69.0,None,None
+15,Poblados del Oeste,Benimàmet ,Pobles de l'Oest,130.0,3,2,None,100.0,None,None
+19,calle del Padre Viñas,Orriols ,Rascanya,106.0,4,1,None,90.0,None,None
+23,calle del Botánico,El Botànic ,Extramurs,60.0,2,1,None,110.0,None,None
+25,Sant Marcel.Lí,Sant Marcel·lí ,Jesús,91.0,3,2,None,129.0,None,None
+1,calle Actor y Cantante Ovidi Montllor y Mengual,Camí Real ,Jesús,110.0,4,2,None,120.0,None,None
+6,Carrer Illes Canàries,Gran Via ,L'Eixample,90.0,3,2,None,109.0,None,None
+12,calle de Jerónimo de Monsoriu,Aiora ,Camins al Grau,63.0,3,1,None,115.0,None,None
+20,calle del Médico Esteve,La Raiosa ,Jesús,85.0,4,1,None,109.5,None,None
+22,Sant Marcel.Lí,Sant Marcel·lí ,Jesús,3.0,1,1,None,85.0,None,None
+29,calle de Escalante,El Cabanyal-El Canyamelar ,Poblats Marítims,45.0,2,1,None,83.0,None,None
+2,Carrer Illes Canàries,El Grau ,Poblats Marítims,102.0,4,1,None,125.0,None,None
+7,Sant Marcel.Lí,La Creu Coberta ,Jesús,72.0,3,1,None,69.0,None,None
+8,calle de Ángel Villena,Ciutat de les Arts i de les Ciències ,Quatre Carreres,108.0,3,2,None,129.0,None,None
+9,calle Dr Waksman,En Corts ,Quatre Carreres,90.0,2,1,None,114.0,None,None
+10,Avenida San Juan de La Peña,Orriols ,Rascanya,75.0,1,1,None,58.5,None,None
+12,calle del Marino Albesa,Beteró ,Poblats Marítims,66.0,2,1,None,85.0,None,None
+16,calle de Alabau,La Creu Coberta ,Jesús,102.0,3,2,None,85.0,None,None
+18,calle de Daroca,Sant Antoni ,La Saïdia,70.0,2,1,None,64.5,None,None
+20,calle de la Escotilla,El Perellonet ,Pobles del Sud,83.0,2,2,None,110.0,None,None
+21,calle del Reverendo José Noguera,Sant Marcel·lí ,Jesús,101.0,3,2,None,132.0,None,None
+23,Benimaclet,Beniferri ,Pobles de l'Oest,65.0,3,1,None,130.0,None,None
+28,calle de los Jurados,Tres Forques ,L'Olivereta,85.0,3,1,None,85.0,None,None
+3,calle de la Madera,Aiora ,Camins al Grau,65.0,3,1,None,65.0,None,None
+9,Plaza Regino Mas,Ciutat Fallera ,Benicalap,74.0,2,1,None,56.5,None,None
+18,calle de Alcalá de Chivert,Camí Real ,Jesús,90.0,3,1,None,105.0,None,None
+20,Carrer de Olimpia Arozena Torres 'Professora,Nou Moles ,L'Olivereta,87.0,4,1,None,99.0,None,None
+24,calle de Andrés Piles Ibars,Benicalap ,Benicalap,84.0,3,1,None,68.313,None,None
+26,calle de Bello,El Grau ,Poblats Marítims,70.0,3,1,None,130.0,None,None
+27,calle Castell de Benissano,Montolivet ,Quatre Carreres,58.0,2,1,None,70.0,None,None
+2,Carrer del Picaio,Sant Francesc ,Ciutat Vella,73.0,3,1,None,75.0,None,None
+5,calle de la Escotilla,El Perellonet ,Pobles del Sud,74.0,3,2,None,76.0,None,None
+8,calle del Padre Viñas,Orriols ,Rascanya,75.0,2,1,None,59.9,None,None
+10,calle de Mosén Fenollar,Patraix ,Patraix,91.0,3,1,None,99.0,None,None
+17,calle Ramón de Rocafull,El Cabanyal-El Canyamelar ,Poblats Marítims,64.0,3,1,None,79.0,None,None
+19,calle del Médico Esteve,La Raiosa ,Jesús,89.0,3,1,None,109.5,None,None
+23,calle del Micer Rabasa,La Raiosa ,Jesús,88.0,1,1,Obra nueva,129.9,None,None
+24,calle del Doctor Nicasio Benlloch,Campanar ,Campanar,75.0,3,1,None,86.0,None,None
+28,Carrer de Domingo Gómez,Torrefiel ,Rascanya,100.0,3,1,None,98.0,None,None
+7,calle del Arquitecto Alfaro,El Grau ,Poblats Marítims,80.0,3,1,None,119.0,None,None
+9,calle del Compromiso de Caspe,La Raiosa ,Jesús,82.0,4,1,None,85.0,None,None
+20,Carrer de Domingo Gómez,Torrefiel ,Rascanya,94.0,4,1,None,76.99,None,None
+24,calle de Alcañiz,Torrefiel ,Rascanya,92.0,4,1,None,73.0,None,None
+28,calle de Escalante,Beteró ,Poblats Marítims,81.0,2,1,None,110.0,None,None
+1,calle de Felipe Vives de Cañamás,El Cabanyal-El Canyamelar ,Poblats Marítims,89.0,3,1,None,103.0,None,None
+2,calle Plaza Escultor Flrchina,Favara ,Patraix,107.0,4,1,None,120.0,None,None
+6,calle de Josep Grollo,Benicalap ,Benicalap,122.0,4,1,None,89.505,None,None
+7,calle de Mosén Fenollar,Arrancapins ,Extramurs,75.0,3,1,None,125.0,None,None
+9,Avinguda de la Malva,La Malva-rosa ,Poblats Marítims,80.0,3,1,None,115.0,None,None
+11,calle del Ingeniero José Sirera,Sant Marcel·lí ,Jesús,95.0,3,1,None,124.5,None,None
+12,calle de Escalante,El Cabanyal-El Canyamelar ,Poblats Marítims,62.0,1,1,None,83.0,None,None
+18,calle de La Puebla de Farnals,Ciutat Jardí ,Algirós,83.0,3,1,None,119.0,None,None
+19,calle de San Juan de Dios,La Malva-rosa ,Poblats Marítims,55.0,2,1,None,79.0,None,None
+22,Carrer del Doctor Jaime Segarra,Torrefiel ,Rascanya,71.0,2,1,None,100.0,None,None
+25,L'hort de Senabre,L'Hort de Senabre ,Jesús,83.0,3,1,None,104.0,None,None
+1,calle de la Virgen del Sufragio,El Cabanyal-El Canyamelar ,Poblats Marítims,72.0,2,1,None,127.0,None,None
+3,calle del Rincón de Ademuz,Nou Moles ,L'Olivereta,61.0,2,1,None,90.0,None,None
+9,calle del Alcalde Cano Coloma,Aiora ,Camins al Grau,55.0,2,1,None,120.0,None,None
+12,calle Pintor Juan Bautista Porcar,Torrefiel ,Rascanya,101.0,3,1,None,105.0,None,None
+13,Els Orriols,Orriols ,Rascanya,71.0,3,1,None,55.0,None,None
+14,Carretera de Moncada,Torrefiel ,Rascanya,82.0,3,2,None,115.0,None,None
+15,calle de Antonio Ponz,La Malva-rosa ,Poblats Marítims,80.0,3,1,None,129.0,None,None
+17,calle de Ignacio de Zuloaga,La Punta ,Quatre Carreres,82.0,4,1,None,68.877,None,None
+20,calle del Arzobispo Company,El Cabanyal-El Canyamelar ,Poblats Marítims,58.0,3,1,None,124.9,None,None
+24,calle de los Plátanos,Benicalap ,Benicalap,67.0,3,1,None,74.99,None,None
+25,calle de Ribarroja,La Llum ,L'Olivereta,69.0,3,1,None,64.0,None,None
+27,calle de Mariano Cuber,Beteró ,Poblats Marítims,72.0,2,1,None,120.0,None,None
+29,calle de Alcañiz,Torrefiel ,Rascanya,116.0,3,1,None,95.0,None,None
+0,calle del Padre Viñas,Orriols ,Rascanya,62.0,3,1,None,63.0,None,None
+3,calle de Ángel Villena,En Corts ,Quatre Carreres,105.0,3,2,None,129.0,None,None
+5,Plaça de Salvador Allebnde,Torrefiel ,Rascanya,94.0,3,1,None,88.0,None,None
+7,calle de la Gabarda,Benimàmet ,Pobles de l'Oest,67.0,3,1,None,55.39,None,None
+15,calle del Padre Vicent,En Corts ,Quatre Carreres,61.0,2,1,None,97.0,None,None
+17,Carrer del Riu Cabriel,El Forn d'Alcedo ,Pobles del Sud,102.0,4,2,None,65.0,None,None
+20,calle Eperanza,Benimàmet ,Pobles de l'Oest,103.0,4,2,None,86.9,None,None
+21,Carrer de Joan Piñol,Torrefiel ,Rascanya,64.0,2,1,None,69.0,None,None
+24,calle del Músico Cabanilles,Sant Marcel·lí ,Jesús,55.0,2,1,None,73.82,None,None
+26,calle del Arzobispo Company,El Cabanyal-El Canyamelar ,Poblats Marítims,110.0,3,1,None,125.0,None,None
+28,calle Presen Saez Descatillar,Tres Forques ,L'Olivereta,80.0,3,2,None,78.0,None,None
+3,calle de Luis Despuig,El Cabanyal-El Canyamelar ,Poblats Marítims,102.0,2,1,None,125.0,None,None
+4,calle de Juan de Aguiló,La Raiosa ,Jesús,86.0,4,1,None,89.0,None,None
+23,calle del Padre Vicent,En Corts ,Quatre Carreres,77.0,3,1,None,99.0,None,None
+24,calle del Maestro Asensi,Nou Moles ,L'Olivereta,71.0,3,1,None,87.0,None,None
+27,calle Doctor Andres Piqer,Massarrojos ,Pobles del Nord,119.0,4,1,None,116.0,None,None
+28,calle del Reverendo José Noguera,Sant Marcel·lí ,Jesús,72.0,3,1,None,58.0,None,None
+29,Avenida de Gaspar Aguilar,Sant Francesc ,Ciutat Vella,84.0,3,1,None,80.0,None,None
+3,calle del Humanista Mariner,Patraix ,Patraix,99.0,3,1,None,119.0,None,None
+9,calle de Alcañiz,Torrefiel ,Rascanya,99.0,4,1,None,55.0,None,None
+13,calle del Músico Cabanilles,Sant Marcel·lí ,Jesús,74.0,2,1,None,73.82,None,None
+18,calle de Vicente Ballester,El Cabanyal-El Canyamelar ,Poblats Marítims,79.0,3,1,None,119.5,None,None
+21,calle del Almirante Cruilles,Aiora ,Camins al Grau,68.0,3,1,None,63.5,None,None
+22,calle de Torrevieja,La Raiosa ,Jesús,112.0,3,2,None,104.0,None,None
+24,calle del Músico Cabanilles,El Castellar-L'Oliveral ,Pobles del Sud,55.0,2,1,None,73.82,None,None
+26,calle de Berenguer de Montoliu,La Malva-rosa ,Poblats Marítims,80.0,2,1,None,125.0,None,None
+28,calle de Norman Bethune 'Médico,Tres Forques ,L'Olivereta,77.0,3,2,None,95.0,None,None
+2,Plaza del Sainetero Arniches,La Llum ,L'Olivereta,116.0,3,1,None,85.0,None,None
+3,calle del Humanista Mariner,Patraix ,Patraix,76.0,3,1,None,119.0,None,None
+4,calle del Timón,El Perellonet ,Pobles del Sud,99.0,3,2,None,120.0,None,None
+5,Plaça de Ramon Contreras I Mongrell,Orriols ,Rascanya,82.0,3,1,None,83.7,None,None
+6,calle de la Pianista Amparo Iturbi,Malilla ,Quatre Carreres,96.0,3,1,None,125.0,None,None
+7,calle de Montán,El Cabanyal-El Canyamelar ,Poblats Marítims,77.0,3,1,None,121.0,None,None
+12,calle del Alcalde Cano Coloma,Aiora ,Camins al Grau,55.0,2,1,None,120.0,None,None
+18,calle de Antonio Ponz,La Malva-rosa ,Poblats Marítims,65.0,2,1,None,90.0,None,None
+20,Plaza Regino Mas,Ciutat Fallera ,Benicalap,67.0,3,1,None,59.0,None,None
+25,calle del Padre Viñas,Orriols ,Rascanya,78.0,3,1,None,77.0,None,None
+28,calle de Félix del Río 'Activista Vecinal,Benicalap ,Benicalap,58.0,3,1,None,79.0,None,None
+2,calle del Maestro Asensi,Nou Moles ,L'Olivereta,81.0,2,1,None,75.0,None,None
+3,calle del Erudito Pages,Torrefiel ,Rascanya,85.0,3,1,None,55.0,None,None
+7,Nou Moles,Patraix ,Patraix,87.0,4,1,None,98.0,None,None
+11,calle Virgen de La Zabeza,Tres Forques ,L'Olivereta,115.0,2,2,None,104.9,None,None
+16,calle del Reverendo José Noguera,Sant Marcel·lí ,Jesús,92.0,3,2,None,125.0,None,None
+20,Plaza Gloria Fuertes,Orriols ,Rascanya,92.0,3,2,None,119.0,None,None
+22,calle de Archena,Sant Pau ,Campanar,53.0,2,1,None,99.0,None,None
+2,calle de Juan Bautista Vives,Nou Moles ,L'Olivereta,64.0,3,1,None,77.0,None,None
+4,calle Poeta Fdco Garcia Lorca,El Forn d'Alcedo ,Pobles del Sud,77.0,2,1,None,73.66,None,None
+6,calle Trasatlantico,Les Tendetes ,Campanar,72.0,3,1,None,85.0,None,None
+10,calle Regino Mas,Ciutat Fallera ,Benicalap,65.0,3,1,None,63.0,None,None
+13,calle del Padre Viñas,Orriols ,Rascanya,78.0,4,1,None,37.0,None,None
+17,calle Alqueria de La Estrell,Marxalenes ,La Saïdia,80.0,3,1,None,113.0,None,None
+26,calle de Tramoyeres,El Cabanyal-El Canyamelar ,Poblats Marítims,68.0,3,1,None,125.0,None,None
+28,calle Alquería de Bellver,Benicalap ,Benicalap,86.0,3,2,None,99.0,None,None
+3,Carrer del Doctor Ferran,Mestalla ,El Pla del Real,54.0,2,1,None,126.6,None,None
+4,calle del Padre Viñas,Orriols ,Rascanya,98.0,3,1,None,83.0,None,None
+5,calle del Padre Viñas,Orriols ,Rascanya,75.0,3,1,None,68.0,None,None
+7,calle del Ingeniero José Sirera,Sant Marcel·lí ,Jesús,91.0,3,1,None,115.0,None,None
+14,calle Calixto Tercero,La Petxina ,Extramurs,86.0,3,1,None,109.0,None,None
+15,calle de Juan Perpiñá,Sant Marcel·lí ,Jesús,53.0,2,1,None,88.0,None,None
+16,calle de Juan Perpiñá,Sant Marcel·lí ,Jesús,72.0,2,1,None,54.0,None,None
+19,Carrer del Archiduque Carlos,Sant Francesc ,Ciutat Vella,70.0,2,1,None,110.0,None,None
+24,calle de la Alquería de Benimassot,Camí Real ,Jesús,102.0,3,2,None,124.1,None,None
+1,calle del Padre Viñas,Orriols ,Rascanya,62.0,3,1,None,62.0,None,None
+3,calle de Luis Lamarca,Nou Moles ,L'Olivereta,74.0,2,1,None,123.0,None,None
+5,Avinguda de Burjasot,El Castellar-L'Oliveral ,Pobles del Sud,70.0,3,1,None,85.5,None,None
+6,calle de Bello,El Grau ,Poblats Marítims,85.0,3,1,None,82.7,None,None
+10,Ronda de Nazaret,Natzaret ,Poblats Marítims,93.0,3,1,None,103.9,None,None
+11,calle del Arzobispo Company,El Cabanyal-El Canyamelar ,Poblats Marítims,99.0,2,1,None,119.0,None,None
+13,calle Presen Saez Descatillar,Vara de Quart ,Patraix,80.0,3,2,None,80.0,None,None
+16,calle de Felipe Salvador,Aiora ,Camins al Grau,70.0,3,1,None,75.0,None,None
+22,calle de Bello,El Grau ,Poblats Marítims,80.0,3,1,None,130.0,None,None
+23,Avenida Doctor Waskman,En Corts ,Quatre Carreres,70.0,2,1,None,125.0,None,None
+29,calle de Andrés Piles Ibars,Benicalap ,Benicalap,83.0,3,1,None,68.313,None,None
+5,calle Plaza Escultor Flechina,Favara ,Patraix,85.0,3,1,None,104.0,None,None
+10,Avenida del Doctor Rafael Bartual,Sant Isidre ,Patraix,93.0,4,2,None,124.9,None,None
+12,calle Mayor de Nazaret,Natzaret ,Poblats Marítims,60.0,2,1,None,59.9,None,None
+13,Ciutat de Les Arts I de Les Ciències,Ciutat de les Arts i de les Ciències ,Quatre Carreres,75.0,2,1,None,115.0,None,None
+16,calle del Doctor Lluch,Sant Francesc ,Ciutat Vella,63.0,1,1,None,126.0,None,None
+27,Morvedre,El Carme ,Ciutat Vella,117.0,4,2,None,125.0,None,None
+0,calle de Félix del Río 'Activista Vecinal,Torrefiel ,Rascanya,77.0,3,1,None,65.0,None,None
+6,calle de San José de Pignatelli,Benicalap ,Benicalap,85.0,3,1,None,110.0,None,None
+12,calle de Ador,Ciutat de les Arts i de les Ciències ,Quatre Carreres,99.0,4,1,None,89.0,None,None
+18,calle del Timón,El Perellonet ,Pobles del Sud,92.0,3,2,None,89.0,None,None
+19,calle de la Pelota,Beniferri ,Pobles de l'Oest,113.0,4,1,None,48.0,None,None
+20,Avinguda de la Malva,La Malva-rosa ,Poblats Marítims,70.0,3,1,None,80.0,None,None
+22,Puente de l'Assut de l'Or,El Grau ,Poblats Marítims,60.0,2,1,None,59.9,None,None
+23,calle de los Rosales,Benicalap ,Benicalap,60.0,2,1,None,65.0,None,None
+27,calle de las Columbretes,El Cabanyal-El Canyamelar ,Poblats Marítims,51.0,2,1,None,100.0,None,None
+3,calle de Amadís de Gaula,Beteró ,Poblats Marítims,74.0,2,1,None,85.0,None,None
+6,Carrer Illes Canàries,La Creu del Grau ,Camins al Grau,98.0,3,1,None,115.0,None,None
+7,Plaza de la Iglesia de los Ángeles,El Cabanyal-El Canyamelar ,Poblats Marítims,65.0,3,1,None,130.0,None,None
+8,calle de Jerónimo de Monsoriu,Aiora ,Camins al Grau,84.0,4,1,None,119.0,None,None
+10,calle de L Arquebisbe Fabián I Fuero,Marxalenes ,La Saïdia,105.0,3,1,None,96.0,None,None
+14,calle L`Example,Sant Francesc ,Ciutat Vella,400.0,9,4,None,90.0,None,None
+16,calle de la Escotilla,El Perellonet ,Pobles del Sud,77.0,2,1,None,80.0,None,None
+18,calle Pere Montsoriu,Beteró ,Poblats Marítims,85.0,3,1,None,99.0,None,None
+19,calle del Músico Cabanilles,Sant Marcel·lí ,Jesús,71.0,2,1,None,85.0,None,None
+20,calle Carrera Alba,La Torre ,Pobles del Sud,78.0,3,1,None,48.8,None,None
+21,calle de Ángel Villena,Ciutat de les Arts i de les Ciències ,Quatre Carreres,96.0,3,2,None,129.0,None,None
+0,calle de los Rosales,Benicalap ,Benicalap,77.0,3,1,None,65.0,None,None
+3,calle Valle de Laguar,Les Tendetes ,Campanar,75.0,3,1,None,93.0,None,None
+4,Carrer de Rubén Vela,Russafa ,L'Eixample,100.0,3,1,None,104.9,None,None
+5,calle de Ángel Villena,Na Rovella ,Quatre Carreres,95.0,3,1,None,92.0,None,None
+6,calle del Reverendo Rafael Tramoyeres,Benimaclet ,Benimaclet,80.0,2,2,None,130.0,None,None
+13,Plaça de Ramon Contreras I Mongrell,Orriols ,Rascanya,80.0,3,1,None,83.7,None,None
+22,Carrer de Domingo Gómez,Torrefiel ,Rascanya,86.0,4,1,None,85.0,None,None
+24,calle del Mondúber,Marxalenes ,La Saïdia,72.0,3,1,None,59.9,None,None
+27,calle de Alcañiz,Torrefiel ,Rascanya,91.0,3,1,None,130.0,None,None
+0,calle de La Puebla del Duc,Sant Antoni ,La Saïdia,72.0,3,1,None,102.0,None,None
+8,Els Orriols,Orriols ,Rascanya,82.0,3,1,None,87.0,None,None
+13,calle de la Sierra de Agullent,Ciutat Fallera ,Benicalap,83.0,3,1,None,70.0,None,None
+15,calle del Poeta Navarro Cabanes,Nou Moles ,L'Olivereta,65.0,2,1,None,63.0,None,None
+17,calle Ramón de Rocafull,El Cabanyal-El Canyamelar ,Poblats Marítims,64.0,3,1,None,85.0,None,None
+20,*** Junto Al Puerto y Avda. del Puerto ***,El Grau ,Poblats Marítims,73.0,3,1,None,130.0,None,None
+24,calle de Senda Secanet,Benimàmet ,Pobles de l'Oest,90.0,2,2,None,105.0,None,None
+29,calle de la Gabarda,Benimàmet ,Pobles de l'Oest,67.0,3,1,None,55.39,None,None
+6,calle de los Hermanos Villalonga,Benimaclet ,Benimaclet,80.0,3,1,None,89.0,None,None
+8,Plaza Colonia Española Mexico,La Fontsanta ,L'Olivereta,69.0,2,1,None,45.0,None,None
+11,calle del Progreso,El Cabanyal-El Canyamelar ,Poblats Marítims,43.0,1,1,None,129.0,None,None
+16,calle Ramón de Rocafull,El Cabanyal-El Canyamelar ,Poblats Marítims,50.0,2,1,None,89.0,None,None
+21,calle Alqueria de La Estrell,Marxalenes ,La Saïdia,73.0,3,1,None,85.0,None,None
+25,Carrer Pego,Benimàmet ,Pobles de l'Oest,112.0,3,2,None,127.9,None,None
+29,calle de Lugre,Tormos ,La Saïdia,69.0,3,1,None,84.0,None,None
+9,calle de Alcalá de Chivert,Camí Real ,Jesús,75.0,3,1,None,75.0,None,None
+18,calle Colonia Espñaola de Mejico,La Fontsanta ,L'Olivereta,61.0,2,1,None,48.0,None,None
+23,calle de San José de Pignatelli,Benicalap ,Benicalap,82.0,3,1,None,110.0,None,None
+28,calle Gimenez y Costa,La Torre ,Pobles del Sud,113.0,2,2,None,110.5,None,None
+6,calle Burrull,El Carme ,Ciutat Vella,58.0,1,1,None,120.0,None,None
+8,calle de José Benlliure,El Cabanyal-El Canyamelar ,Poblats Marítims,100.0,1,2,None,120.0,None,None
+9,Carretera de Alba,Sant Marcel·lí ,Jesús,75.0,2,1,None,59.9,None,None
+16,Camino del Molí de la Campaneta,Sant Isidre ,Patraix,2.5,5,2,None,85.0,None,None
+18,calle de la Virgen de la Cabeza,Vara de Quart ,Patraix,116.0,2,2,None,105.0,None,None
+19,calle Regino Mas,Ciutat Fallera ,Benicalap,61.0,2,1,None,59.2,None,None
+20,calle de Giménez y Costa,Camí Real ,Jesús,89.0,4,1,None,55.0,None,None
+21,calle Regino Mas,Benicalap ,Benicalap,76.0,2,1,None,77.0,None,None
+27,Carrer de Domingo Gómez,Torrefiel ,Rascanya,96.0,4,1,None,78.0,None,None
+3,Carretera de Alba,Sant Marcel·lí ,Jesús,75.0,2,1,None,45.0,None,None
+5,calle Justo y Pastor 133,L'Illa Perduda ,Algirós,81.0,3,1,None,110.0,None,None
+7,calle Ep Barraques de Llacer 3,Faitanar ,Pobles del Sud,77.0,2,1,None,122.1,None,None
+15,calle de los Jurados,Tres Forques ,L'Olivereta,86.0,3,1,None,100.0,None,None
+16,calle de Lugre,Tormos ,La Saïdia,72.0,3,1,None,84.0,None,None
+17,calle de Vicente Puchol,Montolivet ,Quatre Carreres,130.0,3,1,None,65.0,None,None
+20,Plaza Beatriz Civera,Sant Isidre ,Patraix,122.0,3,2,None,129.7,None,None
+21,calle de Ángel Villena,Na Rovella ,Quatre Carreres,105.0,3,2,None,129.0,None,None
+23,calle del Reverendo José Noguera,Sant Marcel·lí ,Jesús,98.0,3,1,None,112.0,None,None
+29,Avinguda de Burjasot,Beniferri ,Pobles de l'Oest,70.0,3,1,None,85.5,None,None
+4,calle de los Rosales,Benicalap ,Benicalap,77.0,2,1,None,66.0,None,None
+22,calle del Campamento,Benimàmet ,Pobles de l'Oest,56.0,1,1,None,49.0,None,None
+2,Patraix,Tres Forques ,L'Olivereta,98.0,4,2,None,124.9,None,None
+8,calle de la Isla de Hierro,La Malva-rosa ,Poblats Marítims,74.0,3,1,None,75.0,None,None
+17,Carrer de Jacomart,Torrefiel ,Rascanya,85.0,3,1,None,103.0,None,None
+24,calle del Castillo de Cullera,Camí Real ,Jesús,76.0,3,1,None,57.0,None,None
+26,calle de Álvarez de Sotomayor,Camí Real ,Jesús,82.0,3,1,None,52.0,None,None
+28,calle de la Cooperativa de San Fernando,La Raiosa ,Jesús,76.0,2,1,None,120.0,None,None
+7,calle del Padre Luis Navarro,El Cabanyal-El Canyamelar ,Poblats Marítims,45.0,2,1,None,79.0,None,None
+13,Ambulatorio ,Benimàmet ,Pobles de l'Oest,62.0,3,1,None,63.0,None,None
+14,La Raiosa,La Creu Coberta ,Jesús,84.0,4,1,None,117.0,None,None
+20,calle del Padre Viñas,Orriols ,Rascanya,65.0,2,1,None,67.0,None,None
+1,calle de Matheu y Sanz,La Raiosa ,Jesús,54.0,3,1,None,61.0,None,None
+11,calle Mayor de Nazaret,Natzaret ,Poblats Marítims,52.0,2,1,None,59.0,None,None
+12,Carrer de la Serrería,Aiora ,Camins al Grau,73.0,2,1,None,91.5,None,None
+13,calle Viver,Camí de Vera ,Benimaclet,72.0,3,1,None,101.0,None,None
+18,calle de La Puebla del Duc,Sant Antoni ,La Saïdia,72.0,1,1,None,102.0,None,None
+22,Carrer de Jacomart,Torrefiel ,Rascanya,85.0,3,1,None,82.0,None,None
+24,calle Avenida Contitucion,Orriols ,Rascanya,114.0,1,1,None,108.0,None,None
+27,Quatre Carreres,Russafa ,L'Eixample,100.0,3,1,None,108.0,None,None
+0,calle Marino Pedro Andreu,L'Hort de Senabre ,Jesús,92.0,3,1,None,123.0,None,None
+2,calle del Álamo,Benicalap ,Benicalap,41.0,2,1,None,48.0,None,None
+5,Lolivereta,Sant Pau ,Campanar,100.0,4,1,None,125.0,None,None
+8,calle del Alcalde Albors,Nou Moles ,L'Olivereta,87.0,3,1,None,85.0,None,None
+15,San Marcelino,Sant Marcel·lí ,Jesús,103.0,4,1,None,117.0,None,None
+16,San Marcelino,Sant Marcel·lí ,Jesús,71.0,3,1,None,54.0,None,None
+17,calle de San Jacinto Castañeda,Montolivet ,Quatre Carreres,71.0,3,1,None,79.0,None,None
+18,calle del Reverendo José Noguera,Sant Marcel·lí ,Jesús,100.0,4,1,None,110.0,None,None
+19,Camino Viejo de Chirivella,Faitanar ,Pobles del Sud,3.0,1,1,None,69.5,None,None
+21,La Fuensanta,Vara de Quart ,Patraix,73.0,2,1,None,58.0,None,None
+25,calle San Vicente de Pau,Sant Llorenç ,Rascanya,80.0,3,1,None,73.5,None,None
+26,Carrer del Vaixell,Sant Francesc ,Ciutat Vella,78.0,3,2,None,101.5,None,None
+29,calle de Ángel Villena,Na Rovella ,Quatre Carreres,105.0,3,2,None,129.0,None,None
+5,La Saïdia,El Calvari ,Campanar,60.0,3,1,None,107.0,None,None
+14,calle del Músico Cabanilles,Sant Marcel·lí ,Jesús,55.0,2,1,None,73.82,None,None
+19,Carrer de San Vicente Mártir,Favara ,Patraix,102.0,4,1,None,124.8,None,None
+29,calle del Campamento,Beniferri ,Pobles de l'Oest,80.0,4,1,None,59.0,None,None
+0,calle Arzobispo Olaehea,Sant Francesc ,Ciutat Vella,110.0,4,1,None,77.0,None,None
+9,calle de los Jurados,Tres Forques ,L'Olivereta,85.0,3,1,None,115.0,None,None
+13,calle de Bello,El Grau ,Poblats Marítims,80.0,3,1,None,120.0,None,None
+27,calle de Agustín Sales,La Raiosa ,Jesús,141.0,1,2,None,130.0,None,None
+1,calle del Progreso,El Grau ,Poblats Marítims,70.0,2,2,None,105.0,None,None
+4,Carrer del General Urrutia,Sant Francesc ,Ciutat Vella,75.0,3,1,None,103.0,None,None
+6,calle de Carcagente,Patraix ,Patraix,79.0,1,1,None,120.0,None,None
+8,calle de Agustín Sales,L'Hort de Senabre ,Jesús,40.0,1,1,None,130.0,None,None
+11,Oliveretta,Nou Moles ,L'Olivereta,97.0,3,3,None,108.0,None,None
+12,calle de Luis Lamarca,Nou Moles ,L'Olivereta,101.0,3,2,None,115.0,None,None
+18,calle de la Alquería de Benimassot,Camí Real ,Jesús,81.0,2,1,None,68.0,None,None
+26,calle del Arzobispo Olaechea,Camí Real ,Jesús,82.0,3,1,None,46.0,None,None
+7,Carrer del Poeta Iranzo Simon,El Carme ,Ciutat Vella,65.0,3,1,None,54.0,None,None
+9,calle Ep Barraques de Llacer 3,Faitanar ,Pobles del Sud,92.0,3,2,None,117.0,None,None
+10,Plaza de Covadonga,Sant Francesc ,Ciutat Vella,2.0,1,1,None,70.5,None,None
+19,calle de los Hierros,Aiora ,Camins al Grau,91.0,3,2,None,129.9,None,None
+20,calle de Jumilla,Tres Forques ,L'Olivereta,71.0,3,1,None,58.0,None,None
+11,calle de La Puebla del Duc,Morvedre ,La Saïdia,72.0,3,1,None,102.0,None,None
+13,Lolivereta,Patraix ,Patraix,88.0,3,1,None,130.0,None,None
+14,San Marcelino,Sant Marcel·lí ,Jesús,90.0,3,2,None,124.0,None,None
+16,calle Padre Anton Marti,La Malva-rosa ,Poblats Marítims,68.0,3,1,None,123.0,None,None
+18,calle de Amadeo Desfilis,Benicalap ,Benicalap,74.0,2,1,None,45.0,None,None
+19,calle de Senda Secanet,Benimàmet ,Pobles de l'Oest,115.0,3,2,None,130.4,None,None
+24,Marxalenes,Les Tendetes ,Campanar,92.0,4,2,None,130.0,None,None
+1,calle de los Carteros,L'Hort de Senabre ,Jesús,65.0,2,1,None,95.0,None,None
+17,calle de la Reina,Sant Francesc ,Ciutat Vella,60.0,2,2,None,97.5,None,None
+23,Carrer de Olimpia Arozena Torres 'Professora,Nou Moles ,L'Olivereta,97.0,3,1,None,95.0,None,None
+26,Carrer de l'Acadèmic Alemany,Torrefiel ,Rascanya,91.0,2,1,None,77.0,None,None
+0,calle del Padre Viñas,Orriols ,Rascanya,78.0,3,1,None,75.5,None,None
+5,calle de Ángel Villena,Ciutat de les Arts i de les Ciències ,Quatre Carreres,103.0,3,2,None,129.0,None,None
+7,calle del Padre Antón Martín,La Malva-rosa ,Poblats Marítims,65.0,3,1,None,64.9,None,None
+12,calle Amat Granell Mesado,Montolivet ,Quatre Carreres,75.0,3,1,None,103.0,None,None
+18,Plaza del Castillo de Jérica,Favara ,Patraix,80.0,2,1,None,75.0,None,None
+21,calle de la Olivereta,Nou Moles ,L'Olivereta,72.0,3,1,None,66.5,None,None
+0,calle de Oltá,Malilla ,Quatre Carreres,112.0,4,2,None,120.0,None,None
+1,Plaza de la Virgen del Amparo,Benicalap ,Benicalap,76.0,2,1,None,79.9,None,None
+5,calle de La Puebla del Duc,Sant Antoni ,La Saïdia,72.0,3,1,None,102.0,None,None
+9,calle de Juan Bautista Vives,Nou Moles ,L'Olivereta,64.0,3,1,None,77.0,None,None
+28,calle de Pío IX,Sant Marcel·lí ,Jesús,100.0,4,2,None,105.0,None,None
+3,Plaça de Ramon Contreras I Mongrell,Sant Antoni ,La Saïdia,80.0,3,1,None,83.7,None,None
+4,calle L,Sant Francesc ,Ciutat Vella,79.0,3,1,None,110.5,None,None
+6,calle de Turís,Sant Francesc ,Ciutat Vella,104.0,3,1,None,89.5,None,None
+19,calle Ep Barraques de Llacer,Faitanar ,Pobles del Sud,84.0,2,1,None,122.1,None,None
+28,calle del Alcalde Albors,Nou Moles ,L'Olivereta,88.0,3,1,None,90.0,None,None
+6,calle del Conde de Melito,El Cabanyal-El Canyamelar ,Poblats Marítims,70.0,3,1,None,79.0,None,None
+10,Carrer Mariano Brull,La Torre ,Pobles del Sud,123.0,3,2,None,124.5,None,None
+15,Carrer Ciutat de l'Aprenent,Camí Real ,Jesús,100.0,3,2,None,125.0,None,None
+16,calle del Arquitecto Alfaro,El Grau ,Poblats Marítims,78.0,4,1,None,95.0,None,None
+19,calle de Alcalá de Chivert,Camí Real ,Jesús,95.0,3,1,None,99.0,None,None
+22,Carrer de la Serrería,Sant Francesc ,Ciutat Vella,73.0,2,1,None,91.5,None,None
+25,calle Hermanos Marias,Ciutat de les Arts i de les Ciències ,Quatre Carreres,96.0,3,1,None,85.0,None,None
+26,calle del Humanista Mariner,Patraix ,Patraix,70.0,3,1,None,120.0,None,None
+27,Carrer de l'Acadèmic Alemany,Torrefiel ,Rascanya,108.0,3,1,None,100.0,None,None
+28,Avenida Peiset Alexandre,Tormos ,La Saïdia,75.0,2,1,None,69.0,None,None
+13,calle de San Marcelino,Sant Marcel·lí ,Jesús,67.0,3,1,None,71.5,None,None
+14,calle de la Sierra de Agullent,Benicalap ,Benicalap,83.0,3,1,None,124.0,None,None
+15,calle de la Olivereta,Tres Forques ,L'Olivereta,71.0,3,1,None,77.0,None,None
+9,calle del Reverendo José Noguera,Sant Marcel·lí ,Jesús,91.0,3,2,None,129.0,None,None
+11,calle de los Leones,Sant Francesc ,Ciutat Vella,75.0,3,1,None,100.0,None,None
+15,calle de la Anguilera,El Saler ,Pobles del Sud,49.0,1,1,None,80.0,None,None
+17,calle E.P. Barraques de Llàcer Tres,Faitanar ,Pobles del Sud,84.0,2,1,None,122.1,None,None
+23,calle Ramiro de Maetzu,El Castellar-L'Oliveral ,Pobles del Sud,81.0,3,1,None,124.9,None,None
+24,Campanar,Benimàmet ,Pobles de l'Oest,128.0,4,2,None,126.8,None,None
+26,Carrer de Salvador Lluch,Russafa ,L'Eixample,77.0,3,1,None,102.5,None,None
+5,Carrer Almassora,Trinitat ,La Saïdia,73.0,4,1,None,117.0,None,None
+7,La Olivereta,Vara de Quart ,Patraix,81.0,3,1,None,110.6,None,None
+8,calle de Juan Perpiñá,Sant Marcel·lí ,Jesús,65.0,2,1,None,98.0,None,None
+22,calle de la Yesa,Benimàmet ,Pobles de l'Oest,53.0,2,1,None,59.998999999999995,None,None
+24,Rascanya,Tormos ,La Saïdia,87.0,3,1,None,115.0,None,None
+26,Carrer de Sant Joan Bosco,Sant Francesc ,Ciutat Vella,84.0,3,1,None,62.5,None,None
+27,La Fuensanta,Vara de Quart ,Patraix,66.0,2,1,None,60.0,None,None
+2,calle del Reverendo José Noguera,Sant Marcel·lí ,Jesús,95.0,3,1,None,105.0,None,None
+5,calle de la Sierra Martés,Benicalap ,Benicalap,80.0,3,1,None,98.0,None,None
+15,calle de Antonio Ponz,La Malva-rosa ,Poblats Marítims,66.0,3,1,None,109.9,None,None
+6,calle de Zapadores,La Xerea ,Ciutat Vella,61.0,1,1,None,109.0,None,None
+7,Carrer de Mariano Brull,Favara ,Patraix,91.0,4,1,None,59.0,None,None
+11,calle Pere Cabanes,Torrefiel ,Rascanya,105.0,2,2,None,115.0,None,None
+13,calle Pare Vicent,En Corts ,Quatre Carreres,79.0,3,1,None,120.0,None,None
+18,calle OvIdI Montellor I Mengual,Camí Real ,Jesús,136.0,4,2,None,120.0,None,None
+19,calle Trasatlántico,Les Tendetes ,Campanar,61.0,1,1,None,80.0,None,None
+21,Avenida Jeronima Galán,L'Hort de Senabre ,Jesús,79.0,3,1,None,107.0,None,None
+1,calle de Gremis,Sant Francesc ,Ciutat Vella,3.0,1,1,None,101.0,None,None
+4,calle del Padre Vicent,En Corts ,Quatre Carreres,62.0,2,1,None,89.5,None,None
+11,San Marcelino,Sant Marcel·lí ,Jesús,67.0,3,1,None,71.5,None,None
+15,Carrer Just Ramírez 'Arquitecte,Tormos ,La Saïdia,94.0,3,1,None,87.5,None,None
+21,Prataix,Patraix ,Patraix,79.0,2,1,None,112.0,None,None
+23,Carrer de Sant Pancraci,Marxalenes ,La Saïdia,58.0,3,1,None,65.5,None,None
+27,Avenida Consellier Fr. Bosch ,Faitanar ,Pobles del Sud,65.0,2,1,None,69.5,None,None
+1,Marchalenes,Les Tendetes ,Campanar,90.0,2,1,None,121.0,None,None
+2,Carrer de Murla,Sant Francesc ,Ciutat Vella,105.0,4,1,None,103.0,None,None
+20,Plaza del Poeta Badenes,Nou Moles ,L'Olivereta,96.0,3,1,None,113.5,None,None
+23,calle Agro,Sant Francesc ,Ciutat Vella,79.0,3,1,None,96.0,None,None
+24,calle de Pedro Andreu,L'Hort de Senabre ,Jesús,107.0,3,1,None,120.5,None,None
+28,Carretera de Moncada,Torrefiel ,Rascanya,108.0,3,3,None,130.0,None,None
+1,Marxalenes,Les Tendetes ,Campanar,63.0,3,1,None,104.5,None,None
+2,San Marcelino,Sant Marcel·lí ,Jesús,101.0,4,1,None,77.0,None,None
+24,calle de Senda Secanet,Beniferri ,Pobles de l'Oest,69.0,3,1,None,42.0,None,None
+6,Entrada Casa Garrofero,El Castellar-L'Oliveral ,Pobles del Sud,143.0,5,1,None,106.0,None,None
+13,calle del Ingeniero Manuel Cánovas,Sant Marcel·lí ,Jesús,72.0,3,1,None,78.0,None,None
+18,Marxalenes,Les Tendetes ,Campanar,86.0,3,1,None,78.0,None,None
+26,calle de En Roda,El Carme ,Ciutat Vella,80.0,3,1,None,87.5,None,None
+29,San Marcelino,Sant Marcel·lí ,Jesús,76.0,2,1,None,73.82,None,None
+7,calle de la Cooperativa de San Fernando,Favara ,Patraix,76.0,2,1,None,123.0,None,None
+17,calle de San Marcelino,Sant Marcel·lí ,Jesús,85.0,3,1,None,118.0,None,None
+21,calle Vinaroz,Sant Llorenç ,Rascanya,80.0,3,1,None,125.0,None,None
+8,Avenida Consellier Fr. Bosch ,Faitanar ,Pobles del Sud,65.0,2,1,None,69.5,None,None
+10,Carrer del Doctor Andrés Piquer,Massarrojos ,Pobles del Nord,99.0,2,2,None,102.0,None,None
+14,calle del Asilo de la Infancia,El Pilar ,Ciutat Vella,40.0,1,1,None,125.0,None,None
+16,calle del Grabador Jordán,Fonteta de Sant Lluís ,Quatre Carreres,120.0,4,2,None,119.0,None,None
+26,calle de Berenguer de Montoliu,La Malva-rosa ,Poblats Marítims,66.0,2,1,None,75.0,None,None
+20,calle Dr Andres Piquer,Massarrojos ,Pobles del Nord,110.0,2,2,None,102.0,None,None
+22,Benicalap,Campanar ,Campanar,80.0,3,1,None,120.0,None,None
+10,calle del Reverendo José María Pinazo,Sant Llorenç ,Rascanya,74.0,3,1,None,126.5,None,None
+12,calle de Berenguer de Montoliu,La Malva-rosa ,Poblats Marítims,80.0,2,1,None,125.0,None,None
+13,calle del Reverendo José Noguera,Sant Marcel·lí ,Jesús,143.0,3,1,None,105.0,None,None
+14,calle del Campamento,Benimàmet ,Pobles de l'Oest,224.0,3,1,None,125.0,None,None
+15,calle del Asilo de la Infancia,El Pilar ,Ciutat Vella,45.0,1,1,None,125.0,None,None
+20,calle Mestro Bellver,Patraix ,Patraix,75.0,2,1,None,130.0,None,None
+5,Carrer de Lluís Oliag,Sant Francesc ,Ciutat Vella,67.0,1,1,None,79.0,None,None
+13,calle del Humanista Mariner,Patraix ,Patraix,67.0,3,1,None,119.0,None,None
+6,Carretera de Moncada,Tormos ,La Saïdia,72.0,2,1,None,75.0,None,None
+21,Cabanyal,Sant Francesc ,Ciutat Vella,44.0,1,1,None,99.0,None,None
+29,Casco Urbano,Massarrojos ,Pobles del Nord,110.0,2,1,None,102.0,None,None
+10,Carrer de Olimpia Arozena Torres 'Professora,Nou Moles ,L'Olivereta,98.0,4,1,None,105.0,None,None
+3,Carrer de Pedro Cabanes,Sant Antoni ,La Saïdia,75.0,3,1,None,60.0,None,None
+8,calle del Cura Aguilar,Benifaraig ,Pobles del Nord,70.0,2,1,None,76.0,None,None
+22,Avinguda de Burjasot,El Carme ,Ciutat Vella,54.0,2,1,None,99.9,None,None
+25,calle del Humanista Mariner,Patraix ,Patraix,67.0,3,1,None,119.0,None,None
+27,calle de Félix del Río 'Activista Vecinal,Benicalap ,Benicalap,110.0,3,1,None,119.0,None,None
+29,calle de los Jurados,Tres Forques ,L'Olivereta,86.0,3,1,None,100.0,None,None
+17,Carrer Economiste Gay,Tormos ,La Saïdia,89.0,3,1,None,91.0,None,None
+18,Cuatre Carreres,Na Rovella ,Quatre Carreres,90.0,2,1,None,90.0,None,None
+13,calle de Ramón Marquet,Beteró ,Poblats Marítims,176.0,4,3,None,119.0,None,None
+3,Carrer de la Serrería,Aiora ,Camins al Grau,73.0,2,1,None,91.5,None,None
+16,calle de Costa y Borrás,L'Hort de Senabre ,Jesús,85.0,2,2,None,99.0,None,None
+27,calle de los Jurados,Tres Forques ,L'Olivereta,60.0,2,1,None,55.0,None,None
+2,calle del Grabador Jordán,Fonteta de Sant Lluís ,Quatre Carreres,80.0,3,1,None,52.9,None,None
+6,Carrer Vicente Clavel,Safranar ,Patraix,48.0,1,1,Obra nueva,108.0,None,None
+8,calle de Sotavento,El Perellonet ,Pobles del Sud,77.0,3,1,None,110.0,None,None
+18,calle de Ignacio de Zuloaga,La Punta ,Quatre Carreres,81.0,2,1,None,73.0,None,None
+9,calle de Antella,Tres Forques ,L'Olivereta,44.0,1,1,None,49.5,None,None
+23,Albaida,Torrefiel ,Rascanya,214.0,3,2,None,66.074,None,None
+6,Avinguda de la Malva,La Malva-rosa ,Poblats Marítims,70.0,2,1,None,100.0,None,None
+21,calle del Maestro Buenaventura Pascual,Benimaclet ,Benimaclet,77.0,3,1,None,104.9,None,None
+23,calle de Ángel Villena,Ciutat de les Arts i de les Ciències ,Quatre Carreres,110.0,3,2,None,129.0,None,None
+3,Carrer Vicente Clavel,Safranar ,Patraix,127.0,3,2,Obra nueva,220.0,None,None
+5,calle del Micer Rabasa,La Raiosa ,Jesús,107.0,3,2,Obra nueva,169.9,None,None
+7,Plaza José María Giménez Fayos,Benicalap ,Benicalap,115.0,3,2,None,180.0,None,None
+16,calle de Ángel Villena,Ciutat de les Arts i de les Ciències ,Quatre Carreres,110.0,3,2,None,129.0,None,None
+20,Carrer de Sant Josep Sister,El Grau ,Poblats Marítims,122.0,4,2,Obra nueva,216.0,None,None
+21,Carrer del Bonaire,La Xerea ,Ciutat Vella,105.0,3,2,None,220.0,None,None
+25,Carrer Vicente Clavel,Safranar ,Patraix,127.0,3,2,Obra nueva,211.0,None,None
+29,calle de Escalante,El Cabanyal-El Canyamelar ,Poblats Marítims,125.0,4,2,None,155.0,None,None
+0,calle del Médico Esteve,La Raiosa ,Jesús,119.0,3,2,Obra nueva,228.7,None,None
+2,calle del Pintor Pascual Capuz,Patraix ,Patraix,70.0,2,2,None,195.0,None,None
+6,Plaza de Jinjolers,Pinedo ,Pobles del Sud,116.0,3,2,None,180.0,None,None
+8,Els Orriols,Orriols ,Rascanya,97.0,3,1,None,132.0,None,None
+9,calle calle D Orde del Cister,Soternes ,L'Olivereta,80.0,3,2,None,128.0,None,None
+12,calle de Benicarló,Sant Llorenç ,Rascanya,92.0,3,2,None,149.9,None,None
+18,calle calle Alejandra Soler,El Carme ,Ciutat Vella,112.0,4,3,None,197.0,None,None
+22,calle Dr.,Benicalap ,Benicalap,116.0,3,2,None,170.104,None,None
+2,Carrer de Llevant,Benicalap ,Benicalap,109.0,3,2,Obra nueva,217.942,None,None
+5,Carrer del Actor Pepe Alba,Aiora ,Camins al Grau,80.0,3,1,None,142.0,None,None
+6,Carrer de Llevant,Benicalap ,Benicalap,108.0,3,2,Obra nueva,228.13400000000001,None,None
+15,Avenida de las Tres Cruces,Sant Pau ,Campanar,140.0,3,2,None,210.0,None,None
+20,calle de Mariano Cuber,El Cabanyal-El Canyamelar ,Poblats Marítims,93.0,4,2,None,169.0,None,None
+22,Carrer de Tucumán,Russafa ,L'Eixample,85.0,3,1,None,120.0,None,None
+4,calle del Micer Rabasa,La Raiosa ,Jesús,117.0,3,2,Obra nueva,183.5,None,None
+7,Avenida de Eduardo Boscá,Camí Fondo ,Camins al Grau,117.0,4,2,None,179.0,None,None
+8,Carrer Vicente Clavel,Safranar ,Patraix,119.0,3,2,Obra nueva,198.0,None,None
+11,Carrer del Pintor Julio Vila Prades,Arrancapins ,Extramurs,100.0,3,1,None,159.9,None,None
+17,calle del Camp del Túria,Sant Pau ,Campanar,86.0,1,1,Obra nueva,216.0,None,None
+18,calle de Oltá,La Creu Coberta ,Jesús,120.0,4,2,None,159.9,None,None
+21,Carrer Vicente Clavel,Safranar ,Patraix,119.0,3,2,Obra nueva,204.0,None,None
+22,calle de San Roque,Benicalap ,Benicalap,125.0,3,2,Obra nueva,210.0,None,None
+24,Carrer Vicente Clavel,Safranar ,Patraix,75.0,2,2,Obra nueva,144.0,None,None
+11,calle de Oltá,Gran Via ,L'Eixample,113.0,4,2,None,159.9,None,None
+12,Junto Al Parque Central,En Corts ,Quatre Carreres,105.0,3,2,None,138.0,None,None
+16,calle del Ingeniero José Sirera,Sant Marcel·lí ,Jesús,136.0,3,2,None,219.9,None,None
+17,calle de Oltá,Malilla ,Quatre Carreres,113.0,4,2,None,159.9,None,None
+26,calle de Cuenca,Patraix ,Patraix,79.0,2,1,None,140.0,None,None
+5,Carrer de la Isla Cabrera,Malilla ,Quatre Carreres,109.0,3,2,None,129.0,None,None
+7,calle del Camp del Túria,Sant Pau ,Campanar,86.0,1,2,Obra nueva,227.0,None,None
+8,Carrer de Llevant,Benicalap ,Benicalap,100.0,2,2,Obra nueva,192.956,None,None
+17,calle Ernest Anastasio,El Grau ,Poblats Marítims,88.0,2,2,Obra nueva,191.0,None,None
+18,Carrer de Llevant,Benicalap ,Benicalap,109.0,3,2,Obra nueva,215.835,None,None
+23,calle Ernest Anastasio,El Grau ,Poblats Marítims,88.0,2,2,Obra nueva,189.0,None,None
+26,calle de San Roque,Benicalap ,Benicalap,59.0,1,1,Obra nueva,121.0,None,None
+1,calle del Obispo Jaime Pérez,Montolivet ,Quatre Carreres,121.0,3,2,None,176.4,None,None
+4,calle Ernest Anastasio,El Grau ,Poblats Marítims,88.0,2,2,Obra nueva,189.0,None,None
+5,calle de Escalante,El Cabanyal-El Canyamelar ,Poblats Marítims,90.0,3,1,None,160.0,None,None
+10,calle de Cuenca,Safranar ,Patraix,121.0,3,2,None,160.0,None,None
+15,calle de Ángel Villena,Na Rovella ,Quatre Carreres,105.0,3,2,None,129.0,None,None
+17,Avenida de Vicente Blasco Ibáñez,Ciutat Universitària ,El Pla del Real,76.0,2,2,None,179.0,None,None
+20,calle Monteolivente. Obispo Jaime Perez,Montolivet ,Quatre Carreres,135.0,5,2,None,195.0,None,None
+25,Carrer Fuencaliente,La Creu del Grau ,Camins al Grau,73.0,3,1,None,140.85,None,None
+26,calle de Torrente,Vara de Quart ,Patraix,104.0,4,2,None,140.0,None,None
+5,calle del Padre Ferris,Marxalenes ,La Saïdia,100.0,3,2,None,135.0,None,None
+11,calle Rodriguez de Pertegaz,Gran Via ,L'Eixample,104.0,3,1,None,130.0,None,None
+14,Carrer de José Soto Micó,Favara ,Patraix,130.0,4,2,None,120.0,None,None
+16,San Marcelino,Sant Marcel·lí ,Jesús,98.0,2,2,None,129.0,None,None
+24,calle Ramón de Rocafull,El Cabanyal-El Canyamelar ,Poblats Marítims,60.0,1,1,None,195.0,None,None
+7,calle de Aluders,El Mercat ,Ciutat Vella,65.0,1,1,None,180.0,None,None
+8,Sant Marcel.Lí,Sant Marcel·lí ,Jesús,91.0,3,2,None,129.0,None,None
+15,calle del Conde de Almenara,El Cabanyal-El Canyamelar ,Poblats Marítims,120.0,3,2,None,198.0,None,None
+19,calle Actor y Cantante Ovidi Montllor y Mengual,Camí Real ,Jesús,110.0,4,2,None,120.0,None,None
+22,calle Altar S Vicente,La Xerea ,Ciutat Vella,49.0,2,1,None,180.0,None,None
+23,calle del Arquitecto Ribes,Soternes ,L'Olivereta,115.0,4,2,None,169.0,None,None
+4,calle calle Trasatlántico,Les Tendetes ,Campanar,73.0,4,1,None,135.0,None,None
+8,calle de Molinell,Ciutat Universitària ,El Pla del Real,65.0,2,1,None,165.0,None,None
+13,calle de Millares,La Raiosa ,Jesús,91.0,3,2,None,145.0,None,None
+14,calle de Pelayo,Sant Francesc ,Ciutat Vella,85.0,2,2,None,188.5,None,None
+18,calle de Molinell,Ciutat Universitària ,El Pla del Real,70.0,2,1,None,165.0,None,None
+19,Carrer Illes Canàries,El Grau ,Poblats Marítims,102.0,4,1,None,125.0,None,None
+20,calle de Isaac Peral,El Grau ,Poblats Marítims,62.0,3,1,None,195.0,None,None
+21,calle de Montán,El Cabanyal-El Canyamelar ,Poblats Marítims,99.0,4,1,None,160.0,None,None
+25,calle del Río Pisuerga,La Malva-rosa ,Poblats Marítims,111.0,3,2,None,175.0,None,None
+26,calle de Ángel Villena,Ciutat de les Arts i de les Ciències ,Quatre Carreres,108.0,3,2,None,129.0,None,None
+8,calle Salvador Rodriguez Bronchu,Benicalap ,Benicalap,110.0,3,2,None,218.0,None,None
+17,calle del Reverendo José Noguera,Sant Marcel·lí ,Jesús,101.0,3,2,None,132.0,None,None
+20,Benimaclet,Beniferri ,Pobles de l'Oest,65.0,3,1,None,130.0,None,None
+21,Plaza de la Virgen del Castillo,El Cabanyal-El Canyamelar ,Poblats Marítims,102.0,4,1,None,195.0,None,None
+23,Carretera de Escrivá,La Raiosa ,Jesús,98.0,3,2,None,165.0,None,None
+1,calle de Pedro Maza,El Cabanyal-El Canyamelar ,Poblats Marítims,110.0,2,1,None,200.0,None,None
+7,Carrer Illes Canàries,Camí Fondo ,Camins al Grau,92.0,3,1,None,160.0,None,None
+9,Carrer de Olimpia Arozena Torres 'Professora,Nou Moles ,L'Olivereta,100.0,1,1,None,149.0,None,None
+12,Sant Marcel.Lí,La Creu Coberta ,Jesús,100.0,3,2,None,193.0,None,None
+15,calle del Micer Rabasa,La Raiosa ,Jesús,117.0,3,2,Obra nueva,177.5,None,None
+2,La Llum,L'Olivereta ,Capital),81.0,2,2,None,160.0,None,None
+8,calle de Francisco Cubells,El Grau ,Poblats Marítims,102.0,3,2,None,180.0,None,None
+9,calle del Poeta Navarro Cabanes,Nou Moles ,L'Olivereta,137.0,4,2,None,189.0,None,None
+12,calle de Alejandro Volta,La Llum ,L'Olivereta,150.0,4,2,None,157.5,None,None
+16,calle de Bello,El Grau ,Poblats Marítims,70.0,3,1,None,130.0,None,None
+17,calle de Emilio Lluch,Vara de Quart ,Patraix,115.0,4,2,None,150.0,None,None
+24,calle de Recaredo,El Carme ,Ciutat Vella,65.0,2,1,None,147.0,None,None
+26,calle del Micer Rabasa,La Raiosa ,Jesús,124.0,3,2,Obra nueva,185.5,None,None
+27,Carrer del Doctor Juan José Dómine,El Grau ,Poblats Marítims,113.0,5,2,None,179.9,None,None
+7,calle del Pintor Ferrandis,Ciutat Jardí ,Algirós,99.0,3,1,None,156.0,None,None
+8,calle de Escalante,El Grau ,Poblats Marítims,131.0,3,2,None,199.0,None,None
+13,Avenida de Eduardo Boscá,El Grau ,Poblats Marítims,92.0,3,2,None,165.0,None,None
+14,Carrer del Comte de Torrefiel,Sant Antoni ,La Saïdia,160.0,4,2,None,180.0,None,None
+25,calle del Micer Rabasa,La Raiosa ,Jesús,88.0,1,1,Obra nueva,129.9,None,None
+29,calle de Rodríguez de Cepeda,Albors ,Camins al Grau,95.0,4,1,None,135.0,None,None
+12,calle de Costa y Borrás,L'Hort de Senabre ,Jesús,103.0,4,2,None,145.0,None,None
+19,calle de Espinosa,El Botànic ,Extramurs,78.0,1,1,None,184.9,None,None
+24,calle de Sotavento,El Perellonet ,Pobles del Sud,64.0,4,2,None,143.687,None,None
+26,calle del Micer Rabasa,La Raiosa ,Jesús,124.0,3,2,Obra nueva,179.5,None,None
+10,Carrer del Actor Pepe Alba,Beteró ,Poblats Marítims,80.0,3,1,None,144.0,None,None
+11,calle de José Benlliure,El Cabanyal-El Canyamelar ,Poblats Marítims,100.0,2,2,None,160.0,None,None
+12,Ensanche de Gran Via,Gran Via ,L'Eixample,69.0,1,2,None,225.0,None,None
+19,calle del Maestro Valls,Aiora ,Camins al Grau,115.0,4,2,None,160.0,None,None
+20,calle de San Roque,Benicalap ,Benicalap,124.0,3,2,Obra nueva,200.0,None,None
+26,calle Plaza Escultor Flrchina,Favara ,Patraix,107.0,4,1,None,120.0,None,None
+0,calle de Mosén Fenollar,Arrancapins ,Extramurs,75.0,3,1,None,125.0,None,None
+2,calle de Oltá,Malilla ,Quatre Carreres,123.0,3,1,None,195.0,None,None
+8,calle del Río Nervión,Benicalap ,Benicalap,136.0,3,2,None,219.0,None,None
+10,calle del Ingeniero José Sirera,Sant Marcel·lí ,Jesús,95.0,3,1,None,124.5,None,None
+16,calle del Micer Rabasa,La Raiosa ,Jesús,124.0,3,2,Obra nueva,189.525,None,None
+19,calle del Alcalde Cano Coloma,Ciutat Jardí ,Algirós,99.0,3,1,None,145.0,None,None
+21,calle Jeronima Galés,La Creu Coberta ,Jesús,77.0,3,2,None,136.0,None,None
+23,calle de los Centelles,Russafa ,L'Eixample,102.0,3,1,None,186.0,None,None
+25,Carretera de Moncada,Tormos ,La Saïdia,83.0,3,1,None,150.0,None,None
+26,calle de L Arquebisbe Fabián I Fuero,Marxalenes ,La Saïdia,137.0,4,1,None,145.0,None,None
+0,calle de San Pedro,El Cabanyal-El Canyamelar ,Poblats Marítims,99.0,3,1,None,140.0,None,None
+2,calle de Marvá,Sant Francesc ,Ciutat Vella,100.0,4,1,None,205.0,None,None
+7,Carrer del Doctor Peset Cervera,El Carme ,Ciutat Vella,71.0,1,1,None,165.0,None,None
+14,calle de Escalante,El Cabanyal-El Canyamelar ,Poblats Marítims,75.0,3,2,None,190.0,None,None
+22,Carrer de San Vicente Mártir,L'Hort de Senabre ,Jesús,166.0,4,2,None,160.0,None,None
+23,calle de Antonio Ponz,La Malva-rosa ,Poblats Marítims,80.0,3,1,None,129.0,None,None
+26,calle del Arzobispo Company,El Cabanyal-El Canyamelar ,Poblats Marítims,58.0,3,1,None,124.9,None,None
+1,calle de Mariano Cuber,Beteró ,Poblats Marítims,72.0,2,1,None,120.0,None,None
+8,calle de Ángel Villena,En Corts ,Quatre Carreres,105.0,3,2,None,129.0,None,None
+14,Plaza Beatriu Civera,Camí Real ,Jesús,90.0,3,2,None,155.0,None,None
+21,calle de Luis Lamarca,Nou Moles ,L'Olivereta,115.0,3,2,None,157.0,None,None
+23,calle de Pedro Andreu,L'Hort de Senabre ,Jesús,100.0,4,2,None,175.0,None,None
+9,calle de Francisco Cubells,El Grau ,Poblats Marítims,79.0,2,2,None,175.0,None,None
+15,** Zona Juan Llorens  **,Arrancapins ,Extramurs,95.0,4,2,None,195.0,None,None
+16,calle del Arzobispo Company,El Cabanyal-El Canyamelar ,Poblats Marítims,110.0,3,1,None,125.0,None,None
+22,calle del Reverendo José Noguera,Sant Marcel·lí ,Jesús,105.0,4,2,None,125.0,None,None
+24,calle de Luis Despuig,El Cabanyal-El Canyamelar ,Poblats Marítims,102.0,2,1,None,125.0,None,None
+27,calle Zamenhoff,La Petxina ,Extramurs,85.0,3,1,None,139.0,None,None
+25,calle de Profesor Ángel Lacalle,Sant Isidre ,Patraix,106.0,3,2,None,175.0,None,None
+1,caller Gimenez  y Costa,La Torre ,Pobles del Sud,224.0,4,2,None,165.5,None,None
+6,calle de la Virgen de Loreto,Natzaret ,Poblats Marítims,130.0,3,2,None,165.0,None,None
+8,Carrer de Olimpia Arozena Torres 'Professora,Nou Moles ,L'Olivereta,99.0,2,1,None,139.0,None,None
+11,Carreró del Monestir de Poblet,Benicalap ,Benicalap,129.0,4,2,None,170.925,None,None
+20,calle del Notario y Académico Enric Taulet,Sant Isidre ,Patraix,80.0,2,2,None,168.0,None,None
+21,calle Plaza Cruz Cañameral,El Cabanyal-El Canyamelar ,Poblats Marítims,104.0,4,1,None,180.0,None,None
+22,calle de Berenguer de Montoliu,La Malva-rosa ,Poblats Marítims,80.0,2,1,None,125.0,None,None
+28,calle del Timón,El Perellonet ,Pobles del Sud,99.0,3,2,None,120.0,None,None
+29,calle de la Pianista Amparo Iturbi,Malilla ,Quatre Carreres,96.0,3,1,None,125.0,None,None
+1,calle de Montán,El Cabanyal-El Canyamelar ,Poblats Marítims,77.0,3,1,None,121.0,None,None
+5,calle de José María Bayarri,La Llum ,L'Olivereta,108.0,3,2,None,134.0,None,None
+6,calle del Alcalde Cano Coloma,Aiora ,Camins al Grau,55.0,2,1,None,120.0,None,None
+9,Plaza José María Giménez Fayos,Benicalap ,Benicalap,113.0,3,2,None,197.0,None,None
+11,calle del Alcalde Albors,Arrancapins ,Extramurs,78.0,3,1,None,134.5,None,None
+17,calle del Grabador Jordán,Fonteta de Sant Lluís ,Quatre Carreres,93.0,3,2,None,144.9,None,None
+18,calle de Escalante,El Cabanyal-El Canyamelar ,Poblats Marítims,60.0,3,1,None,145.0,None,None
+19,calle del Músico Barbieri,Patraix ,Patraix,85.0,3,1,None,150.0,None,None
+20,Carrer de Domingo Gómez,Benicalap ,Benicalap,79.0,3,1,None,135.0,None,None
+21,calle Galdos,Nou Moles ,L'Olivereta,131.0,2,2,None,135.0,None,None
+1,calle del Actor Dramático Lladró y Mallí,La Raiosa ,Jesús,90.0,2,2,None,200.0,None,None
+2,calle del Pintor Pascual Capuz,Patraix ,Patraix,40.0,1,1,None,150.0,None,None
+11,calle del Reverendo José Noguera,Sant Marcel·lí ,Jesús,92.0,3,2,None,125.0,None,None
+13,calle de Alfara del Patriarca,Benicalap ,Benicalap,112.0,3,2,None,221.0,None,None
+17,Carrer Rafael Lapesa Melgar,El Forn d'Alcedo ,Pobles del Sud,122.0,3,2,None,175.0,None,None
+18,calle del Mondúber,Benicalap ,Benicalap,186.0,3,1,None,170.0,None,None
+21,calle de Escalante,El Cabanyal-El Canyamelar ,Poblats Marítims,71.0,2,2,None,140.0,None,None
+25,Junto Al Bioparc y Nuevas Consellerías.,Soternes ,L'Olivereta,113.0,3,2,None,210.0,None,None
+26,calle Pianista Martínez Carrasco,Malilla ,Quatre Carreres,85.0,2,2,None,155.0,None,None
+27,calle de Espadán,El Cabanyal-El Canyamelar ,Poblats Marítims,98.0,3,2,None,208.0,None,None
+5,Plaza del Organista Cabo,Aiora ,Camins al Grau,74.0,2,1,None,140.0,None,None
+12,calle de José Benlliure,El Cabanyal-El Canyamelar ,Poblats Marítims,67.0,2,2,None,195.0,None,None
+14,calle de Sotavento,El Perellonet ,Pobles del Sud,64.0,4,2,None,143.687,None,None
+17,Carrer del Retor Femenia,Russafa ,L'Eixample,83.0,2,1,None,220.0,None,None
+24,calle de Tramoyeres,El Cabanyal-El Canyamelar ,Poblats Marítims,68.0,3,1,None,125.0,None,None
+26,calle de Giménez y Costa,Camí Real ,Jesús,175.0,2,1,None,189.0,None,None
+0,calle del Padre Luis Navarro,El Cabanyal-El Canyamelar ,Poblats Marítims,55.0,2,1,None,158.5,None,None
+1,Carrer de Cadis,L'Eixample ,Capital),70.0,2,2,None,176.0,None,None
+6,calle Joan Josep Sister 21,El Grau ,Poblats Marítims,70.0,2,2,None,148.0,None,None
+14,Carrer de Venezuela,Sant Francesc ,Ciutat Vella,124.0,4,2,None,170.0,None,None
+15,Carrer de Olimpia Arozena Torres 'Professora,Nou Moles ,L'Olivereta,118.0,3,2,None,139.0,None,None
+16,calle del Micer Rabasa,La Raiosa ,Jesús,76.0,2,2,Obra nueva,149.9,None,None
+18,calle Avd Giorgeta,Sant Francesc ,Ciutat Vella,116.0,3,2,None,180.0,None,None
+20,calle del Padre Esteban Pernet,La Llum ,L'Olivereta,81.0,2,2,None,162.0,None,None
+22,calle de Orihuela,Morvedre ,La Saïdia,118.0,3,2,None,188.0,None,None
+26,calle de La Dama D Elx 17,La Creu del Grau ,Camins al Grau,80.0,3,1,None,151.0,None,None
+0,calle de la Alquería de Benimassot,Camí Real ,Jesús,102.0,3,2,None,124.1,None,None
+1,calle de San Roque,Benicalap ,Benicalap,96.0,2,2,Obra nueva,160.0,None,None
+7,calle de Luis Lamarca,Nou Moles ,L'Olivereta,74.0,2,1,None,123.0,None,None
+8,calle de Orihuela,Morvedre ,La Saïdia,122.0,3,2,Obra nueva,195.0,None,None
+12,calle de Escalante,El Cabanyal-El Canyamelar ,Poblats Marítims,123.0,3,2,None,210.0,None,None
+14,calle de Villahermosa,Montolivet ,Quatre Carreres,102.0,4,1,None,165.0,None,None
+18,calle de Francisco Cubells,El Grau ,Poblats Marítims,102.0,3,2,None,180.0,None,None
+28,Carrer de San Vicente Mártir,L'Hort de Senabre ,Jesús,162.0,4,2,None,174.95,None,None
+29,calle de Bello,El Grau ,Poblats Marítims,80.0,3,1,None,130.0,None,None
+3,Avenida Doctor Waskman,En Corts ,Quatre Carreres,70.0,2,1,None,125.0,None,None
+4,calle calle de Larquebisbe Fabián I Fuero,Marxalenes ,La Saïdia,82.0,3,1,None,158.0,None,None
+7,calle de Cuenca,Patraix ,Patraix,120.0,3,2,None,145.0,None,None
+10,calle Jj Domine,El Grau ,Poblats Marítims,100.0,1,2,None,185.0,None,None
+21,Avinguda de la Malva,La Malva-rosa ,Poblats Marítims,95.0,3,2,None,160.0,None,None
+28,Avenida del Doctor Rafael Bartual,Sant Isidre ,Patraix,93.0,4,2,None,124.9,None,None
+1,calle de Estribor,El Perellonet ,Pobles del Sud,112.0,4,2,None,180.0,None,None
+5,calle del Padre Porta,El Grau ,Poblats Marítims,104.0,4,2,None,169.0,None,None
+6,calle del Doctor Nicasio Benlloch,Marxalenes ,La Saïdia,127.0,2,2,None,151.0,None,None
+9,calle de San Roque,Benicalap ,Benicalap,124.0,3,2,Obra nueva,205.0,None,None
+11,calle del Doctor Lluch,Sant Francesc ,Ciutat Vella,63.0,1,1,None,126.0,None,None
+18,Morvedre,El Carme ,Ciutat Vella,117.0,4,2,None,125.0,None,None
+28,calle del Reverendo José María Pinazo,Benimaclet ,Benimaclet,104.0,4,1,None,160.0,None,None
+5,calle de Berenguer de Montoliu,La Malva-rosa ,Poblats Marítims,85.0,3,1,None,155.0,None,None
+8,calle de la Pianista Amparo Iturbi,Malilla ,Quatre Carreres,133.0,3,2,None,195.0,None,None
+15,Carrer del Dramaturg Àngel Guimerà,Arrancapins ,Extramurs,36.0,1,1,None,159.0,None,None
+22,Avenida de Vicente Blasco Ibáñez,Beteró ,Poblats Marítims,94.0,3,2,None,220.0,None,None
+24,calle del Padre Luis Navarro,El Cabanyal-El Canyamelar ,Poblats Marítims,70.0,1,1,None,170.0,None,None
+25,calle del Músico Penella,Favara ,Patraix,128.0,4,2,None,159.0,None,None
+27,Avenida Fernando Abril Martorell,Malilla ,Quatre Carreres,122.0,3,3,None,212.0,None,None
+29,calle de Orihuela,Morvedre ,La Saïdia,122.0,3,2,Obra nueva,188.0,None,None
+1,calle Marino Pedro Anderu,Favara ,Patraix,115.0,4,2,None,175.0,None,None
+7,Avinguda de la Malva,La Malva-rosa ,Poblats Marítims,103.0,3,2,None,140.0,None,None
+9,calle Mestre Chapí,Benimàmet ,Pobles de l'Oest,122.0,3,2,None,197.0,None,None
+11,Plaza de la Iglesia de los Ángeles,El Cabanyal-El Canyamelar ,Poblats Marítims,65.0,3,1,None,130.0,None,None
+12,calle Fausto Helio,La Malva-rosa ,Poblats Marítims,102.0,3,2,None,175.0,None,None
+20,calle del Maestro Valls,Aiora ,Camins al Grau,92.0,3,1,None,156.0,None,None
+28,calle de Isaac Peral,El Grau ,Poblats Marítims,96.0,3,1,None,150.0,None,None
+29,calle de Ángel Villena,Ciutat de les Arts i de les Ciències ,Quatre Carreres,96.0,3,2,None,129.0,None,None
+3,calle de Rodríguez de Cepeda,Albors ,Camins al Grau,90.0,3,1,None,155.0,None,None
+4,calle Avd Giorgeta,Sant Francesc ,Ciutat Vella,116.0,3,2,None,180.0,None,None
+11,calle de Oltá,Malilla ,Quatre Carreres,123.0,3,1,None,205.0,None,None
+16,calle del Reverendo Rafael Tramoyeres,Benimaclet ,Benimaclet,80.0,2,2,None,130.0,None,None
+22,Próxima A Blasco Ibáñez,Mestalla ,El Pla del Real,71.0,2,1,None,158.0,None,None
+25,calle Peset Alexandre,Tormos ,La Saïdia,100.0,2,2,None,197.9,None,None
+29,calle del Doctor Nicasio Benlloch,Campanar ,Campanar,60.0,2,1,None,165.0,None,None
+2,calle de Alcañiz,Torrefiel ,Rascanya,91.0,3,1,None,130.0,None,None
+9,calle de Cuenca,Patraix ,Patraix,80.0,2,1,None,140.0,None,None
+14,A 100 Metros del Mercado de Ruzafa,Russafa ,L'Eixample,70.0,2,1,None,165.0,None,None
+21,Carretera de Moncada,Tormos ,La Saïdia,83.0,3,1,None,149.9,None,None
+24,Carrer Fuencaliente,La Creu del Grau ,Camins al Grau,106.0,4,2,None,155.0,None,None
+2,calle de la Virgen del Puig,El Grau ,Poblats Marítims,96.0,3,2,None,225.0,None,None
+7,*** Junto Al Puerto y Avda. del Puerto ***,El Grau ,Poblats Marítims,73.0,3,1,None,130.0,None,None
+10,calle del Pintor Pascual Capuz,Patraix ,Patraix,97.0,3,2,None,224.9,None,None
+14,calle Jj  Domine,El Grau ,Poblats Marítims,100.0,4,2,None,188.0,None,None
+24,calle Peset Alexandre,Tormos ,La Saïdia,119.0,4,2,None,210.0,None,None
+26,calle Eiximenis,Sant Francesc ,Ciutat Vella,100.0,2,1,None,195.0,None,None
+0,calle del Progreso,El Cabanyal-El Canyamelar ,Poblats Marítims,43.0,1,1,None,129.0,None,None
+6,La Creu Coberta,L'Hort de Senabre ,Jesús,94.0,3,2,None,158.0,None,None
+8,calle Jj Dómine,El Grau ,Poblats Marítims,100.0,3,2,None,185.0,None,None
+10,Carrer Pego,Benimàmet ,Pobles de l'Oest,112.0,3,2,None,127.9,None,None
+11,Avinguda de Manuel Colomer Marco,Favara ,Patraix,104.0,3,2,None,145.0,None,None
+17,calle del Castillo de Benisanó,Nou Moles ,L'Olivereta,91.0,2,1,None,155.0,None,None
+29,calle de La Puebla del Duc,Morvedre ,La Saïdia,83.0,3,1,None,132.5,None,None
+9,calle Burrull,El Carme ,Ciutat Vella,58.0,1,1,None,120.0,None,None
+11,calle de los Carteros,L'Hort de Senabre ,Jesús,116.0,4,2,None,139.8,None,None
+13,calle de José Benlliure,El Cabanyal-El Canyamelar ,Poblats Marítims,100.0,1,2,None,120.0,None,None
+14,Els Orriols,Sant Antoni ,La Saïdia,99.0,3,2,None,149.0,None,None
+16,calle Alejandra Soler,El Carme ,Ciutat Vella,112.0,4,3,None,230.0,None,None
+28,calle de Enriqueta Agut Armer 'Maestra,Tres Forques ,L'Olivereta,91.0,3,2,None,169.0,None,None
+5,calle Ep Barraques de Llacer 3,Faitanar ,Pobles del Sud,77.0,2,1,None,122.1,None,None
+15,Plaza Beatriz Civera,Sant Isidre ,Patraix,122.0,3,2,None,129.7,None,None
+16,calle de Ángel Villena,Na Rovella ,Quatre Carreres,105.0,3,2,None,129.0,None,None
+17,Barrio de La Luz,Faitanar ,Pobles del Sud,132.0,4,2,None,144.0,None,None
+20,calle de la Costera,Beniferri ,Pobles de l'Oest,87.0,2,2,None,230.0,None,None
+21,calle Avenida de Linstitut Obrer Valencià,Ciutat de les Arts i de les Ciències ,Quatre Carreres,96.0,2,1,None,230.0,None,None
+23,La Fontera de Sant Lluis,La Punta ,Quatre Carreres,105.0,4,2,None,167.0,None,None
+27,Carrer de El Batxiller,Jaume Roig ,El Pla del Real,87.0,2,2,None,195.0,None,None
+1,Avinguda de la Malva,La Malva-rosa ,Poblats Marítims,98.0,3,2,None,160.0,None,None
+2,Avinguda de la Malva,La Malva-rosa ,Poblats Marítims,85.0,2,1,None,172.0,None,None
+3,Avinguda de la Malva,La Malva-rosa ,Poblats Marítims,96.0,4,2,None,210.0,None,None
+12,Patraix,Nou Moles ,L'Olivereta,134.0,4,2,None,175.0,None,None
+16,calle de Berenguer de Montoliu,La Malva-rosa ,Poblats Marítims,80.0,2,1,None,125.0,None,None
+19,Junto A La Plaza del Pilar y Parque del Hospital.,El Pilar ,Ciutat Vella,62.0,2,1,None,142.0,None,None
+23,Patraix,Tres Forques ,L'Olivereta,98.0,4,2,None,124.9,None,None
+1,Plaza del Pintor Anglada,Beteró ,Poblats Marítims,85.0,3,1,None,173.0,None,None
+2,calle Ciutat de Melilla,Favara ,Patraix,145.0,2,2,None,179.9,None,None
+3,calle Burgerins,El Mercat ,Ciutat Vella,88.0,2,2,None,184.157,None,None
+8,calle de Eduardo Soler y Pérez,Sant Pau ,Campanar,119.0,3,2,None,230.0,None,None
+13,calle de la Cooperativa de San Fernando,La Raiosa ,Jesús,76.0,2,1,None,120.0,None,None
+16,Esquina Con La calle Jurado Blanquer,Safranar ,Patraix,94.0,3,2,None,165.0,None,None
+19,calle del Maestro Miguel Galán,Benicalap ,Benicalap,102.0,4,1,None,147.0,None,None
+27,calle de Orihuela,Morvedre ,La Saïdia,124.0,3,2,Obra nueva,200.0,None,None
+13,calle de los Franciscanos,La Seu ,Ciutat Vella,111.0,2,1,None,179.0,None,None
+14,Frente Al Mercado Central y A 2 Minutos de La Lonja.,El Pilar ,Ciutat Vella,77.0,2,2,None,225.0,None,None
+17,Carrer del Bonaire,La Xerea ,Ciutat Vella,80.0,2,1,None,179.0,None,None
+21,Avenida de Eduardo Boscá,La Creu del Grau ,Camins al Grau,109.0,4,2,None,172.5,None,None
+5,calle de Benasal,El Cabanyal-El Canyamelar ,Poblats Marítims,110.0,3,4,None,170.0,None,None
+7,Carrer de Sant Josep Sister,El Cabanyal-El Canyamelar ,Poblats Marítims,70.0,2,2,None,155.0,None,None
+9,calle de Molinell,La Seu ,Ciutat Vella,69.0,2,1,None,165.0,None,None
+11,calle de Alboraya,Mestalla ,El Pla del Real,80.0,3,1,None,135.0,None,None
+12,calle Marino Pedro Andreu,L'Hort de Senabre ,Jesús,92.0,3,1,None,123.0,None,None
+17,Lolivereta,Sant Pau ,Campanar,100.0,4,1,None,125.0,None,None
+0,Carrer de Sant Josep Sister,El Grau ,Poblats Marítims,122.0,4,2,Obra nueva,222.0,None,None
+2,calle de San Roque,Benicalap ,Benicalap,125.0,3,2,Obra nueva,190.0,None,None
+9,calle de Ángel Villena,Na Rovella ,Quatre Carreres,105.0,3,2,None,129.0,None,None
+11,calle del Micer Rabasa,La Raiosa ,Jesús,117.0,3,2,Obra nueva,187.525,None,None
+18,Carrer de Jerónima Galés 'Impressora,Favara ,Patraix,116.0,3,2,None,139.0,None,None
+19,L'illa Perduda,Aiora ,Camins al Grau,4.0,2,2,None,229.0,None,None
+24,Carrer de San Vicente Mártir,Favara ,Patraix,102.0,4,1,None,124.8,None,None
+25,calle del Campamento,Benimàmet ,Pobles de l'Oest,228.0,6,2,None,175.0,None,None
+27,calle de Orihuela,Morvedre ,La Saïdia,120.0,3,2,None,200.0,None,None
+1,Carrer del Bonaire,El Mercat ,Ciutat Vella,80.0,2,1,None,189.0,None,None
+3,calle del Padre Antón Martín,La Malva-rosa ,Poblats Marítims,109.0,4,2,None,143.0,None,None
+5,calle de Orihuela,Morvedre ,La Saïdia,120.0,3,2,None,188.0,None,None
+8,calle del Padre Vicent,La Punta ,Quatre Carreres,67.0,3,1,None,166.5,None,None
+11,calle de Bello,El Grau ,Poblats Marítims,80.0,3,1,None,120.0,None,None
+12,calle del Padre Luis Navarro,El Cabanyal-El Canyamelar ,Poblats Marítims,59.0,2,1,None,150.0,None,None
+16,calle de Almácera,L'Hort de Senabre ,Jesús,131.0,3,2,None,175.0,None,None
+17,calle de Mosén Febrer,L'Hort de Senabre ,Jesús,122.0,3,2,None,164.0,None,None
+18,Carrer de Rafael Cort,La Xerea ,Ciutat Vella,128.0,4,2,None,169.9,None,None
+22,calle de Agustín Sales,La Raiosa ,Jesús,141.0,1,2,None,130.0,None,None
+29,calle de Carcagente,Patraix ,Patraix,79.0,1,1,None,120.0,None,None
+0,calle de Agustín Sales,L'Hort de Senabre ,Jesús,40.0,1,1,None,130.0,None,None
+1,calle Carrer de L''arquebisbe Fabián I Fuero,Marxalenes ,La Saïdia,80.0,3,1,None,158.0,None,None
+18,Ciutat de Les Arts I de Les Ciències,Ciutat de les Arts i de les Ciències ,Quatre Carreres,86.0,3,1,None,167.0,None,None
+6,calle del Humanista Mariner,Patraix ,Patraix,70.0,2,1,None,145.0,None,None
+7,Carrer de l'Acadèmic Alemany,Torrefiel ,Rascanya,95.0,3,2,None,189.0,None,None
+8,calle de los Hierros,Aiora ,Camins al Grau,91.0,3,2,None,129.9,None,None
+1,Plaza Poeta Vicente Gao,La Bega Baixa ,Algirós,51.0,1,1,None,132.5,None,None
+6,Carretera de Moncada,Torrefiel ,Rascanya,91.0,4,2,None,134.0,None,None
+7,Lolivereta,Patraix ,Patraix,88.0,3,1,None,130.0,None,None
+9,San Marcelino,Sant Marcel·lí ,Jesús,90.0,3,2,None,124.0,None,None
+12,Finca Roja,Arrancapins ,Extramurs,110.0,4,2,None,195.0,None,None
+14,calle Padre Anton Marti,La Malva-rosa ,Poblats Marítims,68.0,3,1,None,123.0,None,None
+16,calle de Senda Secanet,Benimàmet ,Pobles de l'Oest,115.0,3,2,None,130.4,None,None
+21,calle de la Isla Formentera,Malilla ,Quatre Carreres,110.0,3,2,None,168.0,None,None
+22,Marxalenes,Les Tendetes ,Campanar,92.0,4,2,None,130.0,None,None
+26,calle Muñiz y Hernandez de Alba,Aiora ,Camins al Grau,108.0,4,1,None,153.0,None,None
+27,calle del Beato Juan Grande,La Malva-rosa ,Poblats Marítims,110.0,4,2,None,200.0,None,None
+0,Fuente San Luis,Fonteta de Sant Lluís ,Quatre Carreres,100.0,3,2,None,144.9,None,None
+5,calle del Pintor Pascual Capuz,Patraix ,Patraix,110.0,3,2,None,175.0,None,None
+11,calle de la Olivereta,Nou Moles ,L'Olivereta,156.0,4,2,None,145.0,None,None
+16,"""Rentabilidad de 4%""",Arrancapins ,Extramurs,120.0,3,2,None,195.0,None,None
+18,calle Dr Waksman,En Corts ,Quatre Carreres,115.0,4,2,None,170.0,None,None
+28,calle Dr Zamenhoff,La Petxina ,Extramurs,100.0,4,2,None,177.5,None,None
+0,Quatre Carreres,La Creu Coberta ,Jesús,128.0,4,2,None,159.9,None,None
+8,calle de Ángel Villena,Ciutat de les Arts i de les Ciències ,Quatre Carreres,103.0,3,2,None,129.0,None,None
+11,Carrer del Pintor Julio Vila Prades,La Petxina ,Extramurs,83.0,3,1,None,136.5,None,None
+16,calle de San Roque,Benicalap ,Benicalap,124.0,3,2,Obra nueva,197.0,None,None
+21,Carrer del Pintor Julio Vila Prades,La Petxina ,Extramurs,83.0,3,2,None,136.5,None,None
+25,Avinguda de la Malva,La Malva-rosa ,Poblats Marítims,88.0,4,2,None,157.0,None,None
+1,calle de San Roque,Benicalap ,Benicalap,126.0,3,2,Obra nueva,207.0,None,None
+3,calle Castel Benissano,Nou Moles ,L'Olivereta,124.0,4,2,None,170.0,None,None
+4,calle de Luis Lamarca,Nou Moles ,L'Olivereta,112.0,4,2,None,150.0,None,None
+9,calle de Oltá,Malilla ,Quatre Carreres,112.0,4,2,None,120.0,None,None
+17,calle del Músico Martín Soler,L'Illa Perduda ,Algirós,100.0,5,2,None,195.0,None,None
+19,calle de los Plátanos,Benicalap ,Benicalap,80.0,3,1,None,149.99,None,None
+20,Benicalap,Campanar ,Campanar,84.0,2,1,None,138.0,None,None
+18,calle del Río Nervión,Benicalap ,Capital),136.0,3,2,Obra nueva,219.0,None,None
+23,calle del Micer Rabasa,La Raiosa ,Jesús,117.0,3,2,Obra nueva,177.5,None,None
+26,calle Ep Barraques de Llacer,Faitanar ,Pobles del Sud,84.0,2,1,None,122.1,None,None
+3,calle del Maestro Miguel Galán,Benicalap ,Benicalap,103.0,2,1,None,135.0,None,None
+4,Ciutat de Les Arts I de Les Ciències,Ciutat de les Arts i de les Ciències ,Quatre Carreres,120.0,4,2,None,170.0,None,None
+5,calle de la Pianista Amparo Iturbi,Malilla ,Quatre Carreres,133.0,3,3,None,195.0,None,None
+13,calle de Félix del Río 'Activista Vecinal,Benicalap ,Benicalap,114.0,3,2,None,145.0,None,None
+14,Carrer de San Vicente Mártir,Favara ,Patraix,87.0,2,2,None,168.0,None,None
+15,Ciutat de Les Arts I de Les Ciències,Ciutat de les Arts i de les Ciències ,Quatre Carreres,95.0,2,1,None,139.0,None,None
+23,Carrer Mariano Brull,La Torre ,Pobles del Sud,123.0,3,2,None,124.5,None,None
+0,Carrer Ciutat de l'Aprenent,Camí Real ,Jesús,100.0,3,2,None,125.0,None,None
+3,Avenida Peset Alexandre,Tormos ,La Saïdia,81.0,3,1,None,159.9,None,None
+15,Lolivereta,Patraix ,Patraix,99.0,3,1,None,175.0,None,None
+16,calle del Humanista Mariner,Patraix ,Patraix,70.0,3,1,None,120.0,None,None
+27,calle Doctor Zamenof,Arrancapins ,Extramurs,98.0,4,2,None,177.5,None,None
+1,calle del Músico Maestro Sosa,Arrancapins ,Extramurs,100.0,3,1,None,199.0,None,None
+2,calle de la Sierra de Agullent,Benicalap ,Benicalap,83.0,3,1,None,124.0,None,None
+11,Plaza Monteolivete,Gran Via ,L'Eixample,100.0,2,2,None,135.0,None,None
+19,Patraix,Tres Forques ,L'Olivereta,73.0,2,1,None,152.0,None,None
+28,calle del Reverendo José Noguera,Sant Marcel·lí ,Jesús,91.0,3,2,None,129.0,None,None
+0,calle Casstell de Benisanó,Nou Moles ,L'Olivereta,120.0,4,2,None,218.0,None,None
+2,calle E.P. Barraques de Llàcer Tres,Faitanar ,Pobles del Sud,84.0,2,1,None,122.1,None,None
+3,calle Dr Oloriz,Marxalenes ,La Saïdia,111.0,3,1,None,158.0,None,None
+8,calle Ramiro de Maetzu,El Castellar-L'Oliveral ,Pobles del Sud,81.0,3,1,None,124.9,None,None
+9,Campanar,Benimàmet ,Pobles de l'Oest,128.0,4,2,None,126.8,None,None
+16,Avinguda de la Malva,La Malva-rosa ,Poblats Marítims,73.0,4,2,None,153.0,None,None
+19,Carrer d'en Rafel Gayano Lluch,Torrefiel ,Rascanya,60.0,2,1,None,169.0,None,None
+27,Carrer d'en Joan Llorens,La Petxina ,Extramurs,130.0,5,2,None,225.0,None,None
+0,Carrer d'en Joan Llorens,La Petxina ,Extramurs,62.0,2,1,None,162.0,None,None
+11,calle del Padre Porta,La Punta ,Quatre Carreres,119.0,3,1,None,143.0,None,None
+12,calle Nicolas Factor,Nou Moles ,L'Olivereta,200.0,3,3,None,206.11,None,None
+14,Monteolivet,La Punta ,Quatre Carreres,91.0,3,1,None,225.0,None,None
+28,Patraix,Tres Forques ,L'Olivereta,73.0,2,1,None,149.0,None,None
+29,Avinguda de la Malva,La Malva-rosa ,Poblats Marítims,106.0,4,1,None,155.0,None,None
+22,calle del Grabador Jordán,Fonteta de Sant Lluís ,Quatre Carreres,120.0,3,2,None,144.9,None,None
+5,calle Pare Vicent,En Corts ,Quatre Carreres,79.0,3,1,None,120.0,None,None
+8,calle de la Isla Formentera,Malilla ,Quatre Carreres,100.0,3,1,None,140.0,None,None
+11,calle OvIdI Montellor I Mengual,Camí Real ,Jesús,136.0,4,2,None,120.0,None,None
+12,calle de la Azucena,Benicalap ,Benicalap,95.0,3,1,None,139.9,None,None
+20,Els Orriols,Orriols ,Rascanya,104.0,3,2,None,160.0,None,None
+4,calle de Oltá,Malilla ,Quatre Carreres,111.0,3,1,None,155.0,None,None
+6,CIutat de les Arts I de les CIèncIes,Ciutat de les Arts i de les Ciències ,Quatre Carreres,90.0,3,2,None,200.0,None,None
+8,Extramurs,Patraix ,Patraix,66.0,2,2,None,149.9,None,None
+10,calle de la Olivereta,Nou Moles ,L'Olivereta,75.0,2,1,None,138.0,None,None
+21,Carrer del Caporal Jubi,Russafa ,L'Eixample,101.0,3,2,None,218.0,None,None
+0,calle de Cuenca,Patraix ,Patraix,121.0,3,2,None,155.0,None,None
+2,Marchalenes,Les Tendetes ,Campanar,90.0,2,1,None,121.0,None,None
+3,calle Carretera Fuente,La Punta ,Quatre Carreres,238.0,4,1,None,215.0,None,None
+26,calle de Pedro Andreu,L'Hort de Senabre ,Jesús,107.0,3,1,None,120.5,None,None
+29,Carretera de Moncada,Torrefiel ,Rascanya,108.0,3,3,None,130.0,None,None
+26,calle del Músico Maestro Sosa,Arrancapins ,Extramurs,88.0,2,1,None,210.0,None,None
+1,calle de Orihuela,Morvedre ,La Saïdia,128.0,3,2,Obra nueva,215.0,None,None
+7,Carrer del Bonaire,Sant Francesc ,Ciutat Vella,65.0,2,1,None,189.0,None,None
+12,calle de Agullent,Benicalap ,Benicalap,130.0,3,2,None,180.0,None,None
+16,calle Isla de Gran Canaria,La Malva-rosa ,Poblats Marítims,85.0,3,1,None,180.0,None,None
+24,calle de Orihuela,Morvedre ,La Saïdia,128.0,3,2,Obra nueva,200.0,None,None
+28,calle Juan Aguilar,Campanar ,Campanar,97.0,3,1,None,153.0,None,None
+3,calle Alfahuir,Benimaclet ,Benimaclet,98.0,2,1,None,228.0,None,None
+14,Ciutat de Les Arts I de Les Ciències,Ciutat de les Arts i de les Ciències ,Quatre Carreres,75.0,3,1,None,195.0,None,None
+16,calle de la Pianista Amparo Iturbi,Malilla ,Quatre Carreres,133.0,3,3,None,195.0,None,None
+21,El Grau,Sant Francesc ,Ciutat Vella,70.0,1,1,None,181.3,None,None
+7,La Olivereta,La Petxina ,Extramurs,99.0,4,2,None,177.5,None,None
+2,calle de la Cooperativa de San Fernando,Favara ,Patraix,76.0,2,1,None,123.0,None,None
+27,calle de Millares,La Raiosa ,Jesús,80.0,3,1,None,184.0,None,None
+1,calle de Recaredo,La Seu ,Ciutat Vella,75.0,2,1,None,147.0,None,None
+2,calle Vinaroz,Sant Llorenç ,Rascanya,80.0,3,1,None,125.0,None,None
+3,El Grau,Sant Francesc ,Ciutat Vella,70.0,1,1,None,176.0,None,None
+13,calle del Micer Rabasa,La Raiosa ,Jesús,117.0,3,2,Obra nueva,178.5,None,None
+24,La Olivereta,La Petxina ,Extramurs,69.0,2,1,None,135.0,None,None
+8,Patraix,Tres Forques ,L'Olivereta,113.0,4,2,None,225.0,None,None
+14,Torrefiel,Sant Francesc ,Ciutat Vella,69.0,1,1,None,145.0,None,None
+16,calle Guadina,El Castellar-L'Oliveral ,Pobles del Sud,336.0,3,1,None,200.0,None,None
+23,calle Vicente Tormo Alfonso,Sant Pau ,Campanar,91.0,2,2,None,187.0,None,None
+26,calle del Asilo de la Infancia,El Pilar ,Ciutat Vella,40.0,1,1,None,125.0,None,None
+0,calle Cebrian Mezquita,La Roqueta ,Extramurs,100.0,2,2,None,144.9,None,None
+1,calle del Padre Porta,El Grau ,Poblats Marítims,90.0,3,2,None,161.0,None,None
+8,calle de Cuenca,Patraix ,Patraix,119.0,5,2,None,145.0,None,None
+18,Sant Llorenç,Benimaclet ,Benimaclet,89.0,2,2,None,221.0,None,None
+26,CIutat de les Arts I de les CIèncIes,Ciutat de les Arts i de les Ciències ,Quatre Carreres,56.0,1,1,None,160.0,None,None
+27,calle Cruz Cubierta,La Creu Coberta ,Jesús,95.0,2,1,None,205.0,None,None
+0,Carrer de Sant Josep Sister,El Grau ,Poblats Marítims,122.0,4,2,Obra nueva,227.5,None,None
+5,La Saïdia,Benimaclet ,Benimaclet,64.0,2,1,None,165.0,None,None
+8,calle Joan Reus Parra,Sant Francesc ,Ciutat Vella,116.0,3,2,None,168.5,None,None
+15,calle del Micer Rabasa,La Raiosa ,Jesús,117.0,3,2,Obra nueva,180.5,None,None
+29,La Xeu,La Seu ,Ciutat Vella,42.0,1,1,None,163.0,None,None
+6,calle del Padre Porta,El Grau ,Poblats Marítims,119.0,3,1,None,150.0,None,None
+8,calle de San Roque,Benicalap ,Benicalap,124.0,3,2,Obra nueva,195.0,None,None
+11,Benicalap,Campanar ,Campanar,80.0,3,1,None,120.0,None,None
+15,Estación del Ave,Arrancapins ,Extramurs,85.0,2,2,None,155.0,None,None
+16,calle de Cuenca,Sant Francesc ,Ciutat Vella,108.0,3,1,None,147.5,None,None
+17,La Fontsanta,Patraix ,Patraix,95.0,2,1,None,138.9,None,None
+27,calle del Micer Rabasa,La Raiosa ,Jesús,117.0,3,2,Obra nueva,178.5,None,None
+2,Carrer del Actor Pepe Alba,Aiora ,Camins al Grau,75.0,2,1,None,150.0,None,None
+13,Carteros ,Favara ,Patraix,60.0,1,1,None,169.0,None,None
+18,Patraix ,Faitanar ,Pobles del Sud,100.0,1,1,None,150.0,None,None
+0,calle del Reverendo José María Pinazo,Sant Llorenç ,Rascanya,74.0,3,1,None,126.5,None,None
+1,calle de Escalante,El Cabanyal-El Canyamelar ,Poblats Marítims,60.0,3,2,None,150.0,None,None
+5,calle de Berenguer de Montoliu,La Malva-rosa ,Poblats Marítims,80.0,2,1,None,125.0,None,None
+6,Plaza de Arturo Piera,Nou Moles ,L'Olivereta,77.0,3,1,None,133.0,None,None
+9,calle del Campamento,Benimàmet ,Pobles de l'Oest,224.0,3,1,None,125.0,None,None
+11,calle del Asilo de la Infancia,El Pilar ,Ciutat Vella,45.0,1,1,None,125.0,None,None
+17,Carrer d'en Rafel Gayano Lluch,Torrefiel ,Rascanya,60.0,2,1,None,169.0,None,None
+19,calle Mestro Bellver,Patraix ,Patraix,75.0,2,1,None,130.0,None,None
+2,Carrer del Dramaturg Àngel Guimerà,Arrancapins ,Extramurs,167.0,3,2,None,230.0,None,None
+28,Morvedre,Sant Francesc ,Ciutat Vella,83.0,2,1,None,210.0,None,None
+24,Desde 191.468€,Massarrojos ,Pobles del Nord,185.0,3,3,None,191.468,None,None
+26,calle del Músico Maestro Sosa,Arrancapins ,Extramurs,80.0,2,1,None,170.0,None,None
+3,Ciutat de Les Arts I de Les Ciències,Ciutat de les Arts i de les Ciències ,Quatre Carreres,108.0,5,2,None,175.0,None,None
+2,Avinguda de les Balears,Gran Via ,L'Eixample,95.0,2,2,None,185.0,None,None
+7,calle del Micer Rabasa,La Raiosa ,Jesús,124.0,3,2,Obra nueva,182.5,None,None
+12,calle de Cervantes,Sant Francesc ,Ciutat Vella,60.0,2,1,None,150.0,None,None
+24,calle del Micer Rabasa,La Raiosa ,Jesús,117.0,3,2,Obra nueva,180.5,None,None
+1,Carrer de Sant Josep Sister,El Grau ,Poblats Marítims,74.0,2,1,Obra nueva,223.0,None,None
+4,calle de San Roque,Benicalap ,Benicalap,125.0,3,2,Obra nueva,227.0,None,None
+7,calle del Duque de Gaeta,Beteró ,Poblats Marítims,68.0,3,1,None,146.0,None,None
+8,calle Fernando Casanova Benlloch,Campanar ,Campanar,128.0,3,2,None,196.0,None,None
+21,Carrer de la Miraculosa,El Carme ,Ciutat Vella,100.0,4,1,None,149.0,None,None
+24,calle de Cuenca,Patraix ,Patraix,100.0,2,1,None,155.0,None,None
+5,Carrer Almassora,Trinitat ,La Saïdia,100.0,4,1,None,153.0,None,None
+6,calle Jerónima Galés,Favara ,Patraix,108.0,3,2,None,170.0,None,None
+8,calle Just Ramirez ,Marxalenes ,La Saïdia,120.0,3,2,None,180.0,None,None
+14,La Lloma de La Verge,La Carrasca ,Algirós,308.0,5,3,None,209.0,None,None
+17,Carrer de Linares,Patraix ,Patraix,130.0,4,2,None,220.0,None,None
+19,calle Viver,Benimaclet ,Benimaclet,101.0,2,2,None,215.0,None,None
+4,calle de Burguerins,El Mercat ,Ciutat Vella,88.0,2,2,None,184.0,None,None
+29,Lolivereta,Patraix ,Patraix,115.0,3,2,None,179.9,None,None
+20,Els Orriols,Orriols ,Rascanya,117.0,4,2,None,142.0,None,None
+26,calle del Reverendo José Noguera,L'Hort de Senabre ,Jesús,101.0,3,2,None,134.0,None,None
+2,calle Nicasio Benlloch,Benicalap ,Benicalap,108.0,3,2,Obra nueva,193.37599999999998,None,None
+7,calle Ernest Anastasio,El Grau ,Poblats Marítims,108.0,2,2,Obra nueva,215.0,None,None
+9,calle Ernest Anastasio,El Grau ,Poblats Marítims,108.0,2,2,Obra nueva,210.0,None,None
+10,calle Ernest Anastasio,El Grau ,Poblats Marítims,93.0,2,2,Obra nueva,195.0,None,None
+14,calle Ernest Anastasio,El Grau ,Poblats Marítims,93.0,2,2,Obra nueva,212.0,None,None
+17,Pataix,Sant Isidre ,Patraix,142.0,4,2,None,215.0,None,None
+20,Carrer de Llevant,Benicalap ,Benicalap,108.0,3,2,Obra nueva,229.36700000000002,None,None
+23,calle Ernest Anastasio,El Grau ,Poblats Marítims,92.0,2,2,Obra nueva,210.0,None,None
+25,calle Ernest Anastasio,El Grau ,Poblats Marítims,88.0,2,2,Obra nueva,205.0,None,None
+26,calle Nicasio Benlloch,Benicalap ,Benicalap,110.0,3,2,Obra nueva,193.69400000000002,None,None
+29,Ciutat Vella,Benimaclet ,Benimaclet,45.0,1,1,None,229.9,None,None
+0,Carrer de Llevant,Benicalap ,Benicalap,118.0,3,2,Obra nueva,230.87900000000002,None,None
+1,calle Nicasio Benlloch,Benicalap ,Benicalap,126.0,3,2,Obra nueva,190.581,None,None
+2,calle Ernest Anastasio,El Grau ,Poblats Marítims,88.0,2,2,Obra nueva,204.0,None,None
+3,Carrer Vicente Clavel,Safranar ,Patraix,119.0,3,2,Obra nueva,208.0,None,None
+4,calle Nicasio Benlloch,Benicalap ,Benicalap,112.0,3,2,Obra nueva,193.278,None,None
+5,Carrer Vicente Clavel,Safranar ,Patraix,127.0,3,2,Obra nueva,198.0,None,None
+6,Carrer Vicente Clavel,Safranar ,Patraix,79.0,2,2,Obra nueva,151.0,None,None
+7,calle Ernest Anastasio,El Grau ,Poblats Marítims,92.0,2,2,Obra nueva,198.0,None,None
+8,Carrer de Llevant,Benicalap ,Benicalap,107.0,3,2,Obra nueva,227.407,None,None
+10,Carrer Vicente Clavel,Safranar ,Patraix,79.0,2,2,Obra nueva,163.0,None,None
+14,Monteolivet,Montolivet ,Quatre Carreres,119.0,3,2,None,190.0,None,None
+16,calle Ernest Anastasio,El Grau ,Poblats Marítims,92.0,2,2,Obra nueva,195.0,None,None
+29,calle Dr Zamenhoff,La Petxina ,Extramurs,99.0,4,2,None,177.5,None,None
+25,Carrer Vicente Clavel,Safranar ,Patraix,77.0,2,2,Obra nueva,148.0,None,None
+4,calle del Médico Esteve,La Raiosa ,Jesús,93.0,2,2,Obra nueva,156.0,None,None
+1,calle de Enrique Navarro,Benimaclet ,Benimaclet,85.0,3,1,None,165.0,None,None
+16,calle de la Pianista Amparo Iturbi,Malilla ,Quatre Carreres,133.0,3,3,None,195.0,None,None
+20,Carrer de Llevant,Benicalap ,Benicalap,100.0,2,2,Obra nueva,219.299,None,None
+8,calle Ernest Anastasio,El Grau ,Poblats Marítims,88.0,2,2,Obra nueva,192.0,None,None
+7,Avinguda de Sant Josep de la Muntanya,El Carme ,Ciutat Vella,111.0,3,2,None,163.0,None,None
+23,Camino del Cabañal,Beteró ,Poblats Marítims,94.0,2,2,None,178.5,None,None
+7,calle Ernest Anastasio,El Grau ,Poblats Marítims,93.0,2,2,Obra nueva,195.0,None,None
+4,Carrer de Llevant,Benicalap ,Benicalap,108.0,3,2,Obra nueva,228.138,None,None
+23,Carrer Barraques de Figuero,El Grau ,Poblats Marítims,50.0,1,1,None,170.0,None,None
+11,Carrer Vicente Clavel,Safranar ,Patraix,127.0,3,2,Obra nueva,206.0,None,None
+15,Carrer Vicente Clavel,Safranar ,Patraix,75.0,2,2,Obra nueva,168.0,None,None
+2,Carrer de Sant Josep Sister,El Grau ,Poblats Marítims,122.0,4,2,Obra nueva,216.0,None,None
+3,Carrer del Bonaire,La Xerea ,Ciutat Vella,105.0,3,2,None,220.0,None,None
+4,CIutat de les Arts I de les CIèncIes,Ciutat de les Arts i de les Ciències ,Quatre Carreres,129.0,3,2,None,285.0,None,None
+9,Carrer Vicente Clavel,Safranar ,Patraix,127.0,3,2,Obra nueva,211.0,None,None
+12,Avenida de Eduardo Boscá,Mestalla ,El Pla del Real,143.0,3,2,None,285.0,None,None
+17,calle del Médico Esteve,La Raiosa ,Jesús,119.0,3,2,Obra nueva,228.7,None,None
+2,calle Jaraco,Fonteta de Sant Lluís ,Quatre Carreres,166.0,4,3,None,363.0,None,None
+17,Ciutat de Les Arts I de Les Ciències,Ciutat de les Arts i de les Ciències ,Quatre Carreres,150.0,4,2,None,420.0,None,None
+22,calle Jorge Comín Metge Pediatra,Sant Pau ,Campanar,116.0,2,2,None,249.0,None,None
+4,Torrent,Benimàmet ,Pobles de l'Oest,268.0,4,3,None,345.0,None,None
+8,Carrer de Llevant,Benicalap ,Benicalap,109.0,3,2,Obra nueva,217.942,None,None
+10,Carrer de Llevant,Benicalap ,Benicalap,108.0,3,2,Obra nueva,228.13400000000001,None,None
+17,Avenida de las Tres Cruces,Sant Pau ,Campanar,140.0,3,2,None,210.0,None,None
+24,Carrer Almassora,La Seu ,Ciutat Vella,117.0,3,2,Obra nueva,300.0,None,None
+27,calle del Camp del Túria,Sant Pau ,Campanar,131.0,3,2,Obra nueva,416.0,None,None
+0,calle del Camp del Túria,Sant Pau ,Campanar,170.0,3,3,Obra nueva,498.0,None,None
+2,Carrer de Sant Josep Sister,El Grau ,Poblats Marítims,98.0,3,2,Obra nueva,280.0,None,None
+6,calle del Camp del Túria,Sant Pau ,Campanar,86.0,1,1,Obra nueva,216.0,None,None
+7,Carrer de Xàbia,Sant Francesc ,Ciutat Vella,136.0,4,2,None,299.0,None,None
+9,calle calle Alejandra Soler,El Carme ,Ciutat Vella,122.0,3,2,None,299.0,None,None
+10,calle de San Roque,Benicalap ,Benicalap,125.0,3,2,Obra nueva,210.0,None,None
+14,calle del Camp del Túria,Sant Pau ,Campanar,140.0,3,2,Obra nueva,362.0,None,None
+16,calle del Almirante,La Xerea ,Ciutat Vella,111.0,3,1,None,265.0,None,None
+18,calle de la Democracia,La Petxina ,Extramurs,280.0,7,1,None,269.0,None,None
+20,Gran Vía de Ramón y Cajal,La Creu Coberta ,Jesús,138.0,4,2,None,255.5,None,None
+24,calle del Médico Esteve,La Raiosa ,Jesús,139.0,3,2,Obra nueva,265.5,None,None
+25,calle del Ingeniero José Sirera,Sant Marcel·lí ,Jesús,136.0,3,2,None,219.9,None,None
+1,calle del Médico Esteve,La Raiosa ,Jesús,127.0,3,2,Obra nueva,265.0,None,None
+2,Cami Paterna,Benimàmet ,Pobles de l'Oest,290.0,6,4,None,249.0,None,None
+6,Carrer de Llevant,Benicalap ,Benicalap,127.0,3,3,Obra nueva,329.041,None,None
+10,Carrer de Llevant,Benicalap ,Benicalap,118.0,3,3,Obra nueva,316.719,None,None
+11,calle del Camp del Túria,Sant Pau ,Campanar,86.0,1,2,Obra nueva,227.0,None,None
+14,Avenida Fernando Abril Martorell,Malilla ,Quatre Carreres,142.0,4,2,Obra nueva,299.0,None,None
+16,calle de San Roque,Benicalap ,Benicalap,76.0,2,2,Obra nueva,240.0,None,None
+19,Avenida Fernando Abril Martorell,Malilla ,Quatre Carreres,119.0,3,2,Obra nueva,267.0,None,None
+21,Avenida Fernando Abril Martorell,Malilla ,Quatre Carreres,126.0,3,2,Obra nueva,248.0,None,None
+22,Avenida Fernando Abril Martorell,Malilla ,Quatre Carreres,121.0,4,2,Obra nueva,245.0,None,None
+23,Avenida Fernando Abril Martorell,Malilla ,Quatre Carreres,151.0,4,2,Obra nueva,489.0,None,None
+26,calle del Camp del Túria,Sant Pau ,Campanar,106.0,2,2,Obra nueva,280.0,None,None
+27,Carrer de Llevant,Benicalap ,Benicalap,109.0,3,2,Obra nueva,215.835,None,None
+1,Avenida Fernando Abril Martorell,Malilla ,Quatre Carreres,120.0,4,2,Obra nueva,242.0,None,None
+5,calle de San Roque,Benicalap ,Benicalap,67.0,2,1,Obra nueva,250.0,None,None
+7,Avenida Fernando Abril Martorell,Malilla ,Quatre Carreres,131.0,3,2,Obra nueva,407.8,None,None
+9,Avenida Fernando Abril Martorell,Malilla ,Quatre Carreres,112.0,3,2,Obra nueva,247.0,None,None
+13,calle Ernest Anastasio,El Grau ,Poblats Marítims,96.0,1,1,Obra nueva,256.0,None,None
+17,calle del Camp del Túria,Sant Pau ,Campanar,120.0,2,2,Obra nueva,290.0,None,None
+19,calle de Caballeros,La Seu ,Ciutat Vella,112.0,3,1,None,330.0,None,None
+23,calle de la Costera,Beniferri ,Pobles de l'Oest,140.0,3,2,None,275.0,None,None
+24,Centro de La Ciudad,Sant Pau ,Campanar,120.0,3,2,None,349.0,None,None
+5,Carrer del Archiduque Carlos,Arrancapins ,Extramurs,179.0,4,3,None,240.0,None,None
+6,Carrer de la Isla Cabrera,Malilla ,Quatre Carreres,120.0,5,3,None,275.0,None,None
+22,calle del Pintor Pascual Capuz,Nou Moles ,L'Olivereta,108.0,2,2,None,280.0,None,None
+3,Ciutat de Les Arts I de Les Ciències,Ciutat de les Arts i de les Ciències ,Quatre Carreres,145.0,4,2,None,420.0,None,None
+16,Carrer del Poeta Rafael Alberti,Sant Pau ,Campanar,254.0,4,2,None,470.0,None,None
+18,calle calle Dr. J. J. Domine de Valencia,El Castellar-L'Oliveral ,Pobles del Sud,180.0,4,1,None,395.0,None,None
+24,Avenida de Vicente Blasco Ibáñez,Beteró ,Poblats Marítims,122.0,3,2,None,260.0,None,None
+25,Mestalla,L'Amistat ,Algirós,98.0,3,2,None,320.0,None,None
+28,calle Salvador Rodriguez Bronchu,Benicalap ,Benicalap,110.0,3,2,None,218.0,None,None
+1,Carrer del Clariano,Ciutat Universitària ,El Pla del Real,173.0,5,2,None,300.0,None,None
+9,Carrer Illes Canàries,Mestalla ,El Pla del Real,98.0,3,2,None,250.0,None,None
+11,calle de Méndez Núñez,La Creu del Grau ,Camins al Grau,200.0,3,2,None,395.0,None,None
+12,Ensanche de Gran Via,Russafa ,L'Eixample,85.0,3,2,None,290.0,None,None
+14,calle de la Costera,Beniferri ,Pobles de l'Oest,134.0,3,2,None,265.0,None,None
+19,calle del Músico Maestro Sosa,Arrancapins ,Extramurs,107.0,4,2,None,295.0,None,None
+24,Carrer de El Batxiller,Jaume Roig ,El Pla del Real,94.0,3,2,None,260.0,None,None
+7,Carrer de El Batxiller,Jaume Roig ,El Pla del Real,152.0,4,3,None,390.0,None,None
+8,calle del Micer Rabasa,La Raiosa ,Jesús,135.0,2,1,Obra nueva,277.815,None,None
+16,calle del Consulat del Mar,Russafa ,L'Eixample,120.0,3,2,None,340.0,None,None
+20,Camí Fondo,Sant Francesc ,Ciutat Vella,3.0,2,2,None,255.0,None,None
+26,calle de Luis García Berlanga,Penya-roja ,Camins al Grau,140.0,3,2,None,384.0,None,None
+1,calle de José Benlliure,La Malva-rosa ,Poblats Marítims,100.0,3,2,None,269.0,None,None
+3,Ciudad de Las Artes y de Las Ciencias,Ciutat de les Arts i de les Ciències ,Quatre Carreres,146.0,3,2,None,470.0,None,None
+18,Ciutat Universitària,Benimaclet ,Benimaclet,130.0,3,2,None,290.0,None,None
+26,calle de Rodríguez de Cepeda,Albors ,Camins al Grau,144.0,3,2,None,239.0,None,None
+2,calle de Mallorquins,El Mercat ,Ciutat Vella,96.0,4,2,None,320.0,None,None
+6,calle de Eugenia Viñes,El Cabanyal-El Canyamelar ,Poblats Marítims,92.0,3,1,None,260.0,None,None
+9,Plaza José Mª Orense,La Carrasca ,Algirós,105.0,3,2,None,360.0,None,None
+19,Carrer del Doctor Juan José Dómine,El Grau ,Poblats Marítims,198.0,3,2,None,399.8,None,None
+22,Facultades,Pinedo ,Pobles del Sud,170.0,3,2,None,497.0,None,None
+24,Sant Marcel.Lí,Sant Marcel·lí ,Jesús,108.0,3,2,None,280.0,None,None
+26,Ensanche de Gran Via,Gran Via ,L'Eixample,69.0,1,2,None,225.0,None,None
+13,calle del Río Nervión,Benicalap ,Benicalap,136.0,3,2,None,219.0,None,None
+25,calle Alfahuir,Sant Antoni ,La Saïdia,142.0,3,2,None,365.0,None,None
+0,Ciutat Universitària,Sant Francesc ,Ciutat Vella,110.0,3,2,None,310.0,None,None
+3,calle calle Luis Bolinches Compañ,Penya-roja ,Camins al Grau,154.0,3,2,None,420.0,None,None
+6,La Bega Baixa,La Carrasca ,Algirós,144.0,3,2,None,450.0,None,None
+21,Carrer Doctor Gómez Ferrer,Jaume Roig ,El Pla del Real,110.0,3,2,None,260.0,None,None
+10,calle Avenida Reigne de Valencia,Gran Via ,L'Eixample,91.0,2,2,None,258.0,None,None
+19,calle del Río Nervión,Benicalap ,Benicalap,107.0,3,2,None,289.0,None,None
+29,Carrer del Caporal Jubi,Russafa ,L'Eixample,153.0,7,2,None,285.0,None,None
+2,calle del Río Nervión,Benicalap ,Capital),108.0,3,2,Obra nueva,289.0,None,None
+4,Pasaje Doctor Bartual Moret,Ciutat Universitària ,El Pla del Real,101.0,4,2,None,275.0,None,None
+8,Carrer de El Batxiller,Jaume Roig ,El Pla del Real,104.0,3,2,None,249.0,None,None
+11,calle del Historiador Coloma,El Cabanyal-El Canyamelar ,Poblats Marítims,82.0,3,2,None,260.0,None,None
+14,calle de Ernesto Anastasio,El Cabanyal-El Canyamelar ,Poblats Marítims,152.0,5,2,None,245.0,None,None
+16,calle del Consulat del Mar,Russafa ,L'Eixample,90.0,3,2,None,285.0,None,None
+17,Pasaje Doctor Bartual Moret,Ciutat Universitària ,El Pla del Real,105.0,4,2,None,244.9,None,None
+26,calle de Vicente Ballester,El Cabanyal-El Canyamelar ,Poblats Marítims,150.0,5,2,None,325.0,None,None
+11,Avenida de Vicente Blasco Ibáñez,Exposició ,El Pla del Real,171.0,3,3,None,300.0,None,None
+14,calle Cura Planelles,El Cabanyal-El Canyamelar ,Poblats Marítims,167.0,3,3,None,330.0,None,None
+16,calle Francisco Eximenis,El Cabanyal-El Canyamelar ,Poblats Marítims,226.0,4,2,None,325.0,None,None
+19,Carrer Illes Canàries,Mestalla ,El Pla del Real,98.0,3,2,None,250.0,None,None
+13,Avenida de Eduardo Boscá,Penya-roja ,Camins al Grau,143.0,3,2,None,285.0,None,None
+14,calle de Vidal de Blanes,La Creu del Grau ,Camins al Grau,85.0,3,2,None,275.0,None,None
+4,Carrer Almassora,La Seu ,Ciutat Vella,122.0,3,2,Obra nueva,315.0,None,None
+7,Carrer del Serpis,Beteró ,Poblats Marítims,150.0,4,2,None,295.0,None,None
+9,calle del Río Nervión,Benicalap ,Benicalap,120.0,3,2,None,319.0,None,None
+17,calle de Alfara del Patriarca,Benicalap ,Benicalap,112.0,3,2,None,221.0,None,None
+23,Junto Al Bioparc y Nuevas Consellerías.,Soternes ,L'Olivereta,113.0,3,2,None,210.0,None,None
+24,calle de Pere Monsoriu,Beteró ,Poblats Marítims,85.0,2,1,None,240.0,None,None
+28,calle Ernest Anastasio,El Cabanyal-El Canyamelar ,Poblats Marítims,412.0,5,3,None,475.0,None,None
+29,Eixample Gran Via,Gran Via ,L'Eixample,159.0,6,2,None,420.0,None,None
+5,Carrer del Retor Femenia,Russafa ,L'Eixample,83.0,2,1,None,220.0,None,None
+9,CIutat de les Arts I de les CIèncIes,Ciutat de les Arts i de les Ciències ,Quatre Carreres,203.0,4,3,None,420.0,None,None
+17,CIutat de les Arts I de les CIèncIes,Ciutat de les Arts i de les Ciències ,Quatre Carreres,202.0,5,2,None,349.0,None,None
+22,calle de la Bolsería,El Mercat ,Ciutat Vella,94.0,3,2,None,242.0,None,None
+3,Carrer de El Batxiller,La Seu ,Ciutat Vella,94.0,3,2,None,249.0,None,None
+5,calle de Escalante,El Cabanyal-El Canyamelar ,Poblats Marítims,123.0,3,2,None,210.0,None,None
+11,Carrer de Ribera,El Pla del Remei ,L'Eixample,90.0,3,2,None,320.0,None,None
+8,calle de Vidal de Cañelles,El Cabanyal-El Canyamelar ,Poblats Marítims,158.0,2,1,None,240.0,None,None
+12,Ciutat Vella,El Botànic ,Extramurs,165.0,4,2,None,299.0,None,None
+20,Gran Vía de Fernando 'El Católico,El Carme ,Ciutat Vella,120.0,3,2,None,250.0,None,None
+23,Monteolivete,Russafa ,L'Eixample,151.0,5,2,None,275.0,None,None
+0,Carrer Hort de Fariner,Massarrojos ,Pobles del Nord,179.0,5,3,None,265.0,None,None
+5,calle Jose Marti Escriptor,El Forn d'Alcedo ,Pobles del Sud,200.0,4,2,None,240.0,None,None
+9,calle Mestre Guerrero,La Petxina ,Extramurs,150.0,5,2,None,250.0,None,None
+12,calle de Escalante,El Cabanyal-El Canyamelar ,Poblats Marítims,134.0,3,2,None,248.95,None,None
+13,calle de las Atarazanas,El Grau ,Poblats Marítims,118.0,3,2,None,339.0,None,None
+14,Carrer del Dramaturg Àngel Guimerà,Arrancapins ,Extramurs,166.0,3,2,None,375.0,None,None
+20,calle Musico Padilla,Russafa ,L'Eixample,140.0,3,2,None,325.0,None,None
+28,calle del Micer Rabasa,La Raiosa ,Jesús,154.0,3,1,Obra nueva,267.72,None,None
+2,calle Llebeig,El Perellonet ,Pobles del Sud,120.0,3,1,None,270.0,None,None
+6,Alfahuir,Camí de Vera ,Benimaclet,120.0,4,2,None,370.0,None,None
+15,calle del Músico José Iturbi,La Xerea ,Ciutat Vella,125.0,5,2,None,270.0,None,None
+16,calle de Jacarilla,Benimaclet ,Benimaclet,140.0,3,2,None,235.9,None,None
+27,Avenida de Vicente Blasco Ibáñez,Beteró ,Poblats Marítims,105.0,3,2,None,295.0,None,None
+2,calle Doctor Pallares Iranzo,L'Amistat ,Algirós,168.0,5,3,None,300.0,None,None
+3,Carrer Barraques de Figuero,La Punta ,Quatre Carreres,107.0,3,2,None,269.5,None,None
+16,calle de Isabel de Villena,La Malva-rosa ,Poblats Marítims,72.0,1,2,None,235.0,None,None
+20,Carrer de Sevilla,Sant Francesc ,Ciutat Vella,125.0,2,1,None,325.0,None,None
+22,calle de Jerónimo de Monsoriu,Aiora ,Camins al Grau,125.0,3,2,None,275.0,None,None
+25,calle Valencians,La Seu ,Ciutat Vella,154.0,2,2,None,330.0,None,None
+29,calle de la Virgen del Puig,El Grau ,Poblats Marítims,96.0,3,2,None,225.0,None,None
+1,calle de Costa y Borrás,L'Hort de Senabre ,Jesús,125.0,4,2,None,350.0,None,None
+3,Carrer Doctor Gómez Ferrer,Jaume Roig ,El Pla del Real,118.0,2,2,None,385.0,None,None
+4,Travesía de la Marina,El Cabanyal-El Canyamelar ,Poblats Marítims,128.0,4,2,None,425.0,None,None
+6,Plaza de San Sebastián,El Botànic ,Extramurs,101.0,1,1,None,270.0,None,None
+11,calle Peset Alexandre,Tormos ,La Saïdia,119.0,4,2,None,210.0,None,None
+29,calle del Río Nervión,Benicalap ,Capital),121.0,3,2,Obra nueva,319.0,None,None
+2,calle de José Benlliure,El Cabanyal-El Canyamelar ,Poblats Marítims,166.0,3,3,None,350.0,None,None
+7,calle de Ernesto Anastasio,El Cabanyal-El Canyamelar ,Poblats Marítims,135.0,5,2,None,245.0,None,None
+10,calle Alta del Mar,Natzaret ,Poblats Marítims,357.0,3,2,None,400.0,None,None
+12,Carrer del Doctor Ferran,Mestalla ,El Pla del Real,212.0,5,3,None,495.23199999999997,None,None
+17,calle Blasco Ibañez,La Carrasca ,Algirós,100.0,3,2,None,360.0,None,None
+19,calle calle Dr Sumsi,Russafa ,L'Eixample,80.0,3,2,None,238.0,None,None
+20,calle Alejandra Soler,El Carme ,Ciutat Vella,112.0,4,3,None,230.0,None,None
+28,Carrer del Dramaturg Àngel Guimerà,La Petxina ,Extramurs,158.0,4,2,None,299.0,None,None
+0,calle Dr Romagosa,Sant Francesc ,Ciutat Vella,110.0,2,2,None,232.0,None,None
+4,calle Valencians,La Seu ,Ciutat Vella,155.0,2,2,None,330.0,None,None
+9,calle del Pintor Pascual Capuz,Patraix ,Patraix,97.0,3,2,None,224.9,None,None
+12,Junto Al Politécnico,La Carrasca ,Algirós,115.0,3,2,None,270.0,None,None
+14,calle de José Benlliure,El Cabanyal-El Canyamelar ,Poblats Marítims,85.0,2,1,None,239.0,None,None
+16,calle de José Benlliure,El Cabanyal-El Canyamelar ,Poblats Marítims,166.0,3,3,None,349.0,None,None
+17,Junto Al Mercado Central ,El Mercat ,Ciutat Vella,71.0,2,2,None,285.0,None,None
+18,calle de la Costera,Beniferri ,Pobles de l'Oest,87.0,2,2,None,230.0,None,None
+21,Carrer de San Vicente Mártir,La Raiosa ,Jesús,140.0,4,2,None,250.0,None,None
+25,calle Avenida de Linstitut Obrer Valencià,Ciutat de les Arts i de les Ciències ,Quatre Carreres,96.0,2,1,None,230.0,None,None
+29,Avda. del Oeste Junto Al Mercado Central.,El Mercat ,Ciutat Vella,212.0,6,2,None,398.0,None,None
+2,Avinguda de la Malva,La Malva-rosa ,Poblats Marítims,96.0,4,2,None,210.0,None,None
+9,Arrancapins,La Raiosa ,Jesús,174.0,3,3,None,270.0,None,None
+12,Sant Llorenç,Benimaclet ,Benimaclet,123.0,3,2,None,300.0,None,None
+16,Esquina Con Av. Cortes Valencianas. Nuevo Mestalla.,Sant Pau ,Campanar,192.0,3,2,None,525.0,None,None
+17,calle Dr Gil y Morte,Arrancapins ,Extramurs,124.0,3,2,None,240.0,None,None
+26,calle de Eduardo Soler y Pérez,Sant Pau ,Campanar,119.0,3,2,None,230.0,None,None
+6,calle Antiguo Reino de Valencia,Russafa ,L'Eixample,104.0,3,2,None,350.0,None,None
+8,Frente Al Mercado Central y A 2 Minutos de La Lonja.,El Pilar ,Ciutat Vella,77.0,2,2,None,225.0,None,None
+9,Carrer Doctor Gómez Ferrer,Jaume Roig ,El Pla del Real,200.0,4,2,None,515.0,None,None
+23,Els Orriols,Orriols ,Rascanya,200.0,5,2,None,330.0,None,None
+24,Junto Al Mercado Rojas Clemente,El Botànic ,Extramurs,131.0,3,1,None,280.0,None,None
+25,Ciutat Vella,El Botànic ,Extramurs,165.0,4,2,None,299.0,None,None
+26,Gran Vía Germanias,El Pla del Remei ,L'Eixample,128.0,4,2,None,520.0,None,None
+27,Carrer de Sant Josep Sister,El Grau ,Poblats Marítims,122.0,4,2,Obra nueva,222.0,None,None
+2,Santa Catalina,El Mercat ,Ciutat Vella,117.0,2,2,None,420.0,None,None
+6,Ciutat Jardí,Beteró ,Poblats Marítims,105.0,3,2,None,295.0,None,None
+7,Leixample,La Roqueta ,Extramurs,134.0,4,2,None,450.0,None,None
+9,L'illa Perduda,Aiora ,Camins al Grau,4.0,2,2,None,229.0,None,None
+16,Carrer de Filipines,Russafa ,L'Eixample,160.0,4,2,None,308.0,None,None
+19,Carrer de Luis de Santángel,Russafa ,L'Eixample,110.0,2,1,None,235.0,None,None
+29,Carrer del Doctor Ferran,Mestalla ,El Pla del Real,212.0,5,3,None,502.01599999999996,None,None
+0,CIutat de les Arts I de les CIèncIes,Ciutat de les Arts i de les Ciències ,Quatre Carreres,143.0,3,3,None,390.0,None,None
+14,La Raiosa,Arrancapins ,Extramurs,4.0,2,2,None,253.0,None,None
+21,calle Amador Martínez Rochina,Sant Pau ,Campanar,145.0,3,2,None,395.0,None,None
+27,Centro de La Ciudad,Sant Pau ,Campanar,120.0,3,2,None,349.0,None,None
+1,Benicalap,Sant Pau ,Campanar,110.0,3,2,None,275.0,None,None
+5,Carrer dels Roters,El Carme ,Ciutat Vella,111.0,4,1,None,249.9,None,None
+12,calle Las Palomas,Orriols ,Rascanya,163.0,4,3,None,326.5,None,None
+26,calle de Luis García Berlanga,Penya-roja ,Camins al Grau,116.0,3,2,None,360.0,None,None
+27,calle Llebeig,El Perellonet ,Pobles del Sud,191.0,4,2,None,275.0,None,None
+5,calle del Río Nervión,Benicalap ,Capital),136.0,3,2,Obra nueva,219.0,None,None
+11,Carrer Almassora,La Seu ,Ciutat Vella,125.0,3,2,Obra nueva,320.0,None,None
+25,El Ensanche,Gran Via ,L'Eixample,200.0,5,3,None,490.0,None,None
+17,calle del Micer Rabasa,La Raiosa ,Jesús,141.0,3,1,Obra nueva,272.815,None,None
+22,calle Casstell de Benisanó,Nou Moles ,L'Olivereta,120.0,4,2,None,218.0,None,None
+25,calle Carrer de Francesc Baldomar,El Cabanyal-El Canyamelar ,Poblats Marítims,260.0,4,2,None,359.0,None,None
+1,Ensanche,Montolivet ,Quatre Carreres,180.0,5,2,None,350.0,None,None
+7,Carrer de Lepanto,El Botànic ,Extramurs,135.0,3,2,None,245.0,None,None
+8,San Francesc,Sant Francesc ,Ciutat Vella,135.0,3,2,None,365.0,None,None
+10,Carrer d'en Joan Llorens,La Petxina ,Extramurs,130.0,5,2,None,225.0,None,None
+18,Monteolivet,La Punta ,Quatre Carreres,91.0,3,1,None,225.0,None,None
+22,Finca Roja,Arrancapins ,Extramurs,155.0,2,2,None,275.0,None,None
+24,CIutat de les Arts I de les CIèncIes,Ciutat de les Arts i de les Ciències ,Quatre Carreres,95.0,3,2,None,279.0,None,None
+26,Carretera de la Punta al Mar,Natzaret ,Poblats Marítims,180.0,4,2,None,360.0,None,None
+29,Próximo A Plaza de España,Arrancapins ,Extramurs,134.0,5,2,None,260.0,None,None
+1,Extramurs,Nou Moles ,L'Olivereta,126.0,3,2,None,265.0,None,None
+5,Extramurs,Nou Moles ,L'Olivereta,92.0,3,1,None,245.0,None,None
+9,calle de Luis García Berlanga,Penya-roja ,Camins al Grau,145.0,2,2,None,390.0,None,None
+24,Avenida Méndez Pelayo,Jaume Roig ,El Pla del Real,217.0,5,3,None,425.0,None,None
+3,Extramurs,Campanar ,Campanar,220.0,6,2,None,279.0,None,None
+4,Carrer del Caporal Jubi,Russafa ,L'Eixample,101.0,3,2,None,218.0,None,None
+10,calle Suiza,La Punta ,Quatre Carreres,108.0,3,2,None,295.0,None,None
+11,calle Carretera Fuente,La Punta ,Quatre Carreres,238.0,4,1,None,215.0,None,None
+12,Carrer del Dramaturg Àngel Guimerà,El Botànic ,Extramurs,119.0,3,3,None,330.0,None,None
+17,Ciutat de Les Artes I Les Ciències,Ciutat de les Arts i de les Ciències ,Quatre Carreres,129.0,4,2,None,260.0,None,None
+25,calle Dr Bartual Moret,Ciutat Universitària ,El Pla del Real,110.0,3,2,None,259.0,None,None
+13,calle del Músico Maestro Sosa,Arrancapins ,Extramurs,88.0,2,1,None,210.0,None,None
+14,calle de Orihuela,Morvedre ,La Saïdia,128.0,3,2,Obra nueva,215.0,None,None
+28,calle Alfahuir,Benimaclet ,Benimaclet,98.0,2,1,None,228.0,None,None
+1,Lolivereta,Patraix ,Patraix,146.0,3,2,None,250.0,None,None
+3,La Raïosa ,La Raiosa ,Jesús,140.0,4,2,None,260.0,None,None
+8,La Bega Baixa,La Carrasca ,Algirós,777.0,3,2,None,360.0,None,None
+14,Carrer Illes Canàries,Mestalla ,El Pla del Real,98.0,3,2,None,250.0,None,None
+28,Carrer de Gonzales Martí,La Petxina ,Extramurs,132.0,4,2,None,269.0,None,None
+5,calle de la Bisbesa,El Pilar ,Ciutat Vella,108.0,1,1,None,250.0,None,None
+20,Ensanche,Russafa ,L'Eixample,76.0,2,2,None,238.0,None,None
+0,calle del Azagador de Alboraya,Sant Llorenç ,Rascanya,145.0,6,6,None,275.0,None,None
+1,Patraix,Tres Forques ,L'Olivereta,113.0,4,2,None,225.0,None,None
+15,calle Eduardo Busca,Gran Via ,L'Eixample,121.0,2,2,None,425.0,None,None
+20,calle calle de Jaime Roig,Jaume Roig ,El Pla del Real,299.0,5,2,None,465.0,None,None
+24,calle de Maestro Clavé,Sant Francesc ,Ciutat Vella,90.0,2,1,None,330.0,None,None
+29,calle del Botánico,El Botànic ,Extramurs,131.0,3,2,None,263.0,None,None
+4,Sant Llorenç,Benimaclet ,Benimaclet,89.0,2,2,None,221.0,None,None
+14,Carrer de Sant Josep Sister,El Grau ,Poblats Marítims,122.0,4,2,Obra nueva,227.5,None,None
+5,calle Taula de Canvis,El Mercat ,Ciutat Vella,139.0,6,2,None,325.0,None,None
+27,calle Suiza,La Punta ,Quatre Carreres,128.0,3,2,None,375.0,None,None
+16,Ciutat de Les Arts I de Les Ciències,Ciutat de les Arts i de les Ciències ,Quatre Carreres,127.0,3,2,None,315.0,None,None
+21,calle de Antonio Ponz,La Malva-rosa ,Poblats Marítims,157.0,5,2,None,275.0,None,None
+9,Pasaje Doctor Bartual Moret,Ciutat Universitària ,El Pla del Real,105.0,4,1,None,269.9,None,None
+15,Carrer del Dramaturg Àngel Guimerà,Arrancapins ,Extramurs,167.0,3,2,None,230.0,None,None
+18,Morvedre,Sant Francesc ,Ciutat Vella,83.0,2,1,None,210.0,None,None
+17,Pasaje de Suay,Albors ,Camins al Grau,130.0,2,2,None,262.1,None,None
+18,Gran Vía de Fernando 'El Católico,El Carme ,Ciutat Vella,220.0,6,2,None,299.0,None,None
+28,calle Convento St Clara,Sant Francesc ,Ciutat Vella,158.0,5,2,None,355.0,None,None
+20,Ciutat de Les Arts I de Les Ciències,Ciutat de les Arts i de les Ciències ,Quatre Carreres,177.0,4,2,None,465.0,None,None
+22,Els Orriols,Orriols ,Rascanya,6.0,1,1,None,270.0,None,None
+7,Ciutat de Les Arts I de Les Ciències,Ciutat de les Arts i de les Ciències ,Quatre Carreres,123.0,3,2,None,430.0,None,None
+20,Carrer de LuIs Merelo I Mas,La Creu del Grau ,Camins al Grau,162.0,5,2,None,365.5,None,None
+8,calle de Jesús Morante Borrás,La Punta ,Quatre Carreres,140.0,4,2,None,289.9,None,None
+16,calle Ayora,Aiora ,Camins al Grau,272.0,3,1,None,300.0,None,None
+21,Carrer de Sant Josep Sister,El Grau ,Poblats Marítims,74.0,2,1,Obra nueva,223.0,None,None
+27,calle de San Roque,Benicalap ,Benicalap,125.0,3,2,Obra nueva,227.0,None,None
+3,Carrer del Caporal Jubi,Russafa ,L'Eixample,140.0,7,2,None,285.0,None,None
+7,Carrer de la Serrería,Aiora ,Camins al Grau,116.0,5,2,None,250.0,None,None
+12,calle de Antonio Suárez,Mestalla ,El Pla del Real,137.0,4,2,None,250.0,None,None
+20,Carrer de Linares,Patraix ,Patraix,130.0,4,2,None,220.0,None,None
+22,Carrer de Guillem de Castro,Gran Via ,L'Eixample,101.0,3,2,None,250.0,None,None
+29,Avenida Antiguo Reino,Gran Via ,L'Eixample,190.0,5,3,None,499.0,None,None
+0,Ciutat de Les Arts I Les Ciències,Penya-roja ,Camins al Grau,170.0,4,2,None,341.1,None,None
+21,calle Viver,Benimaclet ,Benimaclet,101.0,2,2,None,215.0,None,None
+5,calle Músico Maestro Rodrigo,Campanar ,Campanar,135.0,3,2,None,350.0,None,None
+21,calle Cura Planelles,Gran Via ,L'Eixample,168.0,3,3,None,350.0,None,None
+23,Benicalap,Beniferri ,Pobles de l'Oest,115.0,3,2,None,320.0,None,None
+0,El Pla del Real,Benimaclet ,Benimaclet,110.0,4,2,None,244.9,None,None
+11,Carrer del Dramaturg Àngel Guimerà,Arrancapins ,Extramurs,157.0,4,2,None,240.0,None,None
+17,Avinguda de l'Actor Antonio Ferrandis,Ciutat de les Arts i de les Ciències ,Quatre Carreres,113.0,2,2,None,285.0,None,None
+1,Carrer de Llevant,Benicalap ,Benicalap,108.0,3,2,Obra nueva,238.385,None,None
+2,Carrer de Llevant,Benicalap ,Benicalap,134.0,4,2,Obra nueva,265.664,None,None
+19,calle Ernest Anastasio,El Grau ,Poblats Marítims,108.0,2,2,Obra nueva,215.0,None,None
+20,calle Ernest Anastasio,El Grau ,Poblats Marítims,108.0,2,2,Obra nueva,210.0,None,None
+25,calle Ernest Anastasio,El Grau ,Poblats Marítims,93.0,2,2,Obra nueva,212.0,None,None
+28,Pataix,Sant Isidre ,Patraix,142.0,4,2,None,215.0,None,None
+29,Carrer de Llevant,Benicalap ,Benicalap,108.0,3,2,Obra nueva,229.36700000000002,None,None
+4,calle Ernest Anastasio,El Grau ,Poblats Marítims,92.0,2,2,Obra nueva,210.0,None,None
+23,Ciutat Vella,Benimaclet ,Benimaclet,45.0,1,1,None,229.9,None,None
+25,Carrer de Llevant,Benicalap ,Benicalap,118.0,3,2,Obra nueva,230.87900000000002,None,None
+28,Carrer de Llevant,Benicalap ,Benicalap,124.0,3,2,Obra nueva,245.22299999999998,None,None
+7,calle Ernest Anastasio,El Grau ,Poblats Marítims,100.0,1,1,Obra nueva,262.0,None,None
+10,Carrer de Llevant,Benicalap ,Benicalap,107.0,3,2,Obra nueva,227.407,None,None
+16,Carrer de Llevant,Benicalap ,Benicalap,130.0,3,3,Obra nueva,345.31,None,None
+3,CIutat de les Arts I de les CIèncIes,Ciutat de les Arts i de les Ciències ,Quatre Carreres,123.0,3,2,None,309.6,None,None
+20,Carrer de Llevant,Benicalap ,Benicalap,134.0,4,2,Obra nueva,284.622,None,None
+25,calle de Alfred Torán Olmos,Penya-roja ,Camins al Grau,151.0,3,2,None,434.0,None,None
+17,Carrer de Llevant,Benicalap ,Benicalap,100.0,2,2,Obra nueva,219.299,None,None
+20,calle del Camp del Túria,Sant Pau ,Campanar,173.0,3,2,Obra nueva,489.0,None,None
+11,Avenida de Aragón,La Seu ,Ciutat Vella,156.0,3,2,None,276.0,None,None
+17,calle Nicasio Benlloch,Benicalap ,Benicalap,115.0,2,2,Obra nueva,276.245,None,None
+22,calle Nicasio Benlloch,Benicalap ,Benicalap,120.0,2,2,Obra nueva,278.64,None,None
+24,calle del Médico Esteve,La Raiosa ,Jesús,139.0,3,2,Obra nueva,262.5,None,None
+19,CIutat de les Arts I de les CIèncIes,Ciutat de les Arts i de les Ciències ,Quatre Carreres,143.0,4,2,None,319.9,None,None
+12,Carrer de Llevant,Benicalap ,Benicalap,113.0,3,2,Obra nueva,246.69400000000002,None,None
+21,Carrer de Llevant,Benicalap ,Benicalap,108.0,3,2,Obra nueva,228.138,None,None
+23,Carrer de Llevant,Benicalap ,Benicalap,117.0,3,2,Obra nueva,256.138,None,None
+8,calle Ernest Anastasio,El Grau ,Poblats Marítims,98.0,1,1,Obra nueva,258.0,None,None
+19,calle de Antonio Suárez,Ciutat Universitària ,El Pla del Real,140.0,2,2,None,439.0,None,None
+0,calle de Xiprers,Sant Pau ,Campanar,255.0,4,3,None,520.0,None,None
+6,Avenida de Aragón,La Seu ,Ciutat Vella,165.0,4,2,None,303.5,None,None
+12,calle del Médico Esteve,La Raiosa ,Jesús,124.0,3,2,Obra nueva,232.0,None,None
+12,CIutat de les Arts I de les CIèncIes,Ciutat de les Arts i de les Ciències ,Quatre Carreres,143.0,4,2,None,319.9,None,None

@@ -1,0 +1,31 @@
+address,district,neighbourhood,sqft_surface,bedrooms,bathrooms,new_construction,price
+Piso en Ruzafa,Russafa ,L'Eixample,2,1,1,None,250.000
+Piso en El Pla del Remei,El Pla del Remei ,L'Eixample,111,3,2,None,348.000
+Apartamento en Rascanya,Sant Llorenç ,Rascanya,150,4,3,None,419.000
+Apartamento en Plaza de la Legión Española,Jaume Roig ,El Pla del Real,200,3,3,None,490.000
+Piso en Gran Via,Gran Via ,L'Eixample,162,4,2,None,500.000
+Apartamento en Avenida de las Cortes Valencianas,Sant Pau ,Campanar,94,3,2,None,270.000
+Piso en Penya-roja,Penya-roja ,Camins al Grau,116,3,2,None,334.000
+Piso en Carrer de El Batxiller,Jaume Roig ,El Pla del Real,152,4,3,None,390.000
+Ático en calle del Micer Rabasa,La Raiosa ,Jesús,135,2,1,Obra nueva,277.815
+"Ático en Avinguda del Regne de València, cerca de Carrer de Císcar",Gran Via ,L'Eixample,119,3,1,None,315.000
+Piso en Carrer de Maldonado,El Pilar ,Ciutat Vella,122,3,2,None,279.900
+Piso en Gran Vía de Ramón y Cajal,Arrancapins ,Extramurs,143,4,2,None,330.000
+"Piso en Carrer de la Marina Baixa, nº 1",Sant Pau ,Campanar,155,3,2,None,340.000
+Piso en El Pla del Remei,Russafa ,L'Eixample,120,2,2,None,395.000
+Ático en El Carme,El Carme ,Ciutat Vella,60,1,1,None,220.000
+Apartamento en Avenida del Barón de Cárcer,Sant Francesc ,Ciutat Vella,265,6,3,None,500.000
+Piso en calle del Consulat del Mar,Russafa ,L'Eixample,120,3,2,None,340.000
+Piso en El Carme,El Carme ,Ciutat Vella,150,4,2,None,215.000
+"Piso en Carrer del Palleter, cerca de Calle de Cuenca",Arrancapins ,Extramurs,204,5,2,None,450.000
+Ático en Aiora,Aiora ,Camins al Grau,88,3,1,None,230.000
+Piso en Camí Fondo,Sant Francesc ,Ciutat Vella,3,2,2,None,255.000
+Piso en Campanar-Nou Campanar,Sant Pau ,Campanar,125,3,2,None,350.000
+Piso en Benicalap,Benicalap ,Benicalap,99,3,2,None,355.000
+"Piso en calle del Conde de Altea, cerca de Calle de Salamanca",Gran Via ,L'Eixample,145,4,2,None,385.000
+"Piso en Avenida Giorgeta, nº 24",La Raiosa ,Jesús,132,3,2,None,218.000
+Piso en Benimaclet,Benimaclet ,Benimaclet,80,2,1,None,250.000
+"Apartamento en calle de Luis García Berlanga, 9",Penya-roja ,Camins al Grau,140,3,2,None,384.000
+"Piso en Avenida del Primado Reig, nº 94",Jaume Roig ,El Pla del Real,105,3,2,None,249.000
+Piso en Penya-roja,Penya-roja ,Camins al Grau,121,2,2,None,270.000
+Piso en Arrancapins,Arrancapins ,Extramurs,117,3,2,None,267.000

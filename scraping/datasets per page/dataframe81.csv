@@ -1,0 +1,31 @@
+address,district,neighbourhood,sqft_surface,bedrooms,bathrooms,new_construction,price
+Piso en Ciutat Universitària,Ciutat Universitària ,El Pla del Real,100,3,1,None,140.000
+Piso en Sant Francesc,Sant Francesc ,Ciutat Vella,78,2,1,None,150.000
+"Piso en calle de Vicente Brull,  3, 5 y 7",El Grau ,Poblats Marítims,110,3,2,Obra nueva,191.900
+"Piso en Avenida de las Tres Cruces,  s/n",Sant Isidre ,Patraix,89,2,2,Obra nueva,156.106
+Piso en El Calvari,El Calvari ,Campanar,88,3,2,None,133.000
+Piso en Carrer de la Isla Cabrera,Malilla ,Quatre Carreres,109,3,2,None,129.000
+Piso en calle de Zapadores,Montolivet ,Quatre Carreres,73,3,1,None,130.000
+"Piso en calle del Camp del Túria, 30",Sant Pau ,Campanar,86,1,2,Obra nueva,227.000
+"Piso en Carrer de Llevant,  s/n",Benicalap ,Benicalap,100,2,2,Obra nueva,192.956
+"Piso en Avinguda de Pérez Galdós, 33",Patraix ,Patraix,56,1,1,Obra nueva,155.000
+"Piso en Avenida de los Hermanos Machado,  s/n",Benicalap ,Benicalap,106,3,2,Obra nueva,223.000
+Casa en El Castellar-L'Oliveral,El Castellar-L'Oliveral ,Pobles del Sud,300,6,5,None,170.000
+"Piso en Avenida de los Hermanos Machado,  s/n",Benicalap ,Benicalap,93,2,2,Obra nueva,189.000
+"Piso en Avenida de los Hermanos Machado,  s/n",Benicalap ,Benicalap,111,3,2,Obra nueva,224.000
+Piso en Carrer del Pintor Cortina,Favara ,Patraix,118,3,2,None,141.000
+"Piso en Avenida de las Tres Cruces,  s/n",Sant Isidre ,Patraix,104,3,2,Obra nueva,170.078
+Piso en Carrer de Carolina Álvarez,La Creu del Grau ,Camins al Grau,78,3,1,None,199.900
+"Piso en calle Ernest Anastasio,  7-9",El Grau ,Poblats Marítims,88,2,2,Obra nueva,191.000
+"Piso en Carrer de Llevant,  s/n",Benicalap ,Benicalap,109,3,2,Obra nueva,215.835
+Piso en Sant Isidre,Sant Isidre ,Patraix,100,3,2,None,134.000
+Piso en Benimaclet,Benimaclet ,Benimaclet,139,5,2,None,190.000
+Piso en En Corts,En Corts ,Quatre Carreres,142,3,1,None,139.000
+"Piso en Avenida de los Hermanos Machado,  s/n",Benicalap ,Benicalap,83,2,1,Obra nueva,188.500
+"Piso en calle Ernest Anastasio,  7-9",El Grau ,Poblats Marítims,88,2,2,Obra nueva,189.000
+"Piso en Avinguda de Pérez Galdós, 33",Patraix ,Patraix,56,1,1,Obra nueva,145.000
+Piso en Nou Moles,Nou Moles ,L'Olivereta,85,3,1,None,165.000
+"Piso en calle de San Roque,  2",Benicalap ,Benicalap,59,1,1,Obra nueva,121.000
+Piso en Sant Pau,Sant Pau ,Campanar,110,4,2,None,188.000
+Piso en Carrer de l'Enginyer Fausto Elio,La Malva-rosa ,Poblats Marítims,112,3,2,None,175.000
+Piso en El Grau,El Grau ,Poblats Marítims,120,2,1,None,174.999

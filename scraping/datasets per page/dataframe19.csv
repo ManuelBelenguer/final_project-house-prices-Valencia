@@ -1,0 +1,32 @@
+address,district,neighbourhood,sqft_surface,bedrooms,bathrooms,new_construction,price
+Piso en Valencia,Nou Moles ,L'Olivereta,83,3,1,None,85.700
+Piso en Nou Moles,Nou Moles ,L'Olivereta,77,3,1,None,128.000
+Piso en calle de Baeza,Orriols ,Rascanya,80,4,1,None,69.900
+Piso en Carrer del Doctor Ferran,Mestalla ,El Pla del Real,54,2,1,None,126.600
+"Piso en calle del Padre Viñas, cerca de Avenida del Primado Reig",Orriols ,Rascanya,98,3,1,None,83.000
+"Piso en calle del Padre Viñas, cerca de Carrer de Sant Joan Bosco",Orriols ,Rascanya,75,3,1,None,68.000
+Piso en Benicalap,Benicalap ,Benicalap,81,3,1,None,88.000
+Piso en calle del Ingeniero José Sirera,Sant Marcel·lí ,Jesús,91,3,1,None,115.000
+"Loft en Carrer del Dramaturg Àngel Guimerà, cerca de Avinguda de Pérez Galdós",La Petxina ,Extramurs,None,1,"3.571
+ €/m²",None,125.000
+"Piso en calle de Paco Sanz, 4",L'Hort de Senabre ,Jesús,93,3,1,None,85.600
+Piso en Nou Moles,Nou Moles ,L'Olivereta,86,3,1,None,85.000
+Piso en Benicalap,Benicalap ,Benicalap,54,3,1,None,60.000
+"Piso en Carrer de Sant Joan Bosco, cerca de Carrer de Sant Joan de la Penya",Orriols ,Rascanya,65,2,1,None,82.000
+Piso en calle de Méndez Núñez,El Grau ,Poblats Marítims,54,2,1,None,63.000
+Piso en calle Calixto Tercero,La Petxina ,Extramurs,86,3,1,None,109.000
+Piso en calle de Juan Perpiñá,Sant Marcel·lí ,Jesús,53,2,1,None,88.000
+Piso en calle de Juan Perpiñá,Sant Marcel·lí ,Jesús,72,2,1,None,54.000
+Piso en La Creu del Grau,La Creu del Grau ,Camins al Grau,98,3,1,None,120.000
+Piso en Valencia,La Raiosa ,Jesús,63,3,1,None,57.663
+"Piso en Carrer del Archiduque Carlos, cerca de Avinguda del Cid",Sant Francesc ,Ciutat Vella,70,2,1,None,110.000
+"Apartamento en Avenida de las Gaviotas, 275, cerca de Calle de Estribor",El Perellonet ,Pobles del Sud,75,3,1,None,87.543
+"Piso en Avenida de la Constitución, cerca de Camino de Montcada",Tormos ,La Saïdia,85,3,1,None,89.000
+Piso en calle de Palma de Gandía,Benifaraig ,Pobles del Nord,145,2,2,None,112.400
+Piso en Carrer Lorca,Nou Moles ,L'Olivereta,95,2,1,None,92.900
+"Apartamento en calle de la Alquería de Benimassot, 24",Camí Real ,Jesús,102,3,2,None,124.100
+Piso en Valencia,Tres Forques ,L'Olivereta,96,4,1,None,86.900
+"Piso en Avinguda del CID, cerca de Calle de los Jurados",Tres Forques ,L'Olivereta,85,3,1,None,85.000
+Piso en El Cabanyal-El Canyamelar,El Grau ,Poblats Marítims,3,1,1,None,109.000
+Piso en calle de Ramiro de Maeztu,Aiora ,Camins al Grau,91,3,1,None,125.000
+Piso en Plaza de Segovia,L'Hort de Senabre ,Jesús,95,2,1,None,120.000

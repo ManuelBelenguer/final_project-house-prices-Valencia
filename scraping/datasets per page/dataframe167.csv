@@ -1,0 +1,33 @@
+address,district,neighbourhood,sqft_surface,bedrooms,bathrooms,new_construction,price
+"Apartamento en calle del Doctor Lluch, nº 22",El Cabanyal-El Canyamelar ,Poblats Marítims,None,1,4ª planta,None,129.000
+Piso en La Xerea,La Xerea ,Ciutat Vella,37,1,1,None,230.000
+Piso en Nou Moles,Nou Moles ,L'Olivereta,88,3,1,None,135.500
+Piso en La Petxina,La Petxina ,Extramurs,85,4,1,None,160.000
+Piso en Russafa,Russafa ,L'Eixample,52,2,2,None,172.000
+Piso en El Perellonet,El Perellonet ,Pobles del Sud,81,3,1,None,128.300
+Piso en Arrancapins,Arrancapins ,Extramurs,87,2,1,None,199.000
+Piso en Sant Marcel·lí,Sant Marcel·lí ,Jesús,89,3,2,None,149.000
+Piso en Campanar,Campanar ,Campanar,110,4,2,None,220.000
+Piso en Sant Antoni,Sant Antoni ,La Saïdia,127,5,2,None,170.000
+Piso en Torrefiel,Torrefiel ,Rascanya,87,3,1,None,125.000
+Piso en La Malva-rosa,La Malva-rosa ,Poblats Marítims,75,3,2,None,125.000
+Piso en La Roqueta,La Roqueta ,Extramurs,73,3,1,None,145.000
+Piso en Benicalap,Benicalap ,Benicalap,85,2,2,None,165.000
+Piso en Sant Pau,Sant Pau ,Campanar,103,3,2,None,175.000
+Piso en La Malva-rosa,La Malva-rosa ,Poblats Marítims,75,3,2,None,125.000
+"Dúplex en calle de la Pianista Amparo Iturbi, 75, cerca de Avenida de Ausiàs March",Malilla ,Quatre Carreres,133,3,3,None,195.000
+Piso en Russafa,Russafa ,L'Eixample,82,"2.244
+ €/m²","2.244
+ €/m²",None,184.050
+"Piso en calle del Grabador Jordán, nº 46",Fonteta de Sant Lluís ,Quatre Carreres,None,2,1ª planta,None,144.900
+Ático en El Perellonet,El Perellonet ,Pobles del Sud,153,3,2,None,209.000
+"Piso en Carrer de Llevant,  s/n",Benicalap ,Benicalap,100,2,2,Obra nueva,219.299
+Piso en Malilla,Malilla ,Quatre Carreres,88,3,2,None,170.000
+Piso en Morvedre,Morvedre ,La Saïdia,77,2,2,None,139.000
+Piso en La Malva-rosa,La Malva-rosa ,Poblats Marítims,104,3,2,None,175.000
+Piso en Avenida de la Plata,En Corts ,Quatre Carreres,80,2,2,None,135.000
+Piso en Nou Moles,Nou Moles ,L'Olivereta,112,4,2,None,170.000
+Piso en Russafa,Russafa ,L'Eixample,66,2,1,None,189.000
+Piso en Benicalap,Benicalap ,Benicalap,56,1,1,None,129.900
+Piso en En Corts,En Corts ,Quatre Carreres,173,5,2,None,174.900
+Piso en Nou Moles,Nou Moles ,L'Olivereta,73,2,1,None,125.000

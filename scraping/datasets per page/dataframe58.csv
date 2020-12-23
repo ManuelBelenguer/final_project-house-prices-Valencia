@@ -1,0 +1,45 @@
+address,district,neighbourhood,sqft_surface,bedrooms,bathrooms,new_construction,price
+"Piso en Avinguda de Pérez Galdós, cerca de Carrer del Dramaturg Àngel Guimerà",Nou Moles ,L'Olivereta,76,3,1,None,121.000
+Piso en Parque de Cabecera,Soternes ,L'Olivereta,71,2,2,None,115.000
+Piso en Ciutat Universitària,Ciutat Universitària ,El Pla del Real,80,3,1,None,129.990
+Piso en Aiora,Aiora ,Camins al Grau,73,3,1,None,115.000
+Piso en Arrancapins,Arrancapins ,Extramurs,75,3,1,None,89.000
+"Piso en Carrer de Lluís Oliag, nº 41",Sant Francesc ,Ciutat Vella,67,1,1,None,79.000
+Piso en Carrer Principal,El Castellar-L'Oliveral ,Pobles del Sud,None,None,None,None,82.300
+Piso en calle de Pedro de Valencia,Beteró ,Poblats Marítims,None,1,"1.250
+ €/m²",None,125.000
+Piso en Valencia,Sant Francesc ,Ciutat Vella,86,3,1,None,125.000
+"Piso en calle del Dos de Abril, nº 35",Montolivet ,Quatre Carreres,60,"1.300
+ €/m²","1.300
+ €/m²",None,78.000
+Piso en El Grau,El Grau ,Poblats Marítims,78,4,1,None,99.500
+Piso en calle de la Virgen de la Cabeza,Safranar ,Patraix,None,2,"1.249
+ €/m²",None,129.900
+"Piso en calle de La Puebla de Farnals, nº 48",El Castellar-L'Oliveral ,Pobles del Sud,None,2,"865
+ €/m²",None,64.900
+Piso en El Cabanyal-El Canyamelar,El Cabanyal-El Canyamelar ,Poblats Marítims,63,1,1,None,126.000
+Piso en Arrancapins,Arrancapins ,Extramurs,45,1,1,None,95.000
+Piso en calle de Montesa,Favara ,Patraix,None,1,"1.500
+ €/m²",None,99.000
+"Ático en Carrer de Cuba, cerca de Carrer de Buenos Aires",Russafa ,L'Eixample,45,1,1,None,125.000
+Piso en Torrefiel,Torrefiel ,Rascanya,65,2,1,None,68.000
+Piso en El Grau,El Grau ,Poblats Marítims,88,3,1,None,125.000
+Casa en El Palmar,El Palmar ,Pobles del Sud,5,2,2,None,120.000
+Piso en La Torre,La Torre ,Pobles del Sud,97,"515
+ €/m²","515
+ €/m²",None,50.000
+Piso en calle del Maestro Bellver,Arrancapins ,Extramurs,None,2,"1.178
+ €/m²",None,119.000
+Piso en calle Ayora,Patraix ,Patraix,None,1,"2.278
+ €/m²",None,129.900
+Piso en calle de José Andreu Alabarta,Sant Isidre ,Patraix,None,2,"1.059
+ €/m²",None,125.000
+Piso en calle de Azcárraga,La Petxina ,Extramurs,60,1,1,None,89.000
+Piso en Patraix,Patraix ,Patraix,90,5,1,None,129.990
+Piso en calle Santo Justo y Pastor,Aiora ,Camins al Grau,None,1,"1.025
+ €/m²",None,81.000
+Piso en Benicalap,Benicalap ,Benicalap,80,5,1,None,110.000
+"Piso en calle de Bernabé García, nº 50",Natzaret ,Poblats Marítims,72,"805
+ €/m²","805
+ €/m²",None,58.000
+Piso en La Torre,La Torre ,Pobles del Sud,94,5,2,None,99.000

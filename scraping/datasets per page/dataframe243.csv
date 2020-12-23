@@ -1,0 +1,19 @@
+address,district,neighbourhood,sqft_surface,bedrooms,bathrooms,new_construction,price
+Piso en Valencia,El Cabanyal-El Canyamelar ,Poblats Marítims,118,3,2,None,335.000
+Piso en Camins Al Grau - Penya - Roja - Avda. Francia,Penya-roja ,Camins al Grau,138,3,2,None,350.000
+Piso en Valencia,Sant Pau ,Campanar,120,2,2,None,412.000
+Casa en Valencia,La Malva-rosa ,Poblats Marítims,170,2,2,None,250.000
+Piso en Valencia,Gran Via ,L'Eixample,116,3,3,None,490.000
+Piso en calle Alfahuir,Orriols ,Rascanya,None,None,None,None,346.800
+Ático en Valencia,Russafa ,L'Eixample,97,2,1,None,450.000
+Piso en Rocafort,Massarrojos ,Pobles del Nord,235,6,3,None,400.000
+"Piso en Carrer del Palleter, nº 11",Arrancapins ,Extramurs,204,5,2,None,430.000
+"Piso en calle de Escalante, nº 16",El Cabanyal-El Canyamelar ,Poblats Marítims,None,2,3ª planta,None,248.950
+Ático en El Grau,El Grau ,Poblats Marítims,74,2,1,None,223.000
+Casa en Valencia,Favara ,Patraix,354,4,4,None,375.000
+"Piso en calle de Navarra, nº 10",Arrancapins ,Extramurs,127,4,2,None,267.000
+"Piso en calle de Blanes, nº 3",El Mercat ,Ciutat Vella,151,4,2,None,336.000
+"Piso en calle del Padre Urbano, nº 19",Sant Antoni ,La Saïdia,191,4,2,None,360.000
+"Piso en Carrer de Maties Perelló, nº 15",Gran Via ,L'Eixample,140,6,2,None,315.000
+"Piso en calle de Sagunto, nº 3",El Carme ,Ciutat Vella,None,2,3ª planta,None,335.000
+Piso en calle de la Bolsería,El Mercat ,Ciutat Vella,None,None,None,None,242.000

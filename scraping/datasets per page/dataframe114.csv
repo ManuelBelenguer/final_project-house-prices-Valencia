@@ -1,0 +1,31 @@
+address,district,neighbourhood,sqft_surface,bedrooms,bathrooms,new_construction,price
+"Piso en Camino Nuevo de Picaña, nº 31",Sant Isidre ,Patraix,142,4,2,None,138.300
+Apartamento en Plaza del Pintor Anglada,Beteró ,Poblats Marítims,85,3,1,None,173.000
+"Piso en calle Ciutat de Melilla, nº 15",Favara ,Patraix,145,2,2,None,179.900
+"Apartamento en calle Burgerins, nº 9",El Mercat ,Ciutat Vella,88,2,2,None,184.157
+Apartamento en Extramurs,La Petxina ,Extramurs,108,3,1,None,170.000
+Piso en calle Carrer de Joan Baptista Perales,Aiora ,Camins al Grau,80,3,1,None,148.000
+Piso en Ciutat Jardí,La Carrasca ,Algirós,100,3,2,None,175.000
+Piso en Patraix,Patraix ,Patraix,108,3,2,None,140.000
+"Piso en calle de Eduardo Soler y Pérez, 10",Sant Pau ,Campanar,119,3,2,None,230.000
+Piso en Carrer de la Mar,La Xerea ,Ciutat Vella,74,2,1,None,220.000
+Piso en Camí de Vera,Camí de Vera ,Benimaclet,104,3,1,None,149.999
+Apartamento en Jesús,Camí Real ,Jesús,114,3,2,None,165.000
+Piso en Nou Moles,Nou Moles ,L'Olivereta,126,4,2,None,160.000
+"Piso en calle de la Cooperativa de San Fernando, 30",La Raiosa ,Jesús,76,2,1,None,120.000
+Piso en Patraix,Patraix ,Patraix,73,2,1,None,149.000
+Piso en El Carme,El Carme ,Ciutat Vella,100,4,1,None,134.999
+Piso en Esquina Con La calle Jurado Blanquer,Safranar ,Patraix,94,3,2,None,165.000
+Piso en Vara de Quart,Vara de Quart ,Patraix,120,3,2,None,155.000
+Piso en Carrer de Rubén Vela,En Corts ,Quatre Carreres,73,2,1,None,215.000
+Piso en calle del Maestro Miguel Galán,Benicalap ,Benicalap,102,4,1,None,147.000
+"Dúplex en Avenida de los Hermanos Machado, 13",Sant Llorenç ,Rascanya,70,1,1,None,148.000
+Piso en Torrefiel,Torrefiel ,Rascanya,120,4,2,None,122.000
+Piso en Tres Forques,Patraix ,Patraix,112,3,2,None,175.000
+Piso en Patraix,Safranar ,Patraix,108,4,2,None,132.000
+Piso en calle de Josep Melià Pigmalion,Marxalenes ,La Saïdia,96,3,2,None,126.000
+Piso en Carrer del Pintor Gisbert,Russafa ,L'Eixample,78,2,1,None,145.000
+Piso en Nou Moles,Nou Moles ,L'Olivereta,95,3,1,None,120.000
+"Piso en calle de Orihuela,  37",Morvedre ,La Saïdia,124,3,2,Obra nueva,200.000
+Piso en Russafa,Russafa ,L'Eixample,80,3,1,None,143.000
+Apartamento en Quatre Carreres,Malilla ,Quatre Carreres,86,3,2,None,167.000

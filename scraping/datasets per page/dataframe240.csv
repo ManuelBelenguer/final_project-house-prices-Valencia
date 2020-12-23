@@ -1,0 +1,31 @@
+address,district,neighbourhood,sqft_surface,bedrooms,bathrooms,new_construction,price
+Piso en Valencia,Penya-roja ,Camins al Grau,67,1,1,None,223.000
+Piso en Campanar,Campanar ,Campanar,110,4,2,None,220.000
+Piso en Algirós - Ciutat Jardí,Ciutat Jardí ,Algirós,100,3,2,None,250.000
+Piso en Aiora,Aiora ,Camins al Grau,136,4,2,None,229.000
+Piso en Exposició,Exposició ,El Pla del Real,130,3,2,None,369.000
+Piso en La Bega Baixa,La Bega Baixa ,Algirós,113,4,2,None,250.000
+Piso en La Seu,La Seu ,Ciutat Vella,175,5,3,None,480.000
+Piso en La Petxina,La Petxina ,Extramurs,194,6,2,None,279.000
+"Ático en calle Ernest Anastasio,  7-9",El Grau ,Poblats Marítims,98,1,1,Obra nueva,258.000
+Ático en Camí Fondo,Camí Fondo ,Camins al Grau,155,4,3,None,490.000
+Piso en Valencia,Sant Pau ,Campanar,96,2,2,None,270.000
+Piso en Les Tendetes,Les Tendetes ,Campanar,126,4,4,None,310.000
+Piso en Russafa,Russafa ,L'Eixample,89,3,2,None,236.900
+Piso en El Cabanyal-El Canyamelar,El Cabanyal-El Canyamelar ,Poblats Marítims,105,2,1,None,216.900
+Ático en calle de Lorenzo Saiz,Benimàmet ,Pobles de l'Oest,190,3,2,None,257.000
+Casa en La Raiosa,La Raiosa ,Jesús,132,4,3,None,220.000
+Piso en Aiora,Aiora ,Camins al Grau,136,4,2,None,229.000
+Piso en Sant Francesc,Sant Francesc ,Ciutat Vella,123,3,2,None,360.000
+Chalet en Benimàmet,Benimàmet ,Pobles de l'Oest,229,4,3,None,400.000
+"Piso en calle de Antonio Suárez, nº 6",Ciutat Universitària ,El Pla del Real,140,2,2,None,439.000
+Piso en El Cabanyal-El Canyamelar,El Cabanyal-El Canyamelar ,Poblats Marítims,137,4,2,None,390.000
+Piso en El Pla del Remei,El Pla del Remei ,L'Eixample,85,2,2,None,295.000
+Piso en La Petxina,La Petxina ,Extramurs,194,6,2,None,279.000
+Apartamento en El Saler,El Saler ,Pobles del Sud,83,2,1,None,210.000
+Piso en Campanar,Campanar ,Campanar,122,3,2,None,330.000
+Piso en L'Amistat,L'Amistat ,Algirós,105,3,2,None,245.000
+Piso en Avinguda de Navarro Reverter,El Pla del Remei ,L'Eixample,120,4,2,None,385.000
+Piso en Russafa,Russafa ,L'Eixample,90,2,2,None,260.000
+Ático en Camí Fondo,Camí Fondo ,Camins al Grau,168,4,2,None,450.000
+"Piso en Avinguda Alcalde Gisbert Rico,  s/n",Ciutat de les Arts i de les Ciències ,Quatre Carreres,141,3,2,Obra nueva,324.000

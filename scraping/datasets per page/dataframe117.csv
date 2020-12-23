@@ -1,0 +1,32 @@
+address,district,neighbourhood,sqft_surface,bedrooms,bathrooms,new_construction,price
+"Piso en Carrer de Sant Josep Sister,  28",El Grau ,Poblats Marítims,122,4,2,Obra nueva,222.000
+Piso en calle de la Reina,El Cabanyal-El Canyamelar ,Poblats Marítims,75,3,1,None,190.000
+"Piso en calle de San Roque,  2",Benicalap ,Benicalap,125,3,2,Obra nueva,190.000
+Piso en calle Duque de Calabria,Russafa ,L'Eixample,100,2,2,None,193.000
+"Piso en Avenida Dr Manuel Candela, nº 56",Ciutat Jardí ,Algirós,114,3,1,None,220.000
+Piso en Carrer del Periodista Gil Sumbiela,Benicalap ,Benicalap,102,3,1,None,125.000
+Piso en Benicalap,Benicalap ,Benicalap,95,3,1,None,139.900
+Piso en La Raiosa,La Raiosa ,Jesús,114,3,2,None,160.000
+Piso en Ruzafa,Russafa ,L'Eixample,82,3,1,None,184.050
+Piso en calle de Ángel Villena,Na Rovella ,Quatre Carreres,105,3,2,None,129.000
+Piso en Trinitat,Trinitat ,La Saïdia,62,2,1,None,165.000
+Piso en calle del Micer Rabasa,La Raiosa ,Jesús,117,3,2,Obra nueva,187.525
+Piso en Soternes,Soternes ,L'Olivereta,94,3,2,None,130.000
+Dúplex en calle Santa Genoveva Torres,Sant Llorenç ,Rascanya,84,2,2,None,200.000
+Piso en La Creu Coberta,La Creu Coberta ,Jesús,122,4,2,None,199.000
+Apartamento en El Palmar,El Palmar ,Pobles del Sud,2,2,2,None,120.000
+Piso en Camins Al Grau,Camí Fondo ,Camins al Grau,109,4,2,None,172.500
+"Piso en calle de Fray Pedro Vives, nº 8",Morvedre ,La Saïdia,85,3,1,None,132.500
+Piso en Carrer de Jerónima Galés 'Impressora',Favara ,Patraix,116,3,2,None,139.000
+Piso en L'illa Perduda,Aiora ,Camins al Grau,4,2,2,None,229.000
+Casa en Benimàmet,Benimàmet ,Pobles de l'Oest,None,1,"611
+ €/m²",None,175.000
+Piso en Malilla,Malilla ,Quatre Carreres,55,1,1,None,130.000
+"Piso en calle de Justo Vilar, nº 9",El Cabanyal-El Canyamelar ,Poblats Marítims,70,2,1,None,129.000
+Apartamento en Patraix,Safranar ,Patraix,107,4,2,None,145.000
+"Piso en Carrer de San Vicente Mártir, cerca de Calle de Na Na Monforta",Favara ,Patraix,102,4,1,None,124.800
+"Casa en calle del Campamento, cerca de Calle de la Gabarda",Benimàmet ,Pobles de l'Oest,228,6,2,None,175.000
+"Piso en calle del Doctor Lluch, cerca de Calle de la Reina",El Cabanyal-El Canyamelar ,Poblats Marítims,85,2,1,None,165.000
+"Piso en calle de Orihuela, 35",Morvedre ,La Saïdia,120,3,2,None,200.000
+Apartamento en Quatre Carreres,Na Rovella ,Quatre Carreres,105,3,2,None,129.000
+"Apartamento en Avinguda de Pérez Galdós, cerca de Carrer del Dramaturg Àngel Guimerà",Nou Moles ,L'Olivereta,90,3,1,None,135.000

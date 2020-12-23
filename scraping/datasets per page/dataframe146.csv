@@ -1,0 +1,32 @@
+address,district,neighbourhood,sqft_surface,bedrooms,bathrooms,new_construction,price
+"Ático en Avenida de Francia,  159",El Grau ,Poblats Marítims,74,2,1,Obra nueva,223.000
+Piso en Gran Via,Gran Via ,L'Eixample,90,2,1,None,161.000
+Piso en Carrer del Actor Pepe Alba,Aiora ,Camins al Grau,75,2,1,None,150.000
+Piso en calle de Na Rovella,Malilla ,Quatre Carreres,86,3,2,None,167.000
+Piso en Patraix,Patraix ,Patraix,82,3,1,None,150.000
+Piso en Ciutat Universitària,Ciutat Universitària ,El Pla del Real,115,2,1,None,215.000
+Casa adosada en Pobles del Sud - El Castellar I L'oliverar,El Castellar-L'Oliveral ,Pobles del Sud,235,3,2,None,215.000
+Piso en Patraix,Patraix ,Patraix,100,6,1,None,199.000
+Piso en La Malva-Rosa,La Malva-rosa ,Poblats Marítims,90,3,1,None,145.000
+Piso en El Botànic,El Botànic ,Extramurs,111,4,1,None,210.000
+Piso en Gran Vía de Ramón y Cajal,Arrancapins ,Extramurs,94,2,1,None,185.000
+Piso en Ruzafa,Russafa ,L'Eixample,70,2,1,None,165.000
+Piso en calle del Humanista Honorato Juan,Arrancapins ,Extramurs,91,2,1,None,199.000
+Piso en Carteros -Gaspar Aguilar,Favara ,Patraix,60,1,1,None,169.000
+Piso en Sant Antoni,Sant Antoni ,La Saïdia,75,2,2,None,145.000
+Piso en Plaza del Doctor Collado,El Mercat ,Ciutat Vella,68,2,1,None,135.000
+Piso en L'eixample - Russafa,Russafa ,L'Eixample,70,2,1,None,210.000
+Piso en Favara,Favara ,Patraix,105,2,2,None,158.000
+Ático en Patraix - Vara de Quart,Faitanar ,Pobles del Sud,100,1,1,None,150.000
+Piso en Montolivet,Montolivet ,Quatre Carreres,109,2,1,None,169.000
+Piso en Beteró,Beteró ,Poblats Marítims,106,4,2,None,195.000
+Piso en El Grau,El Grau ,Poblats Marítims,98,4,2,None,169.000
+"Piso en Carrer de Puerto Rico, nº 30",Russafa ,L'Eixample,52,2,1,None,175.000
+Piso en Benicalap - Ciutat Fallera (Con Dos Plazas de Garaje),Ciutat Fallera ,Benicalap,86,2,1,None,124.000
+Piso en El Carme,El Carme ,Ciutat Vella,77,3,1,None,174.500
+"Piso en Avinguda de Tres Forques, cerca de Calle del Corazón de Jesús",Patraix ,Patraix,None,1,"1.998
+ €/m²",None,139.900
+Piso en Camí Real,Camí Real ,Jesús,106,5,2,None,155.000
+Piso en Soternes,Soternes ,L'Olivereta,121,3,2,None,139.900
+Piso en La Malva-rosa,La Malva-rosa ,Poblats Marítims,85,2,1,None,125.000
+Piso en Nou Moles,Nou Moles ,L'Olivereta,130,4,2,None,189.000

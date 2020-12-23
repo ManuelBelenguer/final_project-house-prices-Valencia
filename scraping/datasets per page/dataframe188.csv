@@ -1,0 +1,33 @@
+address,district,neighbourhood,sqft_surface,bedrooms,bathrooms,new_construction,price
+"Piso en Avenida de las Cortes Valencianas, nº 45",Sant Pau ,Campanar,96,2,2,None,265.000
+"Piso en Carrer de Maties Perelló, cerca de Carrer del Doctor Sumsi",Russafa ,L'Eixample,67,2,2,None,248.000
+"Piso en Carrer de Maties Perelló, cerca de Calle Duque de Calabria",Gran Via ,L'Eixample,129,4,2,None,339.000
+"Apartamento en Avinguda del Regne de València, cerca de Calle del Maestro Gozalbo",Gran Via ,L'Eixample,130,3,2,None,395.000
+Piso en Avenida del Barón de Cárcer,El Mercat ,Ciutat Vella,162,6,2,None,350.000
+Piso en Sant Francesc,Sant Francesc ,Ciutat Vella,123,4,2,None,290.000
+Apartamento en El Pla del Real,Mestalla ,El Pla del Real,192,5,3,None,398.000
+Piso en Sant Francesc,Sant Francesc ,Ciutat Vella,187,4,2,None,400.000
+Apartamento en calle de Martín El Humano,La Petxina ,Extramurs,159,4,2,None,250.000
+"Piso en Gran Vía de Fernando 'El Católico', nº 87",La Petxina ,Extramurs,212,6,2,None,280.000
+Ático en Arrancapins,Arrancapins ,Extramurs,118,3,1,None,295.000
+Ático en Aiora,Aiora ,Camins al Grau,117,3,1,None,280.000
+Piso en El Carme,El Carme ,Ciutat Vella,134,5,3,None,310.000
+Piso en calle del Río Nervión,Benicalap ,Benicalap,136,3,2,None,219.000
+Apartamento en Ciutat Vella,Sant Francesc ,Ciutat Vella,180,5,3,None,475.000
+Apartamento en El Pla del Real,Exposició ,El Pla del Real,110,2,2,None,415.000
+Piso en La Seu,La Seu ,Ciutat Vella,91,1,2,None,270.000
+Piso en calle de Álvaro de Bazán,Jaume Roig ,El Pla del Real,178,4,2,None,385.000
+Piso en Carrer del Clero,Russafa ,L'Eixample,83,2,2,None,295.000
+Ático en Russafa,Russafa ,L'Eixample,125,3,2,None,425.000
+Ático en La Seu,La Seu ,Ciutat Vella,105,2,1,None,420.000
+Piso en Ciutat Universitària,Ciutat Universitària ,El Pla del Real,50,1,1,None,235.000
+Piso en calle de Asturias,Penya-roja ,Camins al Grau,222,"1.126
+ €/m²","1.126
+ €/m²",None,250.000
+"Piso en Carrer de Gibraltar,  15",Russafa ,L'Eixample,97,3,2,Obra nueva,375.000
+Piso en La Roqueta,La Roqueta ,Extramurs,200,5,2,None,475.000
+Piso en calle Alfahuir,Sant Antoni ,La Saïdia,142,3,2,None,365.000
+Piso en Carrer de Maluquer,Arrancapins ,Extramurs,136,4,2,None,280.000
+Piso en Sant Francesc,Sant Francesc ,Ciutat Vella,155,3,2,None,395.000
+Piso en Arrancapins,Arrancapins ,Extramurs,150,4,2,None,320.000
+"Piso en calle de Juan Verdeguer, 36",El Grau ,Poblats Marítims,84,2,1,Obra nueva,226.000

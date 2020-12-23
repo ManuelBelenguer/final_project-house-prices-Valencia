@@ -1,0 +1,31 @@
+address,district,neighbourhood,sqft_surface,bedrooms,bathrooms,new_construction,price
+Piso en calle de Zapadores,Montolivet ,Quatre Carreres,68,3,1,None,88.500
+"Piso en Avinguda de Campanar, cerca de Calle de Conchita Piquer",El Calvari ,Campanar,78,3,1,None,125.000
+Piso en calle del Maestro Asensi,Nou Moles ,L'Olivereta,81,2,1,None,75.000
+Piso en calle del Erudito Pages,Torrefiel ,Rascanya,85,3,1,None,55.000
+"Piso en calle de la Democracia, cerca de Passeig de la Petxina",Nou Moles ,L'Olivereta,92,4,1,None,125.000
+Piso en Torrefiel,Torrefiel ,Rascanya,115,4,2,None,116.000
+Apartamento en El Perellonet,El Perellonet ,Pobles del Sud,50,1,1,None,66.000
+Piso en Nou Moles,Patraix ,Patraix,87,4,1,None,98.000
+Piso en Torrefiel,Torrefiel ,Rascanya,54,2,1,None,100.000
+"Piso en Carrer de San Vicente Mártir, 186, cerca de Calle de Roig de Corella",Arrancapins ,Extramurs,93,3,2,None,120.000
+Piso en Carrer del Vaixell,El Grau ,Poblats Marítims,112,4,2,None,120.000
+Piso en calle Virgen de La Zabeza,Tres Forques ,L'Olivereta,115,2,2,None,104.900
+Piso en Carrer de l'Escultor Piquer,Torrefiel ,Rascanya,96,3,1,None,68.000
+Piso en Carrer de l'Escultor Piquer,Torrefiel ,Rascanya,83,3,1,None,88.500
+Piso en Avinguda del Doctor Ruiz y Comes,El Castellar-L'Oliveral ,Pobles del Sud,97,3,2,None,88.000
+Piso en Ciutat Fallera,Ciutat Fallera ,Benicalap,73,3,1,None,53.000
+"Piso en calle del Reverendo José Noguera, nº 37",Sant Marcel·lí ,Jesús,92,3,2,None,125.000
+Apartamento en El Perellonet,El Saler ,Pobles del Sud,53,1,1,None,93.000
+Piso en Valencia,Orriols ,Rascanya,90,3,1,None,43.200
+Piso en calle Pedro Patricio Mey,Torrefiel ,Rascanya,65,3,1,None,67.000
+Piso en Plaza Gloria Fuertes,Orriols ,Rascanya,92,3,2,None,119.000
+Piso en Valencia,Natzaret ,Poblats Marítims,80,2,1,None,36.000
+Piso en calle de Archena,Sant Pau ,Campanar,53,2,1,None,99.000
+Piso en Valencia,La Torre ,Pobles del Sud,50,3,1,None,54.600
+Piso en Benimàmet,Benimàmet ,Pobles de l'Oest,75,3,1,None,45.000
+Piso en Torrefiel,Torrefiel ,Rascanya,95,3,1,None,103.000
+Piso en Sant Marcel·Lí,Sant Marcel·lí ,Jesús,91,3,2,None,125.000
+"Piso en calle de la Barraca, cerca de Calle del Padre Luis Navarro",El Cabanyal-El Canyamelar ,Poblats Marítims,64,2,1,None,130.000
+Piso en Valencia,Sant Francesc ,Ciutat Vella,139,4,1,None,96.200
+Piso en Carrer Lorca,Nou Moles ,L'Olivereta,95,2,1,None,94.000

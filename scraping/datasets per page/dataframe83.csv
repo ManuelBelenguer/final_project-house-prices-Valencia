@@ -1,0 +1,32 @@
+address,district,neighbourhood,sqft_surface,bedrooms,bathrooms,new_construction,price
+Piso en La Seu,La Seu ,Ciutat Vella,83,3,1,None,130.000
+Piso en Benicalap,Benicalap ,Benicalap,91,4,2,None,134.000
+Piso en Beteró,Beteró ,Poblats Marítims,110,3,2,None,198.000
+Piso en Avenida del Primat Reig,Orriols ,Rascanya,102,3,2,None,180.000
+Piso en La Fonteta,Ciutat de les Arts i de les Ciències ,Quatre Carreres,110,3,2,None,144.900
+Piso en calle del Padre Ferris,Marxalenes ,La Saïdia,100,3,2,None,135.000
+Piso en Sant Pau,Sant Pau ,Campanar,123,4,1,None,180.000
+Piso en Montolivet,Montolivet ,Quatre Carreres,75,2,1,None,220.000
+Apartamento en Carrer de Sueca,Russafa ,L'Eixample,108,3,3,None,230.000
+"Piso en calle del Doctor Lluch, cerca de Calle de la Reina",Beteró ,Poblats Marítims,85,2,1,None,179.000
+Piso en Plaza del Grup Parpalló,Sant Pau ,Campanar,101,3,2,None,175.000
+Piso en calle Rodriguez de Pertegaz,Gran Via ,L'Eixample,104,3,1,None,130.000
+Apartamento en Ciutat Vella,El Carme ,Ciutat Vella,70,1,1,None,175.000
+Piso en calle de Francisco Moreno Usedo,Nou Moles ,L'Olivereta,None,2,Obra nueva,Obra nueva,183.750
+Piso en Carrer de José Soto Micó,Favara ,Patraix,130,4,2,None,120.000
+Piso en El Cabanyal-El Canyamelar,El Cabanyal-El Canyamelar ,Poblats Marítims,100,2,1,None,195.000
+Piso en San Marcelino,Sant Marcel·lí ,Jesús,98,2,2,None,129.000
+"Casa en Carrer de Pedro Cabanes, nº 25",Torrefiel ,Rascanya,None,1,"689
+ €/m²",None,120.000
+Piso en Na Rovella,Na Rovella ,Quatre Carreres,96,3,2,None,139.000
+Piso en calle de Sarrión,Morvedre ,La Saïdia,102,3,1,None,135.000
+Estudio en calle,Russafa ,L'Eixample,53,2,Sótano,None,176.000
+Piso en Plaza del Poeta Vicente Gaos,La Bega Baixa ,Algirós,51,1,1,None,132.500
+Piso en Malilla,Malilla ,Quatre Carreres,100,3,1,None,138.000
+"Piso en Carrer de San Vicente Mártir, cerca de Carrer de Rumbau",El Mercat ,Ciutat Vella,44,1,1,None,180.200
+"Piso en calle Ramón de Rocafull, cerca de Calle del Conde de Oliva",El Cabanyal-El Canyamelar ,Poblats Marítims,60,1,1,None,195.000
+"Apartamento en calle de Cuenca, cerca de Calle del Marqués de Zenete",Arrancapins ,Extramurs,90,2,2,None,215.000
+Apartamento en Carrer de Caravaca,Mestalla ,El Pla del Real,137,4,2,None,205.000
+Apartamento en calle de Molinell,Trinitat ,La Saïdia,95,2,1,None,165.000
+Piso en El Cabanyal-El Canyamelar,El Cabanyal-El Canyamelar ,Poblats Marítims,106,3,1,None,129.000
+Piso en Morvedre,Morvedre ,La Saïdia,75,2,2,None,139.000

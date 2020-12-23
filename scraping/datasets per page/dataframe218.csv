@@ -1,0 +1,31 @@
+address,district,neighbourhood,sqft_surface,bedrooms,bathrooms,new_construction,price
+"Piso en calle del Azagador de Alboraya, nº 5",Sant Llorenç ,Rascanya,145,6,6,None,275.000
+Apartamento en Patraix,Tres Forques ,L'Olivereta,113,4,2,None,225.000
+Piso en El Mercat,El Mercat ,Ciutat Vella,185,4,2,None,400.000
+Piso en Gran Via,Gran Via ,L'Eixample,130,3,2,None,445.000
+Chalet en calle Carrer de Vicent Lleó,En Corts ,Quatre Carreres,140,3,2,None,395.000
+Piso en Avenida de los Hermanos Maristas,Ciutat de les Arts i de les Ciències ,Quatre Carreres,120,3,2,None,325.000
+Piso en calle de Cuenca Tramoyeres,Benimaclet ,Benimaclet,123,4,1,None,210.000
+Piso en Arrancapins,Arrancapins ,Extramurs,75,2,1,None,225.000
+Piso en Avinguda de Sant Josep de la Muntanya,La Petxina ,Extramurs,143,4,2,None,240.000
+Chalet en El Palmar,El Palmar ,Pobles del Sud,3,4,4,None,500.000
+Apartamento en Avenida Blasco Ibáñez,El Cabanyal-El Canyamelar ,Poblats Marítims,122,3,2,None,249.800
+Piso en calle del Buen Orden,Arrancapins ,Extramurs,220,5,3,None,330.000
+Piso en Sant Francesc,Sant Francesc ,Ciutat Vella,161,5,3,None,470.000
+Piso en Arrancapins,Arrancapins ,Extramurs,179,4,3,None,390.000
+Piso en El Grau,El Grau ,Poblats Marítims,101,4,2,None,325.000
+Piso en calle Eduardo Busca,Gran Via ,L'Eixample,121,2,2,None,425.000
+Piso en El Pla del Remei,El Pla del Remei ,L'Eixample,145,4,2,None,450.000
+Piso en Campanar,Campanar ,Campanar,110,3,2,None,420.000
+Piso en El Pla del Remei,El Pla del Remei ,L'Eixample,77,2,1,None,370.000
+Piso en Arrancapins,Arrancapins ,Extramurs,90,2,1,None,220.000
+Piso en calle calle de Jaime Roig,Jaume Roig ,El Pla del Real,299,5,2,None,465.000
+Dúplex en Alfahuir,Sant Llorenç ,Rascanya,89,2,1,None,222.000
+Piso en El Carme,El Carme ,Ciutat Vella,77,2,1,None,250.000
+Piso en Russafa,Russafa ,L'Eixample,71,2,1,None,220.000
+Piso en calle de Maestro Clavé,Sant Francesc ,Ciutat Vella,90,2,1,None,330.000
+"Piso en Carrer de Vicente Raga, nº 3",Penya-roja ,Camins al Grau,159,3,3,None,370.000
+Piso en Patraix,Patraix ,Patraix,100,2,3,None,270.000
+Piso en Passeig de l'Albereda,Penya-roja ,Camins al Grau,122,3,2,None,340.000
+Piso en La Xerea,La Xerea ,Ciutat Vella,110,3,2,None,440.000
+"Apartamento en calle del Botánico, nº 7",El Botànic ,Extramurs,131,3,2,None,263.000

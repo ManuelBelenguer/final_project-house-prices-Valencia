@@ -1,0 +1,31 @@
+address,district,neighbourhood,sqft_surface,bedrooms,bathrooms,new_construction,price
+"Dúplex en calle de Giménez y Costa, cerca de Calle del Pico Calderón",La Torre ,Pobles del Sud,123,3,2,None,124.500
+"Piso en calle de Menorca, cerca de Avinguda de les Balears",La Creu del Grau ,Camins al Grau,68,2,1,None,90.000
+Piso en Carrer del Picaio,Sant Francesc ,Ciutat Vella,73,3,1,None,75.000
+"Piso en Carrer de San Vicente Mártir, cerca de Carrer del Doctor Gil i Morte",Sant Francesc ,Ciutat Vella,109,3,1,None,115.000
+Apartamento en Poblats Marítims,El Cabanyal-El Canyamelar ,Poblats Marítims,65,3,1,None,85.000
+"Apartamento en calle de la Escotilla, nº 10",El Perellonet ,Pobles del Sud,74,3,2,None,76.000
+"Piso en calle de Vicente Brull, cerca de Calle del Maestro de Obras Francisco Baldomar",El Grau ,Poblats Marítims,61,2,1,None,90.000
+"Piso en Carrer de la República Argentina, 5",L'Amistat ,Algirós,65,3,2,None,105.000
+"Piso en calle del Padre Viñas, cerca de Carrer de Sant Joan Bosco",Orriols ,Rascanya,75,2,1,None,59.900
+Piso en Gran Vía,València Capital,None,70,1,2,None,120.000
+Piso en calle de Mosén Fenollar,Patraix ,Patraix,91,3,1,None,99.000
+Piso en calle de Felipe Rinaldi,Torrefiel ,Rascanya,85,3,1,None,65.000
+Piso en Benicalap,Benicalap ,Benicalap,107,3,1,None,75.000
+"Apartamento en calle del Castillo de Cullera, 7",Faitanar ,Pobles del Sud,86,4,1,None,56.600
+Piso en Tormos,Tormos ,La Saïdia,68,2,1,None,63.000
+Piso en Benimaclet,Benimaclet ,Benimaclet,64,3,1,None,130.000
+Piso en El Perellonet,El Perellonet ,Pobles del Sud,80,2,1,None,122.000
+"Apartamento en calle Ramón de Rocafull, cerca de Calle del Conde de Melito",El Cabanyal-El Canyamelar ,Poblats Marítims,64,3,1,None,79.000
+Piso en calle de Ángel Villena,Na Rovella ,Quatre Carreres,105,3,2,None,129.000
+Piso en calle del Médico Esteve,La Raiosa ,Jesús,89,3,1,None,109.500
+Piso en Sant Marcel·lí,Sant Marcel·lí ,Jesús,91,4,1,None,115.000
+Piso en Pasaje de Suay,Torrefiel ,Rascanya,61,3,1,None,49.900
+Piso en Carrer del General Llorens,Benicalap ,Benicalap,58,2,1,None,69.000
+Piso en calle del Micer Rabasa,La Raiosa ,Jesús,88,1,1,Obra nueva,129.900
+"Piso en calle del Doctor Nicasio Benlloch, cerca de Calle de Benicadell",Campanar ,Campanar,75,3,1,None,86.000
+Piso en calle de Carrícola,L'Hort de Senabre ,Jesús,65,2,1,None,65.000
+Piso en * A--1 Minuto Metro Av. CID **,Tres Forques ,L'Olivereta,90,3,1,None,88.000
+"Piso en calle de Santander, nº 31",L'Hort de Senabre ,Jesús,67,2,1,None,118.000
+Piso en Carrer de Domingo Gómez,Torrefiel ,Rascanya,100,3,1,None,98.000
+Piso en calle del Duque de Gaeta,Aiora ,Camins al Grau,65,2,1,None,85.500

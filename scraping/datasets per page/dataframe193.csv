@@ -1,0 +1,31 @@
+address,district,neighbourhood,sqft_surface,bedrooms,bathrooms,new_construction,price
+"Ático en calle del Arquitecto Monleón,  9",La Creu Coberta ,Jesús,108,1,2,Obra nueva,220.000
+Piso en La Roqueta,La Roqueta ,Extramurs,67,2,1,None,270.000
+Piso en Carrer de Bretón de los Herreros,La Xerea ,Ciutat Vella,136,2,3,None,360.000
+Piso en Ciutat Jardí,Ciutat Jardí ,Algirós,154,4,2,None,295.000
+Piso en Arrancapins,Arrancapins ,Extramurs,204,5,2,None,450.000
+Piso en El Pla del Remei,El Pla del Remei ,L'Eixample,75,2,2,None,350.000
+Piso en Mestalla,Mestalla ,El Pla del Real,82,3,1,None,290.000
+Piso en Gran Via,Gran Via ,L'Eixample,98,2,1,None,310.000
+Piso en Russafa,Russafa ,L'Eixample,157,3,2,None,295.000
+Piso en La Bega Baixa,La Bega Baixa ,Algirós,136,4,2,None,210.000
+"Piso en Avinguda del Regne de València, cerca de Gran Vía del Marqués del Turia",Gran Via ,L'Eixample,86,3,2,None,355.000
+Piso en calle de José María Haro,L'Illa Perduda ,Algirós,105,4,2,None,210.000
+Piso en Primado Reig - calle Alboraya,Ciutat Universitària ,El Pla del Real,114,3,2,None,315.000
+Piso en Avenida de Eduardo Boscá,Penya-roja ,Camins al Grau,143,3,2,None,285.000
+"Piso en calle de Vidal de Blanes, 6",La Creu del Grau ,Camins al Grau,85,3,2,None,275.000
+Ático en Sant Francesc,Sant Francesc ,Ciutat Vella,60,2,1,None,260.000
+Piso en Centro - Plaza Ayuntamiento,Sant Francesc ,Ciutat Vella,116,3,2,None,450.000
+"Piso en calle del Maestro Gozalbo, 13",Russafa ,L'Eixample,72,3,1,None,280.000
+"Piso en Avinguda del Regne de València, cerca de Gran Vía del Marqués del Turia",El Pla del Remei ,L'Eixample,171,4,3,None,450.000
+Piso en Russafa,Russafa ,L'Eixample,130,2,2,None,365.000
+"Piso en Avinguda del Cardenal Benlloch, cerca de Avenida de Vicente Blasco Ibáñez",Ciutat Universitària ,El Pla del Real,127,4,2,None,325.000
+Piso en Gran Via,Gran Via ,L'Eixample,120,5,2,None,325.000
+Piso en calle de Pedro Aleixandre,Montolivet ,Quatre Carreres,87,3,2,None,265.000
+Piso en La Raiosa,La Raiosa ,Jesús,143,3,2,None,280.000
+Piso en Ciutat Jardí,Ciutat Jardí ,Algirós,115,3,2,None,240.000
+Piso en Arrancapins,Arrancapins ,Extramurs,88,2,1,None,210.000
+Piso en Arrancapins,Arrancapins ,Extramurs,164,4,2,None,350.000
+Piso en Arrancapins,Arrancapins ,Extramurs,204,5,2,None,430.000
+"Piso en Avenida del Puerto, cerca de Calle del Arquitecto Alfaro",El Grau ,Poblats Marítims,121,4,2,None,250.000
+Piso en La Bega Baixa,La Bega Baixa ,Algirós,178,6,2,None,350.000

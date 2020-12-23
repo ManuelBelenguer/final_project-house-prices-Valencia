@@ -1,0 +1,34 @@
+address,district,neighbourhood,sqft_surface,bedrooms,bathrooms,new_construction,price
+Piso en Sant Pau,Sant Pau ,Campanar,127,3,2,None,350.000
+Ático en Arrancapins,Arrancapins ,Extramurs,120,3,1,None,285.000
+Piso en Arrancapins,Arrancapins ,Extramurs,107,3,2,None,267.000
+Piso en CIutat de les Arts I de les CIèncIes,Ciutat de les Arts i de les Ciències ,Quatre Carreres,123,3,2,None,309.600
+"Piso en Avinguda Alcalde Gisbert Rico,  s/n",Ciutat de les Arts i de les Ciències ,Quatre Carreres,132,3,2,Obra nueva,285.000
+Ático en calle de Lorenzo Saiz,Benimàmet ,Pobles de l'Oest,190,3,2,None,257.000
+Piso en El Botànic,El Botànic ,Extramurs,95,3,2,None,249.500
+Piso en El Mercat,El Mercat ,Ciutat Vella,93,"2.602
+ €/m²","2.602
+ €/m²",None,242.000
+Piso en La Seu,La Seu ,Ciutat Vella,93,3,2,None,310.000
+Ático en Carrer de Sant Francesc de Borja,Arrancapins ,Extramurs,136,6,2,None,391.000
+Piso en Ciutat Universitària,Ciutat Universitària ,El Pla del Real,140,3,2,None,295.000
+Ático en La Raiosa,La Raiosa ,Jesús,93,3,2,None,260.000
+Piso en Albors,Albors ,Camins al Grau,130,3,1,None,250.000
+Ático en La Raiosa,La Raiosa ,Jesús,93,3,2,None,260.000
+Piso en Russafa,Russafa ,L'Eixample,None,2,"2.979
+ €/m²",None,295.000
+Piso en Benicalap,Benicalap ,Benicalap,128,4,2,None,240.000
+Piso en Arrancapins,Arrancapins ,Extramurs,100,3,2,None,250.000
+Piso en Ciutat Universitària,Ciutat Universitària ,El Pla del Real,97,3,2,None,246.000
+Piso en Carrer de la Safor,Sant Pau ,Campanar,189,4,2,None,395.000
+"Piso en calle del Maestro Aguilar, 27",Russafa ,L'Eixample,125,3,2,None,285.000
+"Piso en Carrer de Llevant,  s/n",Benicalap ,Benicalap,134,4,2,Obra nueva,284.622
+"Piso en Avinguda Alcalde Gisbert Rico,  s/n",Ciutat de les Arts i de les Ciències ,Quatre Carreres,141,3,2,Obra nueva,317.000
+"Piso en calle de La Marina Alta, 6",Sant Pau ,Campanar,133,3,2,None,370.000
+Piso en Russafa,Russafa ,L'Eixample,130,3,2,None,440.000
+"Piso en Avinguda Alcalde Gisbert Rico,  s/n",Ciutat de les Arts i de les Ciències ,Quatre Carreres,141,3,2,Obra nueva,315.000
+Piso en calle de Alfred Torán Olmos,Penya-roja ,Camins al Grau,151,3,2,None,434.000
+Piso en Sant Francesc,Sant Francesc ,Ciutat Vella,185,8,2,None,400.000
+Piso en Campanar,Campanar ,Campanar,164,4,3,None,290.000
+Piso en El Botànic,El Botànic ,Extramurs,95,3,2,None,249.500
+Piso en Montolivet,Montolivet ,Quatre Carreres,93,3,1,None,225.000

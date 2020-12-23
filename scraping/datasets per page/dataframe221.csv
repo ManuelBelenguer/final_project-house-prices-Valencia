@@ -1,0 +1,32 @@
+address,district,neighbourhood,sqft_surface,bedrooms,bathrooms,new_construction,price
+"Ático en Avenida de Francia,  159",El Grau ,Poblats Marítims,74,2,1,Obra nueva,223.000
+Piso en Russafa,Russafa ,L'Eixample,116,4,2,None,295.000
+Piso en La Creu del Grau,La Creu del Grau ,Camins al Grau,139,4,2,None,425.000
+Piso en El Pla del Remei,El Pla del Remei ,L'Eixample,136,5,1,None,350.000
+Piso en Russafa,Russafa ,L'Eixample,110,3,2,None,343.428
+Piso en Ciutat Universitària,Ciutat Universitària ,El Pla del Real,115,2,1,None,215.000
+Casa adosada en Pobles del Sud - El Castellar I L'oliverar,El Castellar-L'Oliveral ,Pobles del Sud,235,3,2,None,215.000
+Piso en El Botànic,El Botànic ,Extramurs,91,3,2,None,259.000
+Piso en El Botànic,El Botànic ,Extramurs,111,4,1,None,210.000
+"Piso en Carrer de Cadis, cerca de Carrer de Dénia",Russafa ,L'Eixample,150,4,2,None,440.000
+Piso en La Seu,La Seu ,Ciutat Vella,103,3,2,None,310.000
+"Piso en Avenida de Ausiàs March, cerca de Calle de Na Rovella",Malilla ,Quatre Carreres,98,3,1,None,235.000
+"Piso en Carrer de Jaume Roig, nº 26",Jaume Roig ,El Pla del Real,123,6,3,None,465.000
+Dúplex en Jesús,Patraix ,Patraix,140,4,2,None,250.000
+Piso en L'eixample - Russafa,Russafa ,L'Eixample,70,2,1,None,210.000
+Piso en El Mercat,El Mercat ,Ciutat Vella,265,6,2,None,473.000
+Piso en Ciutat de Les Arts I de Les Ciències,Ciutat de les Arts i de les Ciències ,Quatre Carreres,127,3,2,None,315.000
+Ático en Russafa,Russafa ,L'Eixample,97,2,1,None,450.000
+Piso en El Pilar,El Pilar ,Ciutat Vella,126,4,2,None,450.000
+Ático en El Mercat,El Mercat ,Ciutat Vella,136,6,2,None,325.000
+Piso en Penya-roja,Penya-roja ,Camins al Grau,140,3,2,None,404.000
+"Piso en calle de Antonio Ponz, cerca de Carrer de Cavite",La Malva-rosa ,Poblats Marítims,157,5,2,None,275.000
+Piso en Ciutat Jardí,Ciutat Jardí ,Algirós,117,2,2,None,285.000
+Casa en Benimàmet,Benimàmet ,Pobles de l'Oest,398,4,1,None,330.000
+"Piso en Avinguda de Peris y Valero, cerca de Carrer de Sueca",Russafa ,L'Eixample,125,4,2,None,280.000
+Piso en Ciutat Universitària,Ciutat Universitària ,El Pla del Real,97,4,2,None,330.000
+Casa en El Cabanyal-El Canyamelar,El Cabanyal-El Canyamelar ,Poblats Marítims,264,4,4,None,450.000
+"Piso en Avenida de Vicente Blasco Ibáñez, cerca de Calle de José María Haro",Beteró ,Poblats Marítims,None,2,"2.905
+ €/m²",None,340.000
+Piso en Ruzafa,Russafa ,L'Eixample,153,6,5ª planta,None,245.000
+Piso en Sant Francesc,Sant Francesc ,Ciutat Vella,126,3,1,None,235.000

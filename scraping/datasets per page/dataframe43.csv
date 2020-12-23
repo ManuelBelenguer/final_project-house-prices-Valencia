@@ -1,0 +1,31 @@
+address,district,neighbourhood,sqft_surface,bedrooms,bathrooms,new_construction,price
+Piso en La Zaidia,Sant Antoni ,La Saïdia,77,3,1,None,110.000
+Piso en Torrefiel,Torrefiel ,Rascanya,58,3,1,None,62.000
+Piso en Orriols,Orriols ,Rascanya,76,3,1,None,73.500
+Apartamento en Plaça de Ramon Contreras I Mongrell,Sant Antoni ,La Saïdia,80,3,1,None,83.700
+"Piso en calle L,,Agro, nº 10",Sant Francesc ,Ciutat Vella,79,3,1,None,110.500
+Piso en calle de Bernat Descoll,Malilla ,Quatre Carreres,87,3,2,None,130.000
+"Piso en calle de Turís, nº 7",Sant Francesc ,Ciutat Vella,104,3,1,None,89.500
+Piso en Torrefiel,Torrefiel ,Rascanya,115,3,2,None,104.000
+Piso en calle Carrer de Pere Cabanes,Torrefiel ,Rascanya,55,3,1,None,60.000
+"Piso en Carrer del General Llorens, nº 5",Benicalap ,Benicalap,68,2,1,None,85.500
+Piso en Benicalap,Benicalap ,Benicalap,95,2,1,None,85.000
+Piso en La Raiosa,La Raiosa ,Jesús,79,3,1,None,83.000
+Piso en Carrer de l'Escultor Piquer,Orriols ,Rascanya,91,4,2,None,60.000
+"Piso en calle del Marino Albesa, 39",Aiora ,Camins al Grau,51,1,1,None,125.000
+Piso en La Zaidia,Morvedre ,La Saïdia,81,3,1,None,115.500
+Piso en Sant Antoni,Sant Antoni ,La Saïdia,100,3,1,None,87.000
+Piso en Orriols,Orriols ,Rascanya,59,2,1,None,55.000
+Piso en Sant Isidre,Sant Isidre ,Patraix,98,3,2,None,105.000
+Piso en Benicalap,Benicalap ,Benicalap,85,3,1,None,74.900
+Piso en calle Ep Barraques de Llacer,Faitanar ,Pobles del Sud,84,2,1,None,122.100
+"Piso en Carrera de la Fonteta de Sant Lluís, cerca de Avinguda del Doctor Waksman",En Corts ,Quatre Carreres,73,3,1,None,95.000
+"Piso en Carrer del Pintor Orrente, nº 23",Benimàmet ,Pobles de l'Oest,92,4,1,None,70.000
+Piso en San Isidro,Sant Isidre ,Patraix,117,4,2,None,114.500
+Piso en Benicalap,Benicalap ,Benicalap,80,3,1,None,80.500
+Piso en Torrefiel,Torrefiel ,Rascanya,65,3,1,None,52.000
+Apartamento en Mercado Central,El Mercat ,Ciutat Vella,30,1,1,None,113.000
+Piso en Favara,Favara ,Patraix,60,3,1,None,80.000
+Piso en Marxalenes,Tormos ,La Saïdia,66,2,1,None,70.500
+Piso en calle del Alcalde Albors,Nou Moles ,L'Olivereta,88,3,1,None,90.000
+Piso en Na Rovella,Na Rovella ,Quatre Carreres,70,2,1,None,110.000

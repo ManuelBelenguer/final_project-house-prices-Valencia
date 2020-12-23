@@ -1,0 +1,33 @@
+address,district,neighbourhood,sqft_surface,bedrooms,bathrooms,new_construction,price
+"Piso en calle de La Puebla del Duc, nº 13",Sant Antoni ,La Saïdia,72,3,1,None,102.000
+Piso en Valencia,La Raiosa ,Jesús,80,3,1,None,72.200
+Piso en Na Rovella,Na Rovella ,Quatre Carreres,82,3,1,None,122.000
+Piso en Beteró,Beteró ,Poblats Marítims,86,3,1,None,89.900
+Piso en Valencia,Faitanar ,Pobles del Sud,86,4,1,None,56.600
+Piso en Valencia,Benimàmet ,Pobles de l'Oest,52,3,1,None,69.300
+Estudio en València,Fonteta de Sant Lluís ,Quatre Carreres,55,1,1,None,130.000
+Piso en Beteró,Beteró ,Poblats Marítims,74,2,1,None,120.000
+Piso en Els Orriols,Orriols ,Rascanya,82,3,1,None,87.000
+"Piso en calle del Pintor Maella, nº 9",La Creu del Grau ,Camins al Grau,68,3,1,None,109.000
+Piso en Aiora,Aiora ,Camins al Grau,85,3,1,None,124.900
+Piso en Nou Moles,Nou Moles ,L'Olivereta,93,4,1,None,110.000
+Piso en calle del Retor,Montolivet ,Quatre Carreres,77,3,1,None,75.000
+Apartamento en calle de la Sierra de Agullent,Ciutat Fallera ,Benicalap,83,3,1,None,70.000
+Piso en Sant Isidre,Sant Isidre ,Patraix,91,3,1,None,100.110
+Piso en calle del Poeta Navarro Cabanes,Nou Moles ,L'Olivereta,65,2,1,None,63.000
+Piso en Trinitat,Trinitat ,La Saïdia,78,3,1,None,129.000
+"Piso en calle Ramón de Rocafull, cerca de Carrer del Marquès de Guadalest",El Cabanyal-El Canyamelar ,Poblats Marítims,64,3,1,None,85.000
+Piso en Carrer d'Albocàsser,Benimaclet ,Benimaclet,69,3,1,None,124.000
+Piso en València,Beteró ,Poblats Marítims,87,3,1,None,97.000
+Piso en *** Junto Al Puerto y Avda. del Puerto ***,El Grau ,Poblats Marítims,73,3,1,None,130.000
+"Piso en Carrer de Mendoza, 8",La Seu ,Ciutat Vella,37,1,1,None,90.000
+Apartamento en Lolivereta,Nou Moles ,L'Olivereta,69,3,1,None,120.000
+Piso en Carrer de la República Argentina,L'Amistat ,Algirós,73,3,1,None,128.000
+Piso en calle de Senda Secanet,Benimàmet ,Pobles de l'Oest,90,2,2,None,105.000
+Piso en Valencia,Na Rovella ,Quatre Carreres,72,3,1,None,51.300
+"Piso en Avinguda del CID, cerca de Calle de los Jurados",Nou Moles ,L'Olivereta,98,3,2,None,118.900
+Piso en Nou Moles,Nou Moles ,L'Olivereta,96,1,2ª planta,None,115.000
+Piso en calle Escalnte,El Cabanyal-El Canyamelar ,Poblats Marítims,60,"1.383
+ €/m²","1.383
+ €/m²",None,83.000
+Piso en calle de la Gabarda,Benimàmet ,Pobles de l'Oest,67,3,1,None,55.390

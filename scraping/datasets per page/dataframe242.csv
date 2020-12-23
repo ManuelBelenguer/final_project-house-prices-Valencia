@@ -1,0 +1,31 @@
+address,district,neighbourhood,sqft_surface,bedrooms,bathrooms,new_construction,price
+Piso en Arrancapins,Arrancapins ,Extramurs,200,3,3,None,516.104
+Apartamento en El Saler,El Saler ,Pobles del Sud,83,2,1,None,210.000
+Chalet en Benimàmet,Benimàmet ,Pobles de l'Oest,229,4,3,None,400.000
+Piso en Montolivet,Montolivet ,Quatre Carreres,93,3,1,None,225.000
+Piso en Gran Via,Gran Via ,L'Eixample,155,7,2,None,399.800
+Casa en L'Hort de Senabre,L'Hort de Senabre ,Jesús,189,6,2,None,260.000
+Piso en El Botànic,El Botànic ,Extramurs,130,3,2,None,390.000
+Piso en La Raiosa,La Raiosa ,Jesús,140,4,2,None,240.000
+Piso en Nou Moles,Nou Moles ,L'Olivereta,120,4,2,None,256.500
+Piso en Aiora,Aiora ,Camins al Grau,102,5,2,None,250.000
+Piso en Nou Moles,Nou Moles ,L'Olivereta,120,4,2,None,256.500
+Piso en Valencia,Russafa ,L'Eixample,87,2,2,None,260.000
+Piso en CIutat de les Arts I de les CIèncIes,Ciutat de les Arts i de les Ciències ,Quatre Carreres,143,4,2,None,319.900
+Piso en Ciutat Universitària,Ciutat Universitària ,El Pla del Real,92,4,2,None,315.000
+Ático en El Cabanyal-El Canyamelar,El Cabanyal-El Canyamelar ,Poblats Marítims,140,5,2,None,244.000
+Piso en Valencia,El Pla del Remei ,L'Eixample,111,3,2,None,348.000
+Piso en Valencia,Gran Via ,L'Eixample,136,4,2,None,400.000
+Piso en Valencia,Arrancapins ,Extramurs,105,3,2,None,250.000
+Piso en Russafa,Russafa ,L'Eixample,139,4,2,None,385.000
+Piso en Mestalla,Mestalla ,El Pla del Real,115,3,2,None,365.000
+Piso en Russafa,Russafa ,L'Eixample,160,5,2,None,298.000
+Piso en Valencia,El Pilar ,Ciutat Vella,142,3,2,None,365.000
+Piso en Valencia,El Pilar ,Ciutat Vella,119,2,1,None,235.000
+"Piso en Avinguda Alcalde Gisbert Rico,  s/n",Ciutat de les Arts i de les Ciències ,Quatre Carreres,141,3,2,Obra nueva,317.000
+Piso en Aiora,Aiora ,Camins al Grau,136,4,2,None,229.000
+Piso en Campanar,Campanar ,Campanar,125,4,2,None,425.000
+Piso en Russafa,Russafa ,L'Eixample,130,3,2,None,440.000
+"Piso en calle de Crevillente, nº 20",Beteró ,Poblats Marítims,170,4,2,None,250.000
+"Piso en Plaza Monteolivete, nº 6",Montolivet ,Quatre Carreres,117,4,2,None,280.000
+Chalet en Benimàmet,Benimàmet ,Pobles de l'Oest,145,3,2,None,345.000

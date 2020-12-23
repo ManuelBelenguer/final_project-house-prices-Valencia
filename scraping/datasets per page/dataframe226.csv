@@ -1,0 +1,31 @@
+address,district,neighbourhood,sqft_surface,bedrooms,bathrooms,new_construction,price
+Piso en El Pla del Remei,El Pla del Remei ,L'Eixample,96,5,1,None,280.000
+Piso en Patraix,Patraix ,Patraix,91,3,2,None,230.000
+Piso en El Botànic,El Botànic ,Extramurs,140,3,3,None,328.000
+Piso en Arrancapins,Arrancapins ,Extramurs,90,2,2,None,218.000
+Piso en La Raiosa,La Raiosa ,Jesús,132,3,2,None,225.000
+Piso en El Pla del Remei,El Pla del Remei ,L'Eixample,77,2,1,None,370.000
+Piso en El Pla del Remei,El Pla del Remei ,L'Eixample,180,4,2,None,465.000
+Piso en Ciutat de Les Arts I de Les Ciències,Ciutat de les Arts i de les Ciències ,Quatre Carreres,123,3,2,None,430.000
+Piso en Patraix,Patraix ,Patraix,131,2,2,None,232.000
+"Casa adosada en Avenida de la Constitución, cerca de Carrer de Tabernes Blanques",Orriols ,Rascanya,415,7,2,None,370.000
+Piso en El Carme,El Carme ,Ciutat Vella,95,4,1,None,274.950
+Piso en El Carme,El Carme ,Ciutat Vella,124,2,1,None,295.000
+Piso en El Carme,El Carme ,Ciutat Vella,82,1,1,None,250.000
+Piso en El Mercat,El Mercat ,Ciutat Vella,118,2,2,None,380.000
+"Apartamento en Avinguda del CID, cerca de Carrer de los Hermanos Rivas",Nou Moles ,L'Olivereta,120,3,2,None,229.000
+Piso en La Creu Coberta,La Creu Coberta ,Jesús,125,4,2,None,230.000
+Piso en València,Benimaclet ,Benimaclet,140,4,2,None,269.000
+Piso en Carrer de la Guàrdia CIVIL,Benimaclet ,Benimaclet,105,4,2,None,300.000
+Piso en Ciutat Universitària,Ciutat Universitària ,El Pla del Real,90,4,2,None,330.000
+Casa en Castellar-Oliveral,El Castellar-L'Oliveral ,Pobles del Sud,258,3,1,None,285.000
+"Dúplex en Carrer de LuIs Merelo I Mas, nº 1",La Creu del Grau ,Camins al Grau,162,5,2,None,365.500
+Piso en Russafa,Russafa ,L'Eixample,116,4,1,None,250.000
+Casa en Orriols,Orriols ,Rascanya,130,5,3,None,320.000
+Piso en El Pla del Remei,El Pla del Remei ,L'Eixample,77,2,1,None,370.000
+Dúplex en Sant Llorenç,Sant Llorenç ,Rascanya,87,2,2,None,222.000
+Piso en Campanar,Campanar ,Campanar,178,4,3,None,290.000
+Piso en Campanar,Campanar ,Campanar,74,2,1,None,235.000
+Piso en Sant Pau,Sant Pau ,Campanar,115,3,2,None,350.000
+Piso en L'eixample - Russafa,Russafa ,L'Eixample,120,3,2,None,239.900
+Ático en Nou Campanar,Sant Pau ,Campanar,202,4,2,None,500.000

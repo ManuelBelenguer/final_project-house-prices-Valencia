@@ -1,0 +1,32 @@
+address,district,neighbourhood,sqft_surface,bedrooms,bathrooms,new_construction,price
+Piso en Arrancapins-Plaza Espaa,Arrancapins ,Extramurs,85,3,2,None,285.000
+Apartamento en Lolivereta,Patraix ,Patraix,146,3,2,None,250.000
+Piso en Gran Via,Gran Via ,L'Eixample,100,5,2,None,219.000
+Dúplex en La Raïosa - Jesus,La Raiosa ,Jesús,140,4,2,None,260.000
+Piso en calle Carrer de Sant Vicent Màrtir,Arrancapins ,Extramurs,73,3,1,None,220.000
+Apartamento en Extramurs,El Botànic ,Extramurs,110,3,2,None,250.000
+Piso en Campanar,Campanar ,Campanar,121,3,2,None,350.000
+Casa en Benimàmet,Benimàmet ,Pobles de l'Oest,302,3,2,None,300.000
+Piso en La Bega Baixa,La Carrasca ,Algirós,777,3,2,None,360.000
+Piso en Avenida de Aragón,Mestalla ,El Pla del Real,167,5,2,None,440.000
+Piso en Russafa,Russafa ,L'Eixample,175,3,3,None,495.000
+Piso en Sant Llorenç,Sant Francesc ,Ciutat Vella,91,2,2,None,310.000
+Piso en Plaza del Doctor Landete,Russafa ,L'Eixample,83,3,1,None,240.000
+Piso en El Carme,El Carme ,Ciutat Vella,115,2,2,None,310.000
+"Piso en Carrer Illes Canàries, cerca de Avenida del Puerto",Mestalla ,El Pla del Real,98,3,2,None,250.000
+Ático en El Carme,El Carme ,Ciutat Vella,124,3,2,None,320.000
+Piso en Ciutat Universitària,Ciutat Universitària ,El Pla del Real,118,2,2,None,385.000
+Piso en El Carme,El Carme ,Ciutat Vella,140,3,2,None,380.000
+Apartamento en Ciutat Vella,El Carme ,Ciutat Vella,95,4,1,None,274.950
+Piso en La Xerea,La Xerea ,Ciutat Vella,111,5,1,None,245.000
+Ático en Avenida de las Gaviotas,El Perellonet ,Pobles del Sud,113,2,2,None,250.000
+Piso en Beteró,Beteró ,Poblats Marítims,107,3,2,None,270.000
+"Piso en calle de Rodríguez de Cepeda, nº 23",El Castellar-L'Oliveral ,Pobles del Sud,None,1,"2.130
+ €/m²",None,245.000
+"Ático en calle del Arquitecto Monleón,  9",La Creu Coberta ,Jesús,108,1,2,Obra nueva,220.000
+"Piso en Avinguda del General Avilés, cerca de Calle de Tenor Lauri Volpi",Campanar ,Campanar,108,3,2,None,225.000
+Casa adosada en Carrer de Rocafort,Massarrojos ,Pobles del Nord,160,4,3,None,240.000
+Piso en Russafa,Russafa ,L'Eixample,100,3,2,None,250.000
+Piso en La Roqueta,La Roqueta ,Extramurs,150,3,2,None,360.000
+Piso en Sant Llorenç,Orriols ,Rascanya,142,4,2,None,365.000
+Piso en Avenida del Barón de Cárcer,El Mercat ,Ciutat Vella,153,4,2,None,290.000
